@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "1553329c3cdbd7aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c41b16cac67830d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian插件使用经验.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ed61ba11df9cd94",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2cd8b27bb0d571",
+        "type": "tabs",
+        "dimension": 36.95054945054945,
+        "children": [
+          {
+            "id": "e58077ec8f45a165",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "393732212189570c",
+        "type": "tabs",
+        "dimension": 27.472527472527467,
+        "children": [
+          {
+            "id": "ae1cccbbf75329aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35b63935123c6cb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ede93b22f723a4e",
+        "type": "tabs",
+        "dimension": 35.57692307692307,
+        "children": [
+          {
+            "id": "baef394a53310d2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "right": {
+    "id": "a470ba3a58289b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "956c4522eae32c0b",
+        "type": "tabs",
+        "dimension": 48.36734693877551,
+        "children": [
+          {
+            "id": "613d40733b3d1ed6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian插件使用经验.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "056ec32a8be876eb",
+        "type": "tabs",
+        "dimension": 51.63265306122449,
+        "children": [
+          {
+            "id": "ab87edd326cf0ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian插件使用经验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c41b16cac67830d",
+  "lastOpenFiles": [
+    "Obsidian插件使用经验.md",
+    "笔记与工作流.md",
+    "【已读】我的阅读工作流（2021版） - 少数派.md",
+    "【待整理】使用 Zettelkasten 笔记助力学习 - 少数派.md",
+    "TestBoard.md",
+    "Obsidian快捷键心得.md",
+    "Unity2D开发笔记.md",
+    "笔记工具的整理与思考.md",
+    "Some title maybe unreadable.md",
+    "YarleImportTest/notes/122 - Flash  灵感/世界观 - 冰天星.md"
+  ]
+}

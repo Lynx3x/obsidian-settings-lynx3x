@@ -1,0 +1,23 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "name": "Templater: Create new note from template",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "n"
+        }
+      ],
+      "icon": "create-new"
+    }
+  ],
+  "hiddenCommands": [
+    "Open command palette",
+    "Open quick switcher",
+    "Open Random Note from Search",
+    "Insert template"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "projects": {
+    "LongformTestFolder": {
+      "path": "LongformTestFolder",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
+    }
+  },
+  "selectedProject": "LongformTestFolder",
+  "selectedDraft": "Draft 1"
+}
