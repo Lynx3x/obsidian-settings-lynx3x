@@ -507,7 +507,7 @@ var seq = new type('tag:yaml.org,2002:seq', {
   construct: function (data) { return data !== null ? data : []; }
 });
 
-var map$3 = new type('tag:yaml.org,2002:map', {
+var map$4 = new type('tag:yaml.org,2002:map', {
   kind: 'mapping',
   construct: function (data) { return data !== null ? data : {}; }
 });
@@ -516,7 +516,7 @@ var failsafe = new schema({
   explicit: [
     str,
     seq,
-    map$3
+    map$4
   ]
 });
 
@@ -3910,7 +3910,7 @@ var YAMLException       = exception;
 var types = {
   binary:    binary,
   float:     float,
-  map:       map$3,
+  map:       map$4,
   null:      _null,
   pairs:     pairs,
   set:       set,
@@ -18907,7 +18907,7 @@ var macr = "¯";
 var male = "♂";
 var malt = "✠";
 var maltese = "✠";
-var map$2 = "↦";
+var map$3 = "↦";
 var mapsto = "↦";
 var mapstodown = "↧";
 var mapstoleft = "↤";
@@ -21130,7 +21130,7 @@ var characterEntities = {
 	male: male,
 	malt: malt,
 	maltese: maltese,
-	map: map$2,
+	map: map$3,
 	mapsto: mapsto,
 	mapstodown: mapstodown,
 	mapstoleft: mapstoleft,
@@ -25880,19 +25880,19 @@ function factory(key, options) {
   return one
 }
 
-var blockquote_1 = blockquote$1;
+var blockquote_1$1 = blockquote$3;
 
 
 
 
-function blockquote$1(node, _, context) {
+function blockquote$3(node, _, context) {
   var exit = context.enter('blockquote');
-  var value = indentLines_1$1(containerFlow$1(node, context), map$1);
+  var value = indentLines_1$1(containerFlow$1(node, context), map$2);
   exit();
   return value
 }
 
-function map$1(line, index, blank) {
+function map$2(line, index, blank) {
   return '>' + (blank ? '' : ' ') + line
 }
 
@@ -25968,7 +25968,7 @@ function code$3(node, _, context) {
 
   if (formatCodeAsIndented_1$1(node, context)) {
     exit = context.enter('codeIndented');
-    value = indentLines_1$1(raw, map);
+    value = indentLines_1$1(raw, map$1);
   } else {
     sequence = repeatString(marker, Math.max(longestStreak_1(raw, marker) + 1, 3));
     exit = context.enter('codeFenced');
@@ -26009,7 +26009,7 @@ function code$3(node, _, context) {
   return value
 }
 
-function map(line, _, blank) {
+function map$1(line, _, blank) {
   return (blank ? '' : '    ') + line
 }
 
@@ -26569,7 +26569,7 @@ function thematicBreak$3(node, parent, context) {
   return context.options.ruleSpaces ? value.slice(0, -1) : value
 }
 
-var blockquote = blockquote_1;
+var blockquote$2 = blockquote_1$1;
 var _break$2 = _break$3;
 var code$2 = code_1$1;
 var definition$2 = definition_1$1;
@@ -26591,7 +26591,7 @@ var text$2 = text_1$1;
 var thematicBreak$2 = thematicBreak_1$1;
 
 var handle$1 = {
-	blockquote: blockquote,
+	blockquote: blockquote$2,
 	break: _break$2,
 	code: code$2,
 	definition: definition$2,
@@ -26886,6 +26886,97 @@ function configure(base, extension) {
   }
 
   return base
+}
+
+var containerFlow = flow;
+
+
+
+function flow(parent, context) {
+  var children = parent.children || [];
+  var results = [];
+  var index = -1;
+  var child;
+
+  while (++index < children.length) {
+    child = children[index];
+
+    results.push(
+      context.handle(child, parent, context, {before: '\n', after: '\n'})
+    );
+
+    if (index + 1 < children.length) {
+      results.push(between(child, children[index + 1]));
+    }
+  }
+
+  return results.join('')
+
+  function between(left, right) {
+    var index = -1;
+    var result;
+
+    while (++index < context.join.length) {
+      result = context.join[index](left, right, parent, context);
+
+      if (result === true || result === 1) {
+        break
+      }
+
+      if (typeof result === 'number') {
+        return repeatString('\n', 1 + Number(result))
+      }
+
+      if (result === false) {
+        // return '\n\n<!---->\n\n'
+        return '\n\n'
+      }
+    }
+
+    return '\n\n'
+  }
+}
+
+var indentLines_1 = indentLines;
+
+var eol = /\r?\n|\r/g;
+
+function indentLines(value, map) {
+  var result = [];
+  var start = 0;
+  var line = 0;
+  var match;
+
+  while ((match = eol.exec(value))) {
+    one(value.slice(start, match.index));
+    result.push(match[0]);
+    start = match.index + match[0].length;
+    line++;
+  }
+
+  one(value.slice(start));
+
+  return result.join('')
+
+  function one(value) {
+    result.push(map(value, line, !value));
+  }
+}
+
+var blockquote_1 = blockquote$1;
+
+
+
+
+function blockquote$1(node, _, context) {
+  var exit = context.enter('blockquote');
+  var value = indentLines_1(containerFlow(node, context), map);
+  exit();
+  return value
+}
+
+function map(line, index, blank) {
+  return '>' + (blank ? '' : ' ') + line
 }
 
 var patternInScope_1 = patternInScope;
@@ -27754,55 +27845,6 @@ function linkReferencePeek() {
   return '['
 }
 
-var containerFlow = flow;
-
-
-
-function flow(parent, context) {
-  var children = parent.children || [];
-  var results = [];
-  var index = -1;
-  var child;
-
-  while (++index < children.length) {
-    child = children[index];
-
-    results.push(
-      context.handle(child, parent, context, {before: '\n', after: '\n'})
-    );
-
-    if (index + 1 < children.length) {
-      results.push(between(child, children[index + 1]));
-    }
-  }
-
-  return results.join('')
-
-  function between(left, right) {
-    var index = -1;
-    var result;
-
-    while (++index < context.join.length) {
-      result = context.join[index](left, right, parent, context);
-
-      if (result === true || result === 1) {
-        break
-      }
-
-      if (typeof result === 'number') {
-        return repeatString('\n', 1 + Number(result))
-      }
-
-      if (result === false) {
-        // return '\n\n<!---->\n\n'
-        return '\n\n'
-      }
-    }
-
-    return '\n\n'
-  }
-}
-
 var list_1 = list$1;
 
 
@@ -27848,32 +27890,6 @@ function checkListItemIndent(context) {
   }
 
   return style
-}
-
-var indentLines_1 = indentLines;
-
-var eol = /\r?\n|\r/g;
-
-function indentLines(value, map) {
-  var result = [];
-  var start = 0;
-  var line = 0;
-  var match;
-
-  while ((match = eol.exec(value))) {
-    one(value.slice(start, match.index));
-    result.push(match[0]);
-    start = match.index + match[0].length;
-    line++;
-  }
-
-  one(value.slice(start));
-
-  return result.join('')
-
-  function one(value) {
-    result.push(map(value, line, !value));
-  }
 }
 
 var defaultListItem = listItem$1;
@@ -28058,6 +28074,7 @@ function thematicBreak$1(node, parent, context) {
   return context.options.ruleSpaces ? value.slice(0, -1) : value
 }
 
+var blockquote = blockquote_1;
 var _break = _break$1;
 var code = code_1;
 var definition = definition_1;
@@ -28079,6 +28096,7 @@ var text = text_1;
 var thematicBreak = thematicBreak_1;
 
 var handle = {
+	blockquote: blockquote,
 	break: _break,
 	code: code,
 	definition: definition,
@@ -28146,7 +28164,7 @@ var mdastUtilToMarkdownPatch = toMarkdown;
 
 var defaultUnsafe = [];
 
-function toMarkdown(tree, options) {
+function toMarkdown (tree, options) {
   var settings = options || {};
   var context = {
     enter: enter,
@@ -28175,7 +28193,7 @@ function toMarkdown(tree, options) {
     handlers: context.handlers
   });
 
-  result = context.handle(tree, null, context, {before: '\n', after: '\n'});
+  result = context.handle(tree, null, context, { before: '\n', after: '\n' });
 
   if (
     result &&
@@ -28187,25 +28205,25 @@ function toMarkdown(tree, options) {
 
   return result
 
-  function enter(name) {
+  function enter (name) {
     context.stack.push(name);
     return exit
 
-    function exit() {
+    function exit () {
       context.stack.pop();
     }
   }
 }
 
-function invalid(value) {
+function invalid (value) {
   throw new Error('Cannot handle value `' + value + '`, expected node')
 }
 
-function unknown(node) {
+function unknown (node) {
   throw new Error('Cannot handle unknown node `' + node.type + '`')
 }
 
-function joinDefinition(left, right) {
+function joinDefinition (left, right) {
   // No blank line between adjacent definitions.
   if (left.type === 'definition' && left.type === right.type) {
     return 0
@@ -28235,6 +28253,7 @@ function prettifier(content, userOptions, frontMatterData) {
             },
         ];
     }
+    //https://github.com/cristianvasquez/obsidian-prettify/issues/19
     stringifyOptions.handlers = {
         listItem: listItemWithTaskListItem
     };

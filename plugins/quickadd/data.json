@@ -33,7 +33,195 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "6a7ebbc7-7b40-4199-b4ca-e83002c998a8",
+      "name": "NewTmpl",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "{{YYYY-MM}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "21bf3db2-da70-4325-b2b8-105fffdaa22a",
+      "name": "Tutorial",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "397a29fc-9adc-4931-8c7c-6c455c9cc591",
+          "name": "Capture To Daily Note",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "daily_notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/QuickAddTmplTest.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{DATE:HH:mm}} {{VALUE}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# {{DATE:YYYY-MM-DD}}",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "922581c1-7b77-4675-b1f2-8e27cda66385",
+          "name": "CreateNote",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/TemplaterDemo.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "4d773339-edd7-4203-a7f4-9c88137a3709",
+      "name": "Add to Kanban Board",
+      "type": "Macro",
+      "command": true,
+      "macroId": "3a976e26-7417-4791-bb14-406805cfe84e"
     }
   ],
-  "macros": []
+  "macros": [
+    {
+      "name": "Add to Kanban Board",
+      "id": "3a976e26-7417-4791-bb14-406805cfe84e",
+      "commands": [
+        {
+          "name": "Create new item",
+          "type": "NestedChoice",
+          "id": "98cd7c02-3fe7-44d0-af85-7801ad0c7cab",
+          "choice": {
+            "id": "602c619e-f19e-4672-93ba-8f34b8c53227",
+            "name": "Create new item",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/QuickAddKanbanTest.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE:yyyy-MM}}/{{VALUE:title}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d076a127-f336-4c7d-9fd1-7e7c5c900aac",
+          "time": 100
+        },
+        {
+          "name": "Add item to board",
+          "type": "NestedChoice",
+          "id": "63dc91a8-92c0-41df-8d2c-b920e9230d1d",
+          "choice": {
+            "id": "0cbc8e77-3a59-4e0f-8e17-573b046bdf84",
+            "name": "Add item to board",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "pluginTestingFiles/TestBoard.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{VALUE:title}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## {{VALUE:Backlog,Future,TODO,In Progress,Done,NULL}}",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
 }

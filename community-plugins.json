@@ -1,10 +1,8 @@
 [
-  "obsidian-kanban",
   "obsidian-auto-link-title",
   "obsidian-pangu",
   "obsidian-electron-window-tweaker",
   "customizable-sidebar",
-  "obsidian-outliner",
   "remember-cursor-position",
   "tag-wrangler",
   "smart-random-note",
@@ -17,5 +15,6 @@
   "obsidian-auto-pair-chinese-symbol",
   "dataview",
   "obsidian-git",
-  "quickadd"
+  "quickadd",
+  "obsidian-kanban"
 ]

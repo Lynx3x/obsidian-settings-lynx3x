@@ -1,18 +1,6 @@
 {
   "metadata-keys": [
     {
-      "metadataKey": "title",
-      "label": "",
-      "shouldHideLabel": false,
-      "containsMarkdown": false
-    },
-    {
-      "metadataKey": "tags",
-      "label": "",
-      "shouldHideLabel": true,
-      "containsMarkdown": false
-    },
-    {
       "metadataKey": "kanban-image",
       "label": "",
       "shouldHideLabel": true,
@@ -23,6 +11,12 @@
       "label": "",
       "shouldHideLabel": true,
       "containsMarkdown": true
+    },
+    {
+      "metadataKey": "tags",
+      "label": "",
+      "shouldHideLabel": true,
+      "containsMarkdown": false
     }
   ],
   "show-checkboxes": false,
