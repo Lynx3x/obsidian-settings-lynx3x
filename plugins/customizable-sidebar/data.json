@@ -1,17 +1,9 @@
 {
   "sidebarCommands": [
     {
-      "id": "templater-obsidian:create-new-note-from-template",
-      "name": "Templater: Create new note from template",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Alt"
-          ],
-          "key": "n"
-        }
-      ],
-      "icon": "create-new"
+      "id": "quickadd:choice:4d773339-edd7-4203-a7f4-9c88137a3709",
+      "name": "QuickAdd: Add to Kanban Board",
+      "icon": "pencil"
     }
   ],
   "hiddenCommands": [

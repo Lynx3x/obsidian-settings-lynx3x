@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e3f3057d200569",
+        "id": "bd4cc21b4da05ee2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "pluginTestingFiles/TestBoard.md"
+            "file": "2021-06/Git常用命令.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#游戏/戴森球计划",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 281
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluginTestingFiles/TestBoard.md"
+                "file": "2021-06/Git常用命令.md"
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluginTestingFiles/TestBoard.md",
+                "file": "2021-06/Git常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +136,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253
+    "width": 253,
+    "collapsed": true
   },
-  "active": "d1e3f3057d200569",
+  "active": "bd4cc21b4da05ee2",
   "lastOpenFiles": [
-    "pluginTestingFiles/TestBoard.md",
-    "2022-01/戴森球计划游玩心得.md",
-    "2022-01/【草稿】努力、焦虑、延迟满足，多巴胺与内啡肽.md",
-    "2022-01/【待内化】新的一年我为什么不做语言学习计划了.md",
-    "2022-01/绘画培训课程推荐.md",
-    "templates/QuickAddKanbanTest.md",
-    "2022-01/test222.md",
-    "resources/Pasted image 20220121012712.png",
-    "2021-12/Obsidian之QuickAdd使用经验.md",
-    "jsTestFile2.md"
+    "2021-06/Git常用命令.md",
+    "2021-12/Git相关.md",
+    "2022-02/关于养蜂.md",
+    "2022-02/系统学习烹饪的书籍推荐.md",
+    "2022-02/【已整理】历史题材写作参考书.md",
+    "2022-02/语言学习通用经验.md",
+    "2022-02/【已整理】绘画书籍推荐 by 嘉炜.md",
+    "2022-02/看桀哥视频有感.md",
+    "2022-02/test.md",
+    "templates/测试模板.md"
   ]
 }
