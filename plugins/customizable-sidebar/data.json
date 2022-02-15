@@ -1,15 +1,18 @@
 {
   "sidebarCommands": [
     {
-      "id": "quickadd:choice:4d773339-edd7-4203-a7f4-9c88137a3709",
-      "name": "QuickAdd: Add to Kanban Board",
-      "icon": "pencil"
+      "id": "quickadd:choice:63616879-0eef-409d-bf0d-60e6d6834ac4",
+      "name": "QuickAdd: 添加新笔记",
+      "icon": "create-new"
     }
   ],
   "hiddenCommands": [
     "Open command palette",
     "Open quick switcher",
     "Open Random Note from Search",
-    "Insert template"
+    "Insert template",
+    "插入模板",
+    "打开命令面板",
+    "打开快速切换"
   ]
 }

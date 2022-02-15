@@ -137,6 +137,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "3a976e26-7417-4791-bb14-406805cfe84e"
+    },
+    {
+      "id": "63616879-0eef-409d-bf0d-60e6d6834ac4",
+      "name": "添加新笔记",
+      "type": "Macro",
+      "command": true,
+      "macroId": "a03314c4-2baa-4c23-85d9-eec622e86e28"
     }
   ],
   "macros": [
@@ -179,7 +186,7 @@
           "name": "Wait",
           "type": "Wait",
           "id": "d076a127-f336-4c7d-9fd1-7e7c5c900aac",
-          "time": 100
+          "time": 50
         },
         {
           "name": "Add item to board",
@@ -205,6 +212,89 @@
             "insertAfter": {
               "enabled": true,
               "after": "## {{VALUE:Backlog,Future,TODO,In Progress,Done,NULL}}",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "添加新笔记",
+      "id": "a03314c4-2baa-4c23-85d9-eec622e86e28",
+      "commands": [
+        {
+          "name": "根据模板新建文件",
+          "type": "NestedChoice",
+          "id": "4aed2774-84f8-4990-b2d4-fed308980945",
+          "choice": {
+            "id": "69742902-fda8-4b69-8d5d-58650c741c49",
+            "name": "根据模板新建文件",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/NewFileTemplate.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE:yyyy-MM}}/{{VALUE:title}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "1d08a55e-a7ef-4eb0-a236-08ce507cf059",
+          "time": 50
+        },
+        {
+          "name": "将新文件添加进通用看板",
+          "type": "NestedChoice",
+          "id": "c470a43d-870b-4879-acf0-7e24a4f9b668",
+          "choice": {
+            "id": "29c67e3d-f10e-479d-9368-c83a9624d0a9",
+            "name": "将新文件添加进通用看板",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "global/通用看板.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{VALUE:title}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## {{VALUE:待开始,进行中,不加入通用看板}}",
               "insertAtEnd": true,
               "createIfNotFound": false,
               "createIfNotFoundLocation": "top"

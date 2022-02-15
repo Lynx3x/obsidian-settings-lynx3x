@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4cc21b4da05ee2",
+        "id": "0c915a2e97e53883",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2021-06/Git常用命令.md",
-            "mode": "source",
-            "source": true
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "tag:#领域/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06/Git常用命令.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -121,14 +119,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06/Git常用命令.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -136,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
-  "active": "bd4cc21b4da05ee2",
+  "active": "0c915a2e97e53883",
   "lastOpenFiles": [
+    "global/通用看板.md",
+    "2021-12/笔记与工作流.md",
+    "pluginTestingFiles/TestBoard.md",
+    "2022-01/绘画培训课程推荐.md",
+    "2022-02/【待完成】关于OKR.md",
     "2021-06/Git常用命令.md",
-    "2021-12/Git相关.md",
-    "2022-02/关于养蜂.md",
-    "2022-02/系统学习烹饪的书籍推荐.md",
-    "2022-02/【已整理】历史题材写作参考书.md",
-    "2022-02/语言学习通用经验.md",
-    "2022-02/【已整理】绘画书籍推荐 by 嘉炜.md",
-    "2022-02/看桀哥视频有感.md",
-    "2022-02/test.md",
-    "templates/测试模板.md"
+    "2022-02/原神日记.md",
+    "2022-01/【待内化】新的一年我为什么不做语言学习计划了.md",
+    "2022-02/如何用Notion保持全年自律 by 老石.md",
+    "【待完成】关于OKR】.md"
   ]
 }
