@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/Obsidian主题相关.md",
+            "file": "2021-12/【草稿】工作流相关思考.md",
             "mode": "preview",
             "source": true
           }
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/Obsidian主题相关.md"
+                "file": "2021-12/【草稿】工作流相关思考.md"
               }
             }
           }
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/Obsidian主题相关.md",
+                "file": "2021-12/【草稿】工作流相关思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +140,15 @@
   },
   "active": "d1e7b6e51feb2e4b",
   "lastOpenFiles": [
-    "2022-02/Obsidian主题相关.md",
-    "2021-10/Obsidian插件使用经验.md",
+    "2021-12/【草稿】工作流相关思考.md",
     "global/通用看板.md",
+    "templates/## Update date.md",
+    "templates/NewFileTemplate.md",
+    "2021-06/Git常用命令.md",
     "pluginTestingFiles/TestBoard.md",
-    "pluginTestingFiles/daily_notes/2021-12-26.md",
-    "2021-05/笔记工具的整理与思考.md",
-    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
-    "2022-02/【已整理】绘画书籍推荐 by 嘉炜.md",
-    "2022-02/【已整理】不想学习做什么 by 学姐潇潇.md",
-    "2022-02/如何用Notion保持全年自律 by 老石.md"
+    "2022-01/【草稿】努力、焦虑、延迟满足，多巴胺与内啡肽.md",
+    "templates/TemplaterDemo.md",
+    "2021-12/笔记与工作流.md",
+    "2022-02/Obsidian主题相关.md"
   ]
 }
