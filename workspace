@@ -7,9 +7,11 @@
         "id": "0c915a2e97e53883",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "pluginTestingFiles/TestBoard.md"
+            "file": "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluginTestingFiles/TestBoard.md"
+                "file": "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md"
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluginTestingFiles/TestBoard.md",
+                "file": "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +140,7 @@
   },
   "active": "0c915a2e97e53883",
   "lastOpenFiles": [
+    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
     "pluginTestingFiles/TestBoard.md",
     "global/通用看板.md",
     "2022-02/【已整理】绘画书籍推荐 by 嘉炜.md",
@@ -146,7 +149,6 @@
     "2022-02/【待完成】关于OKR.md",
     "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
     "2022-02/关于心流.md",
-    "2021-12/笔记与工作流.md",
-    "2022-01/绘画培训课程推荐.md"
+    "2021-12/笔记与工作流.md"
   ]
 }
