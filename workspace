@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c915a2e97e53883",
+        "id": "d1e7b6e51feb2e4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05/笔记工具的整理与思考.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2021-05/笔记工具的整理与思考.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -121,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05/笔记工具的整理与思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +131,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "0c915a2e97e53883",
+  "active": "d1e7b6e51feb2e4b",
   "lastOpenFiles": [
-    "2021-05/笔记工具的整理与思考.md",
-    "global/通用看板.md",
-    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
     "pluginTestingFiles/TestBoard.md",
+    "global/通用看板.md",
+    "pluginTestingFiles/daily_notes/2021-12-26.md",
+    "2021-05/笔记工具的整理与思考.md",
+    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/人设 - 游鱼细石.md",
     "2022-02/【已整理】绘画书籍推荐 by 嘉炜.md",
     "2022-02/【已整理】不想学习做什么 by 学姐潇潇.md",
     "2022-02/如何用Notion保持全年自律 by 老石.md",
     "2022-02/【待完成】关于OKR.md",
-    "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
-    "2022-02/关于心流.md"
+    "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md"
   ]
 }
