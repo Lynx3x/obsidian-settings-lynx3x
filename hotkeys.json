@@ -76,5 +76,13 @@
       ],
       "key": "N"
     }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
