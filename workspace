@@ -7,11 +7,9 @@
         "id": "d1e7b6e51feb2e4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2021-10/Obsidian插件使用经验.md",
-            "mode": "source",
-            "source": true
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-10/Obsidian插件使用经验.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10/Obsidian插件使用经验.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +139,15 @@
   },
   "active": "d1e7b6e51feb2e4b",
   "lastOpenFiles": [
-    "2021-10/Obsidian插件使用经验.md",
     "global/通用看板.md",
+    "2021-06/缺氧游玩笔记.md",
+    "2021-10/Obsidian插件使用经验.md",
     "2022-02/【待完成】关于OKR.md",
     "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
     "2022-02/mindmapTest.md",
     "2021-11/Obsidian相关经验贴笔记.md",
     "2021-11/Obsidian感兴趣的贴子.md",
     "pluginTestingFiles/TestBoard.md",
-    "2021-12/【草稿】工作流相关思考.md",
-    "2021-06/Git常用命令.md"
+    "2021-12/【草稿】工作流相关思考.md"
   ]
 }
