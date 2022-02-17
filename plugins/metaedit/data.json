@@ -17,12 +17,7 @@
   },
   "KanbanHelper": {
     "enabled": false,
-    "boards": [
-      {
-        "property": "status",
-        "boardName": "通用看板"
-      }
-    ]
+    "boards": []
   },
   "UIElements": {
     "enabled": true
