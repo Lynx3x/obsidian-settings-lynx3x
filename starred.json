@@ -27,11 +27,6 @@
     },
     {
       "type": "file",
-      "title": "笔记与工作流",
-      "path": "2021-12/笔记与工作流.md"
-    },
-    {
-      "type": "file",
       "title": "Obsidian之QuickAdd使用经验",
       "path": "Obsidian之QuickAdd使用经验.md"
     },
@@ -39,11 +34,6 @@
       "type": "file",
       "title": "TestBoard",
       "path": "pluginTestingFiles/TestBoard.md"
-    },
-    {
-      "type": "file",
-      "title": "Git常用命令",
-      "path": "2021-06/Git常用命令.md"
     }
   ]
 }
