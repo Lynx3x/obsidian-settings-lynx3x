@@ -17,6 +17,12 @@
       "label": "",
       "shouldHideLabel": true,
       "containsMarkdown": false
+    },
+    {
+      "metadataKey": "优先级",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
     }
   ],
   "show-checkboxes": false,
