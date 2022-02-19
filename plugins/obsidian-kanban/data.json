@@ -1,6 +1,12 @@
 {
   "metadata-keys": [
     {
+      "metadataKey": "优先级",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
       "metadataKey": "kanban-image",
       "label": "",
       "shouldHideLabel": true,
@@ -17,12 +23,6 @@
       "label": "",
       "shouldHideLabel": true,
       "containsMarkdown": false
-    },
-    {
-      "metadataKey": "优先级",
-      "label": "",
-      "shouldHideLabel": false,
-      "containsMarkdown": false
     }
   ],
   "show-checkboxes": false,
@@ -30,6 +30,5 @@
   "show-relative-date": true,
   "show-archive-all": false,
   "hide-tags-in-title": false,
-  "hide-tags-display": false,
-  "lane-width": 290
+  "hide-tags-display": false
 }
