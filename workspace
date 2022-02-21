@@ -7,9 +7,11 @@
         "id": "63d9170b8587b3c2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-02/如何战术逛街.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#游戏/缺氧",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-02/如何战术逛街.md"
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-02/如何战术逛街.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +141,15 @@
   },
   "active": "63d9170b8587b3c2",
   "lastOpenFiles": [
+    "2022-02/如何战术逛街.md",
+    "2021-10/Obsidian插件使用经验.md",
     "global/通用看板.md",
+    "2021-12/笔记与工作流.md",
+    "2021-12/【草稿】工作流相关思考.md",
     "2021-06/缺氧游玩笔记.md",
     "2022-02/2022务必避雷的5种学习方法.md",
     "2022-02/test2.md",
     "pluginTestingFiles/TestBoard.md",
-    "2021-10/Obsidian插件使用经验.md",
-    "2022-02/【待精读】如何进入游戏公司.md",
-    "2022-02/关于心流.md",
-    "2022-01/【草稿】努力、焦虑、延迟满足，多巴胺与内啡肽.md",
-    "2021-12/【草稿】工作流相关思考.md"
+    "2022-02/【待精读】如何进入游戏公司.md"
   ]
 }
