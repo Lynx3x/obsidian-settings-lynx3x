@@ -7,11 +7,9 @@
         "id": "63d9170b8587b3c2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "preview",
-            "source": true
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +138,8 @@
   },
   "active": "63d9170b8587b3c2",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
     "global/通用看板.md",
+    "2022-02/日常锻炼整合.md",
     "templates/YYYY-MM-DD.md",
     "templates/## Update date.md",
     "2021-12/【草稿】工作流相关思考.md",
