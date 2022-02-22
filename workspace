@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "63d9170b8587b3c2",
+        "id": "39244d4d85c865dd",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-02/日常锻炼整合.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "年终",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +139,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "63d9170b8587b3c2",
+  "active": "39244d4d85c865dd",
   "lastOpenFiles": [
-    "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
+    "global/通用看板.md",
+    "2021-12/2021圣诞夜emo与年终总结.md",
+    "2021-12/【草稿】工作流相关思考.md",
     "templates/YYYY-MM-DD.md",
     "templates/## Update date.md",
-    "2021-12/【草稿】工作流相关思考.md",
     "2021-12/笔记与工作流.md",
     "2022-02/【待精读】如何进入游戏公司.md",
     "pluginTestingFiles/TestBoard.md",
-    "2022-02/如何战术逛街.md",
-    "2021-10/Obsidian插件使用经验.md"
+    "2022-02/如何战术逛街.md"
   ]
 }

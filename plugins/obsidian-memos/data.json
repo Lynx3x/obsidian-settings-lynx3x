@@ -1,10 +1,10 @@
 {
   "StartDate": "Sunday",
-  "InsertAfter": "# Journal",
+  "InsertAfter": "",
   "UserName": "Larynx",
   "ProcessEntriesBelow": "",
   "Language": "en",
-  "SaveMemoButtonLabel": "NOTEIT",
+  "SaveMemoButtonLabel": "SEND",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "List",
