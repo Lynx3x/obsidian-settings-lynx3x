@@ -7,36 +7,8 @@
         "id": "39244d4d85c865dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/关于OKR.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "f67d1a4353a27fa6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/如何用Notion保持全年自律 by 老石.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7b75bc7ec541d4d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -80,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -111,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -129,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -146,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +135,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "7b75bc7ec541d4d0",
+  "active": "39244d4d85c865dd",
   "lastOpenFiles": [
-    "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
-    "2022-02/关于OKR.md",
-    "2022-02/如何用Notion保持全年自律 by 老石.md",
     "global/通用看板.md",
     "2022-02/2022年度计划.md",
-    "2022-01/【笔记】新的一年我为什么不做语言学习计划了.md",
+    "2022-02/关于OKR.md",
+    "2021-12/【草稿】工作流相关思考.md",
+    "2022-02/UP主做视频常用的强力技巧，你见过几个.md",
+    "2022-02/【笔记】9位画师联评 不同水平的画都值多少钱【业内点评01】.md",
+    "2022-02/【笔记】2022务必避雷的5种学习方法.md",
     "2022-02/【读书笔记】高效能人士的七个习惯.md",
-    "2022-01/FFXIV-GShade操作.md",
-    "2022-01/关于日程管理.md",
-    "2022-02/9位画师联评 不同水平的画都值多少钱【业内点评01】.md"
+    "2022-02/【感想】大专毕业进厂四年攒20万.md",
+    "2022-02/【笔记】不想学习做什么 by 学姐潇潇.md"
   ]
 }
