@@ -9,8 +9,32 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/2022年度计划.md",
+            "file": "2022-02/关于OKR.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f67d1a4353a27fa6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-02/如何用Notion保持全年自律 by 老石.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7b75bc7ec541d4d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -87,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 281,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-02/关于OKR.md"
               }
             }
           }
@@ -121,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-02/关于OKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +165,15 @@
   },
   "active": "39244d4d85c865dd",
   "lastOpenFiles": [
+    "2022-02/关于OKR.md",
+    "2022-02/人生的游戏系统？用OKR工作法持续进步 by 嘉炜.md",
+    "2022-02/如何用Notion保持全年自律 by 老石.md",
+    "global/通用看板.md",
     "2022-02/2022年度计划.md",
     "2022-01/【笔记】新的一年我为什么不做语言学习计划了.md",
-    "2022-02/关于OKR.md",
     "2022-02/【读书笔记】高效能人士的七个习惯.md",
     "2022-01/FFXIV-GShade操作.md",
-    "2022-02/如何用Notion保持全年自律 by 老石.md",
     "2022-01/关于日程管理.md",
-    "global/通用看板.md",
-    "2022-02/9位画师联评 不同水平的画都值多少钱【业内点评01】.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-02/9位画师联评 不同水平的画都值多少钱【业内点评01】.md"
   ]
 }
