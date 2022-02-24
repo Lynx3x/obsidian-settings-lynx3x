@@ -1,5 +1,7 @@
 {
-  "opacity": 0.95,
+  "opacity": 0.97,
   "alwaysOnTop": false,
-  "vibrancy": "default"
+  "vibrancy": "default",
+  "trafficLightsPosX": 7,
+  "trafficLightsPosY": 6
 }
