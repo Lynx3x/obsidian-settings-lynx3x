@@ -243,7 +243,7 @@
             "name": "根据模板新建文件",
             "type": "Template",
             "command": false,
-            "templatePath": "templates/NewFileTemplate.md",
+            "templatePath": "templates/计划归档模板.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{DATE:yyyy-MM}}/{{VALUE:title}}"
