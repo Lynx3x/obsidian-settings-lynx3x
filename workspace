@@ -7,8 +7,23 @@
         "id": "f6e1fc38f47ca3fd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-02/2022年度计划.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "d6ee101738130762",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "2022-02/【计划】202102.md"
+          }
         }
       }
     ],
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -99,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-02/【计划】202102.md"
+              }
             }
           }
         ]
@@ -115,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-02/【计划】202102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +150,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "f6e1fc38f47ca3fd",
+  "active": "d6ee101738130762",
   "lastOpenFiles": [
+    "2022-02/【计划】202102.md",
     "2022-02/2022年度计划.md",
-    "global/通用看板.md",
     "2021-01/【计划】202101.md",
+    "2021-10/Obsidian插件使用经验.md",
+    "2021-11/Obsidian相关经验贴笔记.md",
+    "global/通用看板.md",
     "templates/计划归档模板.md",
     "templates/测试模板.md",
-    "2022-02/【计划】202102.md",
     "2022-02/日常锻炼整合.md",
-    "2022-02/【笔记】如何进入游戏公司.md",
-    "2021-12/笔记与工作流.md",
-    "2022-01/【草稿】努力、焦虑、延迟满足，多巴胺与内啡肽.md"
+    "2022-02/【笔记】如何进入游戏公司.md"
   ]
 }
