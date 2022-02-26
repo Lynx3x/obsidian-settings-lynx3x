@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e1fc38f47ca3fd",
+        "id": "244e107a4ee87df2",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-02/【计划】202103.md"
-          }
+            "file": "2022-02/2022年度计划.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          },
+          "pinned": true
         }
       },
       {
-        "id": "d6ee101738130762",
+        "id": "d0bc12f4cac283a7",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2021-02/【计划】202102.md"
+            "file": "2021-03/【计划】202103.md"
           }
         }
       }
@@ -112,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/【计划】202103.md"
+                "file": "2021-03/【计划】202103.md"
               }
             }
           }
@@ -129,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/【计划】202103.md",
+                "file": "2021-03/【计划】202103.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +151,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "f6e1fc38f47ca3fd",
+  "active": "d0bc12f4cac283a7",
   "lastOpenFiles": [
-    "2022-02/【计划】202103.md",
-    "2021-02/【计划】202102.md",
+    "2021-03/【计划】202103.md",
     "2022-02/2022年度计划.md",
+    "2021-04/【计划】202104.md",
+    "global/通用看板.md",
+    "2021-02/【计划】202102.md",
     "2021-01/【计划】202101.md",
     "2021-10/Obsidian插件使用经验.md",
     "2021-11/Obsidian相关经验贴笔记.md",
-    "global/通用看板.md",
     "templates/计划归档模板.md",
-    "templates/测试模板.md",
-    "2022-02/日常锻炼整合.md"
+    "templates/测试模板.md"
   ]
 }
