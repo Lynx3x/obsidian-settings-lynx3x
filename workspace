@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11/导出Evernote笔记至Obsidian.md",
+            "file": "templates/计划归档模板.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-11/导出Evernote笔记至Obsidian.md"
+                "file": "templates/计划归档模板.md"
               }
             }
           }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11/导出Evernote笔记至Obsidian.md",
+                "file": "templates/计划归档模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +141,15 @@
   },
   "active": "fbfc18b19fab4886",
   "lastOpenFiles": [
+    "templates/计划归档模板.md",
+    "2022-02/【计划】202107.md",
     "2021-11/导出Evernote笔记至Obsidian.md",
     "2021-10/Obsidian插件使用经验.md",
     "global/通用看板.md",
-    "2022-02/【计划】202107.md",
     "2022-02/2022年度计划.md",
     "2021-06/【计划】202106.md",
     "2021-05/【计划】202105.md",
     "2021-04/【计划】202104.md",
-    "2021-03/【计划】202103.md",
-    "2021-02/【计划】202102.md"
+    "2021-03/【计划】202103.md"
   ]
 }
