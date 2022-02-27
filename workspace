@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faa01e496ec9d8e1",
+        "id": "de6f9a18431dee6d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/2022年度计划.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -57,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "tag:#计划",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-02/2022年度计划.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +132,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "faa01e496ec9d8e1",
+  "active": "de6f9a18431dee6d",
   "lastOpenFiles": [
-    "2022-02/2022年度计划.md",
-    "2021-11/【计划】202111.md",
-    "2021-10/【计划】202110.md",
-    "2021-09/【计划】202109.md",
     "2022-02/原神日记.md",
+    "2022-02/2022年度计划.md",
     "global/通用看板.md",
-    "原神日记/原神日记.md",
-    "2021-08/【计划】202108.md",
-    "2021-07/【计划】202107.md",
-    "templates/计划归档模板.md"
+    "2022-02/【计划】2022-02.md",
+    "2022-01/【计划】2022-01.md",
+    "2021-12/【计划】202112.md",
+    "2021-05/【计划】202105.md",
+    "2021-06/个人奖惩机制 介绍篇.md",
+    "2021-06/【计划】202106.md",
+    "2021-11/【计划】202111.md"
   ]
 }
