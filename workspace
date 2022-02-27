@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/计划归档模板.md",
+            "file": "2022-02/【计划】202107.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/计划归档模板.md"
+                "file": "2022-02/【计划】202107.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/计划归档模板.md",
+                "file": "2022-02/【计划】202107.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +141,8 @@
   },
   "active": "fbfc18b19fab4886",
   "lastOpenFiles": [
-    "templates/计划归档模板.md",
     "2022-02/【计划】202107.md",
+    "templates/计划归档模板.md",
     "2021-11/导出Evernote笔记至Obsidian.md",
     "2021-10/Obsidian插件使用经验.md",
     "global/通用看板.md",
