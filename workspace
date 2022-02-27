@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08/【计划】202108.md",
+            "file": "2021-11/【计划】202111.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-08/【计划】202108.md"
+                "file": "2021-11/【计划】202111.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08/【计划】202108.md",
+                "file": "2021-11/【计划】202111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "faa01e496ec9d8e1",
   "lastOpenFiles": [
-    "2021-08/【计划】202108.md",
+    "2021-11/【计划】202111.md",
     "2022-02/2022年度计划.md",
+    "2021-10/【计划】202110.md",
+    "2021-09/【计划】202109.md",
+    "2022-02/原神日记.md",
     "global/通用看板.md",
-    "templates/计划归档模板.md",
-    "2022-02/【计划】202107.md",
-    "2021-11/导出Evernote笔记至Obsidian.md",
-    "2021-10/Obsidian插件使用经验.md",
-    "2021-06/【计划】202106.md",
-    "2021-05/【计划】202105.md",
-    "2021-04/【计划】202104.md"
+    "原神日记/原神日记.md",
+    "2021-08/【计划】202108.md",
+    "2021-07/【计划】202107.md",
+    "templates/计划归档模板.md"
   ]
 }
