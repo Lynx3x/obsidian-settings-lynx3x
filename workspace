@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/2022年度计划.md",
+            "file": "2022-02/日常锻炼整合.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "639f4c53f4c75ee8",
   "lastOpenFiles": [
-    "2022-02/2022年度计划.md",
+    "2022-02/日常锻炼整合.md",
     "global/通用看板.md",
+    "2022-02/2022年度计划.md",
     "2022-02/【复盘】2021计划.md",
     "2021-12/【计划】202112.md",
     "2021-11/【计划】202111.md",
     "2021-10/【计划】202110.md",
     "2022-03/【笔记】Brackeys's TD Tutorial.md",
     "2021-10/【笔记】双拼.md",
-    "2022-02/【笔记】高效能人士的七个习惯.md",
-    "2021-03/音酱一直以来做过的事。【vtuber们的参考文章】.md"
+    "2022-02/【笔记】高效能人士的七个习惯.md"
   ]
 }
