@@ -7,12 +7,9 @@
         "id": "09bc6701e30ce9e3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/【复盘】2021计划.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "global/通用看板.md"
           }
         }
       },
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/【复盘】2021计划.md"
+                "file": "2022-02/2022年度计划.md"
               }
             }
           }
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/【复盘】2021计划.md",
+                "file": "2022-02/2022年度计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +149,11 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "09bc6701e30ce9e3",
+  "active": "639f4c53f4c75ee8",
   "lastOpenFiles": [
-    "2022-02/【复盘】2021计划.md",
     "2022-02/2022年度计划.md",
     "global/通用看板.md",
+    "2022-02/【复盘】2021计划.md",
     "2021-12/【计划】202112.md",
     "2021-11/【计划】202111.md",
     "2021-10/【计划】202110.md",
