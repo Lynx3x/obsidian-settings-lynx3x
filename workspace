@@ -4,27 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "09bc6701e30ce9e3",
+        "id": "b75a532335a3ebc0",
         "type": "leaf",
-        "dimension": 60.19467213114754,
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-02/2022年度计划.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       },
       {
-        "id": "639f4c53f4c75ee8",
+        "id": "887f53c04751df74",
         "type": "leaf",
-        "dimension": 39.80532786885246,
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +149,17 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "09bc6701e30ce9e3",
+  "active": "887f53c04751df74",
   "lastOpenFiles": [
+    "2022-03/【计划】2022-03.md",
+    "2022-03/未命名看板.md",
+    "2022-02/2022年度计划.md",
     "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
-    "2022-02/2022年度计划.md",
     "2022-02/【复盘】2021计划.md",
     "2021-12/【计划】202112.md",
     "2021-11/【计划】202111.md",
     "2021-10/【计划】202110.md",
-    "2022-03/【笔记】Brackeys's TD Tutorial.md",
-    "2021-10/【笔记】双拼.md",
-    "2022-02/【笔记】高效能人士的七个习惯.md"
+    "2022-03/【笔记】Brackeys's TD Tutorial.md"
   ]
 }
