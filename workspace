@@ -20,9 +20,12 @@
         "id": "887f53c04751df74",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-02/日常锻炼整合.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -132,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,11 +154,11 @@
   },
   "active": "887f53c04751df74",
   "lastOpenFiles": [
+    "2022-02/日常锻炼整合.md",
+    "global/通用看板.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/未命名看板.md",
     "2022-02/2022年度计划.md",
-    "global/通用看板.md",
-    "2022-02/日常锻炼整合.md",
     "2022-02/【复盘】2021计划.md",
     "2021-12/【计划】202112.md",
     "2021-11/【计划】202111.md",
