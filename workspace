@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b75a532335a3ebc0",
+        "id": "daadb8e83194a2bb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "diary/【日记】20220303.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
-        }
-      },
-      {
-        "id": "0c4754e5157d482a",
-        "type": "leaf",
-        "state": {
-          "type": "memos_view",
-          "state": {}
         }
       }
     ],
@@ -113,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/【日记】20220303.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -130,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/【日记】20220303.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +136,10 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "b75a532335a3ebc0",
+  "active": "daadb8e83194a2bb",
   "lastOpenFiles": [
+    "2022-03/【计划】2022-03.md",
+    "global/通用看板.md",
     "diary/【日记】20220303.md",
     "templates/diaryTmpl.md",
     "templates/NewFileTemplate.md",
@@ -156,8 +147,6 @@
     "2022-02/2022年度计划.md",
     "2022-02/绘画萌新预科 by DM袋喵.md",
     "2022-03/【笔记】扔掉伯里曼!零基础画画入门应该看这几本书!.md",
-    "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md",
-    "2022-02/日常锻炼整合.md",
-    "global/通用看板.md"
+    "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md"
   ]
 }
