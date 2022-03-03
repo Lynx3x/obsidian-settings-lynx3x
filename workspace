@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7612f4c1a5096c",
+        "id": "55903812f1b8d22d",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "diary/2022-03-03.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "diary/2022-03-03.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "diary/2022-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +139,15 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "2b7612f4c1a5096c",
+  "active": "55903812f1b8d22d",
   "lastOpenFiles": [
-    "2022-03/【计划】2022-03.md",
+    "diary/2022-03-03.md",
     "global/通用看板.md",
+    "2022-03/【计划】2022-03.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-02/关于心流.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-02/2022年度计划.md",
-    "diary/【日记】20220303.md",
     "templates/diaryTmpl.md",
     "templates/NewFileTemplate.md",
     "diary/【日记】2022-03.md"
