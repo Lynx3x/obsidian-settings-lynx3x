@@ -7,9 +7,12 @@
         "id": "2b7612f4c1a5096c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-03/【购物分享】不计后果BJHG.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【购物分享】不计后果BJHG.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【购物分享】不计后果BJHG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +141,15 @@
   },
   "active": "2b7612f4c1a5096c",
   "lastOpenFiles": [
+    "2022-03/【购物分享】不计后果BJHG.md",
     "global/通用看板.md",
+    "2022-02/关于心流.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-03/【计划】2022-03.md",
-    "2022-03/【购物分享】不计后果BJHG.md",
     "2022-02/2022年度计划.md",
     "diary/【日记】20220303.md",
     "templates/diaryTmpl.md",
     "templates/NewFileTemplate.md",
-    "diary/【日记】2022-03.md",
-    "2022-02/绘画萌新预科 by DM袋喵.md"
+    "diary/【日记】2022-03.md"
   ]
 }
