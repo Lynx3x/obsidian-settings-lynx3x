@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diary/2022-03-03.md",
+            "file": "2022-02/日常锻炼整合.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/绘画/绘画教程",
+                "query": "tag:#1_工作流/灵感",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-03-03.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-03-03.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +142,15 @@
   },
   "active": "55903812f1b8d22d",
   "lastOpenFiles": [
-    "diary/2022-03-03.md",
+    "2022-02/日常锻炼整合.md",
     "global/通用看板.md",
+    "pluginTestingFiles/TestBoard.md",
+    "2021-12/笔记与工作流.md",
+    "2021-10/Obsidian插件使用经验.md",
+    "diary/2022-03-03.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-02/关于心流.md",
-    "2022-03/【购物分享】止汗走珠.md",
-    "2022-02/2022年度计划.md",
-    "templates/diaryTmpl.md",
-    "templates/NewFileTemplate.md",
-    "diary/【日记】2022-03.md"
+    "2022-03/【购物分享】止汗走珠.md"
   ]
 }
