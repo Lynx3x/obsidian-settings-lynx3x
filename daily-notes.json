@@ -1,0 +1,5 @@
+{
+  "folder": "diary",
+  "format": "【日记】YYYYMMDD",
+  "template": "templates/diaryTmpl"
+}

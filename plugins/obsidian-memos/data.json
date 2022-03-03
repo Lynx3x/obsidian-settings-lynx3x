@@ -1,8 +1,8 @@
 {
   "StartDate": "Sunday",
-  "InsertAfter": "",
+  "InsertAfter": "## Memo",
   "UserName": "Larynx",
-  "ProcessEntriesBelow": "",
+  "ProcessEntriesBelow": "## Memo",
   "Language": "en",
   "SaveMemoButtonLabel": "SEND",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
