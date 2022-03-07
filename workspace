@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
+            "file": "2022-02/2022年度计划.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251,
-    "collapsed": true
+    "width": 251
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-02/2022年度计划.md"
               }
             }
           }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-02/2022年度计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +142,15 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
+    "2022-02/2022年度计划.md",
     "global/通用看板.md",
+    "diary/2022-03-03.md",
+    "diary/delete.md",
+    "2022-02/日常锻炼整合.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/【笔记】眼与脊柱的运动关系.md",
     "2022-03/【购物分享】Nobodyknow.md",
     "resources/Pasted image 20220306235108.png",
-    "2022-03/【购物分享】不计后果BJHG.md",
-    "pluginTestingFiles/TestBoard.md",
-    "2021-12/笔记与工作流.md",
-    "2021-10/Obsidian插件使用经验.md"
+    "2022-03/【购物分享】不计后果BJHG.md"
   ]
 }
