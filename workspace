@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/2022年度计划.md",
+            "file": "2022-03/【笔记】FF14 Gpose经验.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-03/【笔记】FF14 Gpose经验.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-03/【笔记】FF14 Gpose经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
+    "2022-03/【笔记】FF14 Gpose经验.md",
     "2022-02/2022年度计划.md",
     "global/通用看板.md",
     "2022-03/【笔记】工作所需专业基础.md",
@@ -149,7 +150,6 @@
     "2022-02/日常锻炼整合.md",
     "2022-02/【复盘】2021计划.md",
     "diary/2022-03-03.md",
-    "diary/delete.md",
-    "2022-03/【笔记】眼与脊柱的运动关系.md"
+    "diary/delete.md"
   ]
 }
