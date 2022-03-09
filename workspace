@@ -7,9 +7,12 @@
         "id": "dbf5d98234344b77",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-03/【分享】从一本杂志GP Racing聊聊Fl赛车运动.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/游戏开发/游戏策划",
+                "query": "tag:#作品",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-03/【分享】从一本杂志GP Racing聊聊Fl赛车运动.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-03/【分享】从一本杂志GP Racing聊聊Fl赛车运动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
+    "2022-03/【分享】从一本杂志GP Racing聊聊Fl赛车运动.md",
     "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
     "2022-03/拆解游戏.md",
@@ -147,7 +151,6 @@
     "2022-02/绘画萌新预科 by DM袋喵.md",
     "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md",
     "2022-03/【笔记】艺术与视知觉.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-03/【笔记】摄影构图相关.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
