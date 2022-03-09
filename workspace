@@ -7,12 +7,9 @@
         "id": "dbf5d98234344b77",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-03/拆解游戏.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -106,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/拆解游戏.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/拆解游戏.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,14 +139,14 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
-    "2022-03/拆解游戏.md",
+    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
+    "2022-03/拆解游戏.md",
     "2022-02/【笔记】如何进入游戏公司.md",
     "2022-03/【笔记】扔掉伯里曼!零基础画画入门应该看这几本书!.md",
     "2022-02/绘画萌新预科 by DM袋喵.md",
     "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md",
     "2022-03/【笔记】艺术与视知觉.md",
-    "2022-03/【计划】2022-03.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/【笔记】摄影构图相关.md"
   ]
