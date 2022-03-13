@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03/OBS音频分轨插件.md",
+            "file": "2022-03/人格梳理.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/OBS音频分轨插件.md"
+                "file": "2022-03/人格梳理.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/OBS音频分轨插件.md",
+                "file": "2022-03/人格梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +142,8 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
-    "2022-03/OBS音频分轨插件.md",
     "2022-03/人格梳理.md",
+    "2022-03/OBS音频分轨插件.md",
     "global/通用看板.md",
     "2022-03/【计划】2022-03.md",
     "2022-02/2022年度计划.md",
