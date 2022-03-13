@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03/人格梳理.md",
+            "file": "2022-03/OBS音频分轨插件.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/个人管理",
+                "query": "tag:#领域/视频制作",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/人格梳理.md"
+                "file": "2022-03/OBS音频分轨插件.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/人格梳理.md",
+                "file": "2022-03/OBS音频分轨插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +142,7 @@
   },
   "active": "dbf5d98234344b77",
   "lastOpenFiles": [
+    "2022-03/OBS音频分轨插件.md",
     "2022-03/人格梳理.md",
     "global/通用看板.md",
     "2022-03/【计划】2022-03.md",
@@ -149,7 +151,6 @@
     "2022-03/提升写作能力与文笔.md",
     "2022-03/关于翻译的节奏与韵律.md",
     "2022-03/【笔记】氪金游戏如何掏空你的钱包.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-03/【分享】网课：福瑞入门.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
