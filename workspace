@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0810bef6760afa9a",
+        "id": "6487c7ba3c934b92",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -131,10 +131,10 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "0810bef6760afa9a",
+  "active": "6487c7ba3c934b92",
   "lastOpenFiles": [
-    "2022-03/【计划】2022-03.md",
     "diary/2022-03-15.md",
+    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/人格梳理.md",
