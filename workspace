@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf5d98234344b77",
+        "id": "0810bef6760afa9a",
         "type": "leaf",
-        "dimension": 45.59426229508197,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "280904cc2effe03f",
-        "type": "leaf",
-        "dimension": 54.40573770491803,
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-03/【计划】2022-03.md"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -116,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-03/【计划】2022-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +131,10 @@
     "direction": "horizontal",
     "width": 253
   },
-  "active": "280904cc2effe03f",
+  "active": "0810bef6760afa9a",
   "lastOpenFiles": [
     "2022-03/【计划】2022-03.md",
+    "diary/2022-03-15.md",
     "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/人格梳理.md",
@@ -161,7 +142,6 @@
     "2022-02/2022年度计划.md",
     "2022-03/OBS音频分轨插件.md",
     "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
-    "2022-03/提升写作能力与文笔.md",
-    "2022-03/关于翻译的节奏与韵律.md"
+    "2022-03/提升写作能力与文笔.md"
   ]
 }
