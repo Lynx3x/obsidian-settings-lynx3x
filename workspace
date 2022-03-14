@@ -6,6 +6,7 @@
       {
         "id": "dbf5d98234344b77",
         "type": "leaf",
+        "dimension": 45.59426229508197,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,6 +20,7 @@
       {
         "id": "280904cc2effe03f",
         "type": "leaf",
+        "dimension": 54.40573770491803,
         "state": {
           "type": "kanban",
           "state": {
@@ -152,8 +154,8 @@
   "active": "280904cc2effe03f",
   "lastOpenFiles": [
     "2022-03/【计划】2022-03.md",
-    "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
+    "global/通用看板.md",
     "2022-03/人格梳理.md",
     "2022-03/【分享】OLE面包.md",
     "2022-02/2022年度计划.md",
