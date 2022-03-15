@@ -7,12 +7,9 @@
         "id": "6487c7ba3c934b92",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,11 +138,11 @@
   },
   "active": "6487c7ba3c934b92",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
+    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
+    "2022-02/日常锻炼整合.md",
     "2022-03/【笔记】Ob移动端方案.md",
     "diary/2022-03-15.md",
-    "2022-03/【计划】2022-03.md",
     "2022-03/人格梳理.md",
     "2022-03/【分享】OLE面包.md",
     "2022-02/2022年度计划.md",
