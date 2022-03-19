@@ -7,9 +7,12 @@
         "id": "264aacb86392ab76",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/视频制作",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +141,7 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
+    "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
     "global/通用看板.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/【购物分享】止汗走珠.md",
@@ -146,7 +150,6 @@
     "2022-03/【笔记】日料店平替.md",
     "2022-03/【笔记】有多少科学实验是拿娃哈哈做的？.md",
     "2022-03/【笔记】Ob移动端方案.md",
-    "diary/2022-03-15.md",
-    "2022-03/人格梳理.md"
+    "diary/2022-03-15.md"
   ]
 }
