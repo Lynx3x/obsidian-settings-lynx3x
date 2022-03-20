@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +139,15 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
-    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
+    "2021-12/【草稿】工作流相关思考.md",
+    "2022-03/【笔记】Ob移动端方案.md",
+    "2022-03/【计划】2022-03.md",
     "2022-02/【复盘】2021计划.md",
     "2021-05/笔记工具的整理与思考.md",
     "2021-10/Obsidian插件使用经验.md",
     "2022-03/蒜香炸鸡.md",
     "2022-03/【笔记】价格锚点.md",
-    "2022-03/白米饭.md",
-    "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
-    "2022-03/【购物分享】止汗走珠.md"
+    "2022-03/白米饭.md"
   ]
 }
