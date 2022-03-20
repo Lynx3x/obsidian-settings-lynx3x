@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +138,9 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
+    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
     "2022-03/【笔记】价格锚点.md",
-    "2022-03/【计划】2022-03.md",
     "2022-03/白米饭.md",
     "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
     "2022-03/【购物分享】止汗走珠.md",
