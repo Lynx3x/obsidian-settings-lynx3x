@@ -7,9 +7,12 @@
         "id": "264aacb86392ab76",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-02/日常锻炼整合.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +141,10 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
+    "2022-02/日常锻炼整合.md",
     "global/通用看板.md",
     "测评 - 床具四件套.md",
     "2022-03/【笔记】国家队控糖的水果金字塔.md",
-    "2022-02/日常锻炼整合.md",
     "2022-03/【笔记】FF14本地目录结构.md",
     "2021-12/【草稿】工作流相关思考.md",
     "2022-03/【笔记】Ob移动端方案.md",
