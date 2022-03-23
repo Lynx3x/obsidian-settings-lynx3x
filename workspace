@@ -7,12 +7,9 @@
         "id": "264aacb86392ab76",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-03/【笔记】这 17 种避孕方法，每个人都应该好好了解.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【笔记】这 17 种避孕方法，每个人都应该好好了解.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【笔记】这 17 种避孕方法，每个人都应该好好了解.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +138,12 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
+    "2022-03/【计划】2022-03.md",
+    "global/通用看板.md",
+    "2022-02/日常锻炼整合.md",
     "2022-03/【笔记】这 17 种避孕方法，每个人都应该好好了解.md",
     "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md",
-    "global/通用看板.md",
-    "2022-03/【计划】2022-03.md",
     "2021-07/【购物分享】床具四件套.md",
-    "2022-02/日常锻炼整合.md",
     "2022-03/【感想】从一本杂志GP Racing聊聊Fl赛车运动.md",
     "2022-03/【笔记】网课：福瑞入门.md",
     "2022-03/【分享】OLE面包.md",
