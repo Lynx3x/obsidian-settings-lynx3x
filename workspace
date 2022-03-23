@@ -7,9 +7,12 @@
         "id": "264aacb86392ab76",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +141,7 @@
   },
   "active": "264aacb86392ab76",
   "lastOpenFiles": [
+    "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md",
     "global/通用看板.md",
     "2022-03/【计划】2022-03.md",
     "2021-07/【购物分享】床具四件套.md",
@@ -146,7 +150,6 @@
     "2022-03/【笔记】网课：福瑞入门.md",
     "2022-03/【分享】OLE面包.md",
     "2022-02/系统学习烹饪的书籍推荐.md",
-    "测评 - 床具四件套.md",
-    "2022-03/【笔记】国家队控糖的水果金字塔.md"
+    "测评 - 床具四件套.md"
   ]
 }
