@@ -32,6 +32,16 @@
     },
     {
       "type": "file",
+      "title": "【计划】2022-03",
+      "path": "2022-03/【计划】2022-03.md"
+    },
+    {
+      "type": "file",
+      "title": "日常锻炼整合",
+      "path": "2022-02/日常锻炼整合.md"
+    },
+    {
+      "type": "file",
       "title": "TestBoard",
       "path": "pluginTestingFiles/TestBoard.md"
     }
