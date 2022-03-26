@@ -7,12 +7,9 @@
         "id": "85a3bb25437dec0a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-03/红烧牛腩.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/红烧牛腩.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/红烧牛腩.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,11 +138,11 @@
   },
   "active": "85a3bb25437dec0a",
   "lastOpenFiles": [
-    "2022-03/红烧牛腩.md",
     "2022-03/【计划】2022-03.md",
+    "global/通用看板.md",
+    "2022-03/红烧牛腩.md",
     "2022-03/白米饭.md",
     "2022-03/【购物分享】止汗走珠.md",
-    "global/通用看板.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/FF14键位UI方案思考.md",
     "resources/Pasted image 20220121012712.png",
