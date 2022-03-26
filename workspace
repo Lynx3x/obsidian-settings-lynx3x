@@ -7,9 +7,12 @@
         "id": "85a3bb25437dec0a",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-03/红烧牛腩.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-03/红烧牛腩.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-03/红烧牛腩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +141,7 @@
   },
   "active": "85a3bb25437dec0a",
   "lastOpenFiles": [
+    "2022-03/红烧牛腩.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/白米饭.md",
     "2022-03/【购物分享】止汗走珠.md",
@@ -146,7 +150,6 @@
     "2022-03/FF14键位UI方案思考.md",
     "resources/Pasted image 20220121012712.png",
     "resources/Pasted image 20220209001821.png",
-    "resources/462971D0-0F6C-485A-8DA1-09E4FF993F2C.png",
-    "2022-03/【笔记】这 17 种避孕方法，每个人都应该好好了解.md"
+    "resources/462971D0-0F6C-485A-8DA1-09E4FF993F2C.png"
   ]
 }
