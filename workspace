@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +138,15 @@
   },
   "active": "85a3bb25437dec0a",
   "lastOpenFiles": [
+    "global/通用看板.md",
+    "2022-03/【分享】Sifu 师父 白眉拳 纪录片.md",
     "2022-03/【计划】2022-03.md",
     "2022-03/盐水菜心.md",
-    "global/通用看板.md",
     "2022-03/红烧牛腩.md",
     "2022-03/白米饭.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/FF14键位UI方案思考.md",
-    "resources/Pasted image 20220121012712.png",
-    "resources/Pasted image 20220209001821.png"
+    "resources/Pasted image 20220121012712.png"
   ]
 }
