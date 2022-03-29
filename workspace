@@ -7,12 +7,9 @@
         "id": "85a3bb25437dec0a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -57,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#领域/穿搭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 358
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +138,15 @@
   },
   "active": "85a3bb25437dec0a",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
     "2022-03/【计划】2022-03.md",
-    "2022-03/【分享】群星剧情向 by 黑手文和.md",
     "2022-03/【笔记】如何正确的网购衣服.md",
-    "global/通用看板.md",
-    "2022-03/红烧牛腩.md",
-    "2022-03/【分享】套内39㎡Loft公寓一镜到底and新房碎碎念.md",
-    "2022-03/番茄肥牛锅.md",
-    "2022-03/【笔记】新手跑步进阶过程.md",
-    "2022-03/【分享】Sifu 师父 白眉拳 纪录片.md"
+    "resources/Pasted image 20220325011309.png",
+    "resources/Pasted image 20220329223052.png",
+    "resources/Pasted image 20220329223054.png",
+    "resources/RH3``8Z}TNL%H{CSCG91_R2 2.jpg",
+    "resources/RH3``8Z}TNL%H{CSCG91_R2.jpg",
+    "resources/Pasted image 20220329223059.png",
+    "resources/Pasted image 20220306235259.png",
+    "2022-02/日常锻炼整合.md"
   ]
 }
