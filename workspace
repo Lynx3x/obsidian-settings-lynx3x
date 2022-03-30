@@ -7,9 +7,12 @@
         "id": "d6e2303093214f19",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-03/【购物分享】优衣库.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -86,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226
+    "width": 226,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-03/【购物分享】优衣库.md"
               }
             }
           }
@@ -120,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-03/【购物分享】优衣库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +144,11 @@
   },
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
+    "2022-03/【购物分享】优衣库.md",
     "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
     "2022-03/【购物分享】Nobodyknow.md",
     "2022-03/【购物分享】迪卡侬.md",
-    "2022-03/【购物分享】优衣库.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-03/【购物分享】GWIT九尾.md",
     "resources/Pasted image 20220329230236.png",
