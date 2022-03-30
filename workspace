@@ -7,12 +7,9 @@
         "id": "d6e2303093214f19",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-03/【购物分享】Nobodyknow.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -89,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226,
-    "collapsed": true
+    "width": 226
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【购物分享】Nobodyknow.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -124,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【购物分享】Nobodyknow.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +140,15 @@
   },
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
-    "2022-03/【购物分享】Nobodyknow.md",
     "2022-03/【计划】2022-03.md",
+    "global/通用看板.md",
+    "2022-03/【购物分享】Nobodyknow.md",
     "2022-03/【购物分享】迪卡侬.md",
     "2022-03/【购物分享】优衣库.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-03/【购物分享】GWIT九尾.md",
     "resources/Pasted image 20220329230236.png",
     "resources/Pasted image 20220329230948.png",
-    "2022-03/【笔记】如何正确的网购衣服.md",
-    "resources/Pasted image 20220325011309.png"
+    "2022-03/【笔记】如何正确的网购衣服.md"
   ]
 }
