@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226,
-    "collapsed": true
+    "width": 226
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -142,9 +141,9 @@
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
     "2022-03/【计划】2022-03.md",
+    "global/通用看板.md",
     "2022-03/【购物分享】窄幅.md",
     "2022-03/【购物分享】优衣库.md",
-    "global/通用看板.md",
     "2022-03/【购物分享】Nobodyknow.md",
     "2022-03/【购物分享】迪卡侬.md",
     "2022-03/【购物分享】不计后果BJHG.md",
