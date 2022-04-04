@@ -7,12 +7,9 @@
         "id": "d6e2303093214f19",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-03/【分享】OLE面包.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-04/【计划】2022-04.md"
           }
         }
       }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【分享】OLE面包.md"
+                "file": "2022-04/【计划】2022-04.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【分享】OLE面包.md",
+                "file": "2022-04/【计划】2022-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,11 +139,11 @@
   },
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
-    "2022-03/【分享】OLE面包.md",
-    "2022-03/【计划】2022-03.md",
     "2022-04/【计划】2022-04.md",
-    "2022-03/番茄肥牛锅.md",
+    "2022-03/【计划】2022-03.md",
     "global/通用看板.md",
+    "2022-03/【分享】OLE面包.md",
+    "2022-03/番茄肥牛锅.md",
     "templates/计划归档模板.md",
     "2022-03/【购物分享】窄幅.md",
     "2022-03/【购物分享】优衣库.md",
