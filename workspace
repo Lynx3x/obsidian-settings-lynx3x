@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-04/【计划】2022-04.md"
+            "file": "global/通用看板.md"
           }
         }
       }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/视频制作",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【计划】2022-04.md"
+                "file": "global/通用看板.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【计划】2022-04.md",
+                "file": "global/通用看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +139,15 @@
   },
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
+    "global/通用看板.md",
+    "2022-03/【购物分享】不计后果BJHG.md",
+    "2022-03/【购物分享】Nobodyknow.md",
     "2022-04/【计划】2022-04.md",
+    "2022-03/【笔记】Ob移动端方案.md",
     "2022-03/【计划】2022-03.md",
     "2022-02/日常锻炼整合.md",
     "pluginTestingFiles/TestBoard.md",
-    "global/通用看板.md",
     "2022-04/【经验】pr剪辑小结.md",
-    "2022-03/【分享】OLE面包.md",
-    "2022-03/番茄肥牛锅.md",
-    "templates/计划归档模板.md",
-    "2022-03/【购物分享】窄幅.md"
+    "2022-03/【分享】OLE面包.md"
   ]
 }
