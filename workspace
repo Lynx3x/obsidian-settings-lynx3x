@@ -7,9 +7,12 @@
         "id": "d6e2303093214f19",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-03/【笔记】Ob移动端方案.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-03/【笔记】Ob移动端方案.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-03/【笔记】Ob移动端方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +142,11 @@
   },
   "active": "d6e2303093214f19",
   "lastOpenFiles": [
+    "2022-03/【笔记】Ob移动端方案.md",
     "global/通用看板.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-03/【购物分享】Nobodyknow.md",
     "2022-04/【计划】2022-04.md",
-    "2022-03/【笔记】Ob移动端方案.md",
     "2022-03/【计划】2022-03.md",
     "2022-02/日常锻炼整合.md",
     "pluginTestingFiles/TestBoard.md",
