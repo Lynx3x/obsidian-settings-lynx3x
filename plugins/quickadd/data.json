@@ -144,6 +144,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "a03314c4-2baa-4c23-85d9-eec622e86e28"
+    },
+    {
+      "id": "1092f112-3058-43e9-be43-d6aa306b0d9d",
+      "name": "SyncToGithub",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e61b66c1-9154-4546-bc55-fe6107eee208"
     }
   ],
   "macros": [
@@ -309,6 +316,31 @@
             "openFile": false,
             "openFileInMode": "default"
           }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "GitCommitAllAndPush",
+      "id": "e61b66c1-9154-4546-bc55-fe6107eee208",
+      "commands": [
+        {
+          "name": "Obsidian Git: Commit all changes",
+          "type": "Obsidian",
+          "id": "711810f7-152f-4c09-98e8-c01fb9ce0550",
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "e354cef5-7d55-454e-abec-c542981872c5",
+          "time": 5000
+        },
+        {
+          "name": "Obsidian Git: Push",
+          "type": "Obsidian",
+          "id": "7e7875a0-6712-4d90-8475-aaccd3425f31",
+          "commandId": "obsidian-git:push2"
         }
       ],
       "runOnStartup": false

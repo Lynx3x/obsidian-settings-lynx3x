@@ -4,6 +4,11 @@
       "id": "quickadd:choice:63616879-0eef-409d-bf0d-60e6d6834ac4",
       "name": "QuickAdd: 添加新笔记",
       "icon": "create-new"
+    },
+    {
+      "id": "quickadd:choice:1092f112-3058-43e9-be43-d6aa306b0d9d",
+      "name": "QuickAdd: SyncToGithub",
+      "icon": "sync"
     }
   ],
   "hiddenCommands": [
