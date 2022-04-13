@@ -7,9 +7,12 @@
         "id": "15a785e63e236715",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/通用看板.md"
+            "file": "2022-04/【笔记】平价收纳分享 by 妹等.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/通用看板.md"
+                "file": "2022-04/【笔记】平价收纳分享 by 妹等.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/通用看板.md",
+                "file": "2022-04/【笔记】平价收纳分享 by 妹等.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "15a785e63e236715",
   "lastOpenFiles": [
+    "2022-04/【笔记】平价收纳分享 by 妹等.md",
     "global/通用看板.md",
     "2022-02/2022年度计划.md",
     "2022-04/【计划】2022-04.md",
@@ -147,7 +151,6 @@
     "2022-04/【攻略】Lost Life攻略收集.md",
     "2022-02/【复盘】2021计划.md",
     "2021-08/【计划】202108.md",
-    "2022-03/【购物分享】不计后果BJHG.md",
-    "2022-03/【购物分享】Nobodyknow.md"
+    "2022-03/【购物分享】不计后果BJHG.md"
   ]
 }
