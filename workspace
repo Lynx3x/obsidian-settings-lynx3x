@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "15a785e63e236715",
+        "id": "610df13c4af64165",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04/【笔记】平价收纳分享 by 妹等.md",
+            "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -26,7 +26,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 24.69982847341338,
+        "dimension": 17.51227495908347,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -41,7 +41,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 37.99313893653517,
+        "dimension": 54.746317512274956,
         "children": [
           {
             "id": "ae1cccbbf75329aa",
@@ -66,13 +66,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 37.307032590051456,
+        "dimension": 27.74140752864157,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -89,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226
+    "width": 388
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【笔记】平价收纳分享 by 妹等.md"
+                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md"
               }
             }
           }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【笔记】平价收纳分享 by 妹等.md",
+                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +139,17 @@
     "direction": "horizontal",
     "width": 194
   },
-  "active": "15a785e63e236715",
+  "active": "610df13c4af64165",
   "lastOpenFiles": [
+    "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
+    "2022-03/【笔记】价格锚点.md",
+    "2022-03/【笔记】氪金游戏如何掏空你的钱包.md",
+    "global/【看板】通用.md",
+    "2022-04/【笔记】绘画人混圈相关.md",
     "2022-04/【笔记】平价收纳分享 by 妹等.md",
-    "global/通用看板.md",
     "2022-02/2022年度计划.md",
     "2022-04/【计划】2022-04.md",
     "2022-03/【计划】2022-03.md",
-    "2022-03/【笔记】Ob移动端方案.md",
-    "2022-04/【攻略】Lost Life攻略收集.md",
-    "2022-02/【复盘】2021计划.md",
-    "2021-08/【计划】202108.md",
-    "2022-03/【购物分享】不计后果BJHG.md"
+    "2022-03/【笔记】Ob移动端方案.md"
   ]
 }
