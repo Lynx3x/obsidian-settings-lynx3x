@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
-            "mode": "preview",
+            "file": "2022-04/【笔记】让女生高潮的方法.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388,
-    "collapsed": true
+    "width": 388
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md"
+                "file": "2022-04/【笔记】让女生高潮的方法.md"
               }
             }
           }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
+                "file": "2022-04/【笔记】让女生高潮的方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +141,7 @@
   },
   "active": "610df13c4af64165",
   "lastOpenFiles": [
+    "2022-04/【笔记】让女生高潮的方法.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
     "2022-03/【笔记】价格锚点.md",
     "2022-03/【笔记】氪金游戏如何掏空你的钱包.md",
@@ -150,7 +150,6 @@
     "2022-04/【笔记】平价收纳分享 by 妹等.md",
     "2022-02/2022年度计划.md",
     "2022-04/【计划】2022-04.md",
-    "2022-03/【计划】2022-03.md",
-    "2022-03/【笔记】Ob移动端方案.md"
+    "2022-03/【计划】2022-03.md"
   ]
 }
