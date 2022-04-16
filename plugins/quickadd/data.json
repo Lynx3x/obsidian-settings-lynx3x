@@ -288,7 +288,7 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "global/通用看板.md",
+            "captureTo": "global/【看板】通用.md",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": false,

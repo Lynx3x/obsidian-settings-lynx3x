@@ -7,9 +7,12 @@
         "id": "610df13c4af64165",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-04/【计划】2022-04.md"
+            "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#领域/烹饪",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -85,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388
+    "width": 388,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【计划】2022-04.md"
+                "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md"
               }
             }
           }
@@ -119,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【计划】2022-04.md",
+                "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +143,15 @@
   },
   "active": "610df13c4af64165",
   "lastOpenFiles": [
+    "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
+    "global/【看板】通用.md",
     "2022-04/【计划】2022-04.md",
     "2022-04/【笔记】让女生高潮的方法.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
     "2022-03/【笔记】价格锚点.md",
     "2022-03/【笔记】氪金游戏如何掏空你的钱包.md",
-    "global/【看板】通用.md",
     "2022-04/【笔记】绘画人混圈相关.md",
     "2022-04/【笔记】平价收纳分享 by 妹等.md",
-    "2022-02/2022年度计划.md",
-    "2022-03/【计划】2022-03.md"
+    "2022-02/2022年度计划.md"
   ]
 }
