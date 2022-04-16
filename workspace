@@ -7,12 +7,9 @@
         "id": "610df13c4af64165",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-04/【笔记】囤菜选择.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "global/【看板】通用.md"
           }
         }
       }
@@ -26,7 +23,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 17.51227495908347,
+        "dimension": 31.125000000000004,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -41,7 +38,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 54.746317512274956,
+        "dimension": 41.125,
         "children": [
           {
             "id": "ae1cccbbf75329aa",
@@ -72,7 +69,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 27.74140752864157,
+        "dimension": 27.750000000000004,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -89,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388,
-    "collapsed": true
+    "width": 388
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【笔记】囤菜选择.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -124,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【笔记】囤菜选择.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +139,9 @@
   },
   "active": "610df13c4af64165",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "2022-04/【笔记】囤菜选择.md",
     "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
-    "global/【看板】通用.md",
     "2022-04/【计划】2022-04.md",
     "2022-04/【笔记】让女生高潮的方法.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
