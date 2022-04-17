@@ -7,9 +7,12 @@
         "id": "610df13c4af64165",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +142,9 @@
   },
   "active": "610df13c4af64165",
   "lastOpenFiles": [
+    "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
     "global/【看板】通用.md",
     "2022-04/【笔记】囤菜选择.md",
-    "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
     "2022-04/【计划】2022-04.md",
     "2022-04/【笔记】让女生高潮的方法.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
