@@ -7,12 +7,9 @@
         "id": "610df13c4af64165",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-02/日常锻炼整合.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-03/【计划】2022-03.md"
           }
         }
       }
@@ -106,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-03/【计划】2022-03.md"
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-03/【计划】2022-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +139,15 @@
   },
   "active": "610df13c4af64165",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
-    "2022-04/【计划】2022-04.md",
     "2022-03/【计划】2022-03.md",
+    "2022-04/【计划】2022-04.md",
+    "2022-03/【笔记】Ob移动端方案.md",
+    "2022-02/日常锻炼整合.md",
     "2022-04/【笔记】疫情下的一些物资储备建议 by ywwuyi.md",
     "global/【看板】通用.md",
     "2022-04/【笔记】囤菜选择.md",
     "2022-04/【笔记】让女生高潮的方法.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
-    "2022-03/【笔记】价格锚点.md",
-    "2022-03/【笔记】氪金游戏如何掏空你的钱包.md"
+    "2022-03/【笔记】价格锚点.md"
   ]
 }
