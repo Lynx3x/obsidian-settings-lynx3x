@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第七",
+                "query": "牛奶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
