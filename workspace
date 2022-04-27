@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "610df13c4af64165",
+        "id": "aaa6fc9f1c7c5dcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04/【笔记】如何帮女孩子口.md",
+            "file": "2022-04/【经验】Obsidian修改字体.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "牛奶",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04/【笔记】如何帮女孩子口.md"
+                "file": "2022-04/【经验】Obsidian修改字体.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【笔记】如何帮女孩子口.md",
+                "file": "2022-04/【经验】Obsidian修改字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +140,17 @@
     "direction": "horizontal",
     "width": 194
   },
-  "active": "610df13c4af64165",
+  "active": "aaa6fc9f1c7c5dcd",
   "lastOpenFiles": [
+    "2022-04/【经验】Obsidian修改字体.md",
+    "2022-04/【经验】pr剪辑小结.md",
+    "2022-04/【攻略】Lost Life攻略收集.md",
+    "2022-04/【计划】2022-04.md",
+    "2022-04/【笔记】让女生高潮的方法.md",
+    "2022-04/【笔记】囤菜选择.md",
+    "2022-03/【计划】2022-03.md",
     "2022-04/【笔记】如何帮女孩子口.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
-    "2022-04/【计划】2022-04.md",
-    "2022-03/【计划】2022-03.md",
-    "global/【看板】通用.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-02/【复盘】2021计划.md",
-    "2021-07/2020技能推荐.md",
-    "2021-07/2020-2推荐.md",
-    "2021-07/【计划】202107.md"
+    "global/【看板】通用.md"
   ]
 }

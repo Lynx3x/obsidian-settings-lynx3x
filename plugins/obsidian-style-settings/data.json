@@ -1,6 +1,6 @@
 {
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
-  "blue-topaz-theme@@translucent-setting-panel": true,
+  "blue-topaz-theme@@translucent-setting-panel": false,
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@fix-right-ribbon": false,
   "blue-topaz-theme@@hide-left-ribbon": false,
@@ -16,6 +16,5 @@
   "blue-topaz-theme@@link-underline": false,
   "blue-topaz-theme@@loading-animation": false,
   "blue-topaz-theme@@remove-custom-svg-icons": false,
-  "blue-topaz-theme@@default-icons": false,
-  "blue-topaz-theme@@font-family-major": "'Source Han Serif SC', Bookerly, Merriweather, 'LXGW WenKai', 'Segoe UI Emoji', var(--default-font)"
+  "blue-topaz-theme@@default-icons": false
 }
