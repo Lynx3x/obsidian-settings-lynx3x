@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05/【经验】杀戮尖塔.md",
-            "mode": "source",
+            "file": "2022-05/【笔记】例假相关知识.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -26,7 +26,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 31.125000000000004,
+        "dimension": 31.13658070678128,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -41,7 +41,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 41.125,
+        "dimension": 25.214899713467048,
         "children": [
           {
             "id": "ae1cccbbf75329aa",
@@ -72,7 +72,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 27.750000000000004,
+        "dimension": 43.64851957975167,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353,
-    "collapsed": true
+    "width": 353
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【经验】杀戮尖塔.md"
+                "file": "2022-05/【笔记】例假相关知识.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【经验】杀戮尖塔.md",
+                "file": "2022-05/【笔记】例假相关知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +143,7 @@
   },
   "active": "aaa6fc9f1c7c5dcd",
   "lastOpenFiles": [
+    "2022-05/【笔记】例假相关知识.md",
     "2022-05/【经验】杀戮尖塔.md",
     "2022-05/【笔记】恋爱怎么谈的.md",
     "2022-05/【笔记】女性性方面建议.md",
@@ -152,7 +152,6 @@
     "2022-04/【计划】2022-04.md",
     "2022-04/【经验】Obsidian修改字体.md",
     "2022-04/【攻略】Lost Life攻略收集.md",
-    "2022-04/【笔记】让女生高潮的方法.md",
-    "2022-04/【笔记】囤菜选择.md"
+    "2022-04/【笔记】让女生高潮的方法.md"
   ]
 }
