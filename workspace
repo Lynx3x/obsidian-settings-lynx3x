@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-05/【计划】2022-05.md"
+            "file": "global/【看板】通用.md"
           }
         }
       }
@@ -23,7 +23,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 31.13658070678128,
+        "dimension": 31.136580706781285,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【计划】2022-05.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【计划】2022-05.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +141,15 @@
   },
   "active": "aaa6fc9f1c7c5dcd",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "2022-05/【计划】2022-05.md",
+    "2022-05/【笔记】视频项目管理.md",
     "2022-04/【计划】2022-04.md",
     "2022-04/【经验】pr剪辑小结.md",
     "2022-03/【计划】2022-03.md",
     "2022-05/【笔记】色彩心得 by 中下游.md",
     "2022-05/【笔记】例假相关知识.md",
     "2022-05/【经验】杀戮尖塔.md",
-    "2022-05/【笔记】恋爱怎么谈的.md",
-    "2022-05/【笔记】女性性方面建议.md",
-    "2022-05/【笔记】May佬发言.md"
+    "2022-05/【笔记】恋爱怎么谈的.md"
   ]
 }
