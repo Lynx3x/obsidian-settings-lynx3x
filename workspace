@@ -7,10 +7,8 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-05/【计划】2022-05.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -101,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-05/【计划】2022-05.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【计划】2022-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +134,15 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
-    "2022-05/【计划】2022-05.md",
-    "2022-05/【路图】图片管理及QQ频道相关.md",
-    "2022-05/【经验】杀戮尖塔.md",
     "2022-02/日常锻炼整合.md",
-    "2022-03/【计划】2022-03.md",
+    "pluginTestingFiles/TestBoard.md",
+    "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
+    "2022-05/【路图】图片管理及QQ频道相关.md",
     "global/【看板】通用.md",
+    "2022-05/【经验】杀戮尖塔.md",
+    "2022-03/【计划】2022-03.md",
     "2022-04/【经验】Obsidian修改字体.md",
-    "templates/计划归档模板.md",
-    "templates/diaryTmpl.md"
+    "templates/计划归档模板.md"
   ]
 }
