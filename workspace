@@ -7,9 +7,12 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-05/【笔记】视频项目管理.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-05/【笔记】视频项目管理.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-05/【笔记】视频项目管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +142,15 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-05/【笔记】视频项目管理.md",
+    "global/【看板】通用.md",
+    "2022-05/【笔记】食材存储方法.md",
     "2022-03/【计划】2022-03.md",
     "2022-05/【计划】2022-05.md",
     "2022-03/FF14键位UI方案思考.md",
-    "2022-05/【笔记】视频项目管理.md",
     "2022-04/【计划】2022-04.md",
     "2022-02/日常锻炼整合.md",
     "pluginTestingFiles/TestBoard.md",
-    "2022-05/【路图】图片管理及QQ频道相关.md",
-    "global/【看板】通用.md",
-    "2022-05/【经验】杀戮尖塔.md"
+    "2022-05/【路图】图片管理及QQ频道相关.md"
   ]
 }
