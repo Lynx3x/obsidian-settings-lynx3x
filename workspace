@@ -7,9 +7,12 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-05/使用RSS订阅公众号文章.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-05/使用RSS订阅公众号文章.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-05/使用RSS订阅公众号文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +142,15 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
-    "2022-03/【计划】2022-03.md",
+    "2022-05/使用RSS订阅公众号文章.md",
     "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
+    "2022-03/【计划】2022-03.md",
     "2021-09/原神日记.md",
     "2022-02/原神文化考据.md",
     "2022-03/【食谱】盐水菜心.md",
     "2022-03/【食谱】红烧牛腩.md",
     "2022-03/【食谱】白米饭.md",
-    "2022-03/【食谱】番茄肥牛锅.md",
-    "2022-03/人格梳理.md"
+    "2022-03/【食谱】番茄肥牛锅.md"
   ]
 }
