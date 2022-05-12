@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05/使用RSS订阅公众号文章.md",
+            "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/游戏开发/游戏策划",
+                "query": "tag:#领域/个人管理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/使用RSS订阅公众号文章.md"
+                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/使用RSS订阅公众号文章.md",
+                "file": "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
     "2022-05/使用RSS订阅公众号文章.md",
     "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
@@ -150,7 +151,6 @@
     "2022-02/原神文化考据.md",
     "2022-03/【食谱】盐水菜心.md",
     "2022-03/【食谱】红烧牛腩.md",
-    "2022-03/【食谱】白米饭.md",
-    "2022-03/【食谱】番茄肥牛锅.md"
+    "2022-03/【食谱】白米饭.md"
   ]
 }
