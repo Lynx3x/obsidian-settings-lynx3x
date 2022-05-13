@@ -7,9 +7,12 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-05/【计划】2022-05.md"
+            "file": "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/个人管理",
+                "query": "tag:#游戏/FF14",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【计划】2022-05.md"
+                "file": "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【计划】2022-05.md",
+                "file": "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
     "2022-05/【计划】2022-05.md",
     "2022-03/【计划】2022-03.md",
     "2022-04/【计划】2022-04.md",
@@ -147,7 +151,6 @@
     "2021-09/原神日记.md",
     "2022-02/原神文化考据.md",
     "2022-03/【食谱】盐水菜心.md",
-    "2022-03/【食谱】红烧牛腩.md",
-    "2022-03/【食谱】白米饭.md"
+    "2022-03/【食谱】红烧牛腩.md"
   ]
 }
