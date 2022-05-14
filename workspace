@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "2022-05/【笔记】各专业入门书单.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/烹饪",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -89,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "a470ba3a58289b19",
