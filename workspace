@@ -7,9 +7,12 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-03/【计划】2022-03.md"
+            "file": "2022-05/【笔记】酒在烹饪中的作用.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#游戏/FF14",
+                "query": "tag:#领域/烹饪",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【计划】2022-03.md"
+                "file": "2022-05/【笔记】酒在烹饪中的作用.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【计划】2022-03.md",
+                "file": "2022-05/【笔记】酒在烹饪中的作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-05/【笔记】酒在烹饪中的作用.md",
     "2022-03/【计划】2022-03.md",
     "2022-05/【计划】2022-05.md",
     "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
@@ -147,7 +151,6 @@
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
     "2022-05/使用RSS订阅公众号文章.md",
     "2021-09/原神日记.md",
-    "2022-02/原神文化考据.md",
-    "2022-03/【食谱】盐水菜心.md"
+    "2022-02/原神文化考据.md"
   ]
 }
