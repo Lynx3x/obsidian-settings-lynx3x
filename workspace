@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03/【购物分享】止汗走珠.md",
+            "file": "2021-10/Obsidian插件使用经验.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/健康",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md"
+                "file": "2021-10/Obsidian插件使用经验.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md",
+                "file": "2021-10/Obsidian插件使用经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2021-10/Obsidian插件使用经验.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-03/【计划】2022-03.md",
     "2022-05/【计划】2022-05.md",
@@ -150,7 +151,6 @@
     "2022-05/【笔记】书单推荐 by ohmygosh.md",
     "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md",
     "2022-03/【笔记】扔掉伯里曼!零基础画画入门应该看这几本书!.md",
-    "2022-01/绘画培训课程推荐.md",
-    "2022-02/绘画萌新预科 by DM袋喵.md"
+    "2022-01/绘画培训课程推荐.md"
   ]
 }
