@@ -19,9 +19,5 @@
     "打开命令面板",
     "打开快速切换",
     "Templater"
-  ],
-  "pinSidebar": {
-    "right": false,
-    "left": true
-  }
+  ]
 }
