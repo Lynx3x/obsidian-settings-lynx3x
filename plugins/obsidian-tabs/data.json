@@ -1,9 +1,9 @@
 {
-  "tabEnabled": false,
+  "tabEnabled": true,
   "rowOverflow": false,
   "horizontalToVertical": false,
   "hideButtons": false,
-  "smallTitle": false,
+  "smallTitle": true,
   "compactTitle": false,
   "tabNumbering": false,
   "tabUnderline": false,
