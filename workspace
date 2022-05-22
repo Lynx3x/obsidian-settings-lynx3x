@@ -7,12 +7,9 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-05/美女总是相似的.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-05/【计划】2022-05.md"
           }
         }
       }
@@ -105,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/美女总是相似的.md"
+                "file": "2022-05/【计划】2022-05.md"
               }
             }
           }
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/美女总是相似的.md",
+                "file": "2022-05/【计划】2022-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +139,8 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
-    "2022-05/美女总是相似的.md",
     "2022-05/【计划】2022-05.md",
+    "2022-05/美女总是相似的.md",
     "2022-05/使用RSS订阅公众号文章.md",
     "2022-05/公众号整理.md",
     "templates/计划归档模板.md",
