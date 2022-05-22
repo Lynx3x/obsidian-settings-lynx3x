@@ -7,19 +7,9 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-05/【计划】2022-05.md"
-          }
-        }
-      },
-      {
-        "id": "986dc9b9280a8717",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05/使用RSS订阅公众号文章.md",
+            "file": "2022-05/美女总是相似的.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -115,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/使用RSS订阅公众号文章.md"
+                "file": "2022-05/美女总是相似的.md"
               }
             }
           }
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/使用RSS订阅公众号文章.md",
+                "file": "2022-05/美女总是相似的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +140,17 @@
     "width": 252,
     "collapsed": true
   },
-  "active": "986dc9b9280a8717",
+  "active": "851ebed6cffefe15",
   "lastOpenFiles": [
-    "2022-05/使用RSS订阅公众号文章.md",
+    "2022-05/美女总是相似的.md",
     "2022-05/【计划】2022-05.md",
+    "2022-05/使用RSS订阅公众号文章.md",
     "2022-05/公众号整理.md",
     "templates/计划归档模板.md",
     "templates/测试模板.md",
     "templates/## Update date.md",
     "templates/Example.md",
     "2021-10/Obsidian插件使用经验.md",
-    "2022-04/【计划】2022-04.md",
-    "2022-05/【笔记】书籍资源搜索途径.md"
+    "2022-04/【计划】2022-04.md"
   ]
 }
