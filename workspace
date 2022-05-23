@@ -7,13 +7,8 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-02/2022年度计划.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-02/2022年度计划.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +134,15 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-03/【购物分享】不计后果BJHG.md",
+    "2022-02/【复盘】2021计划.md",
     "2022-02/2022年度计划.md",
-    "global/【看板】通用.md",
     "2022-03/【计划】2022-03.md",
+    "2022-01/【计划】2022-01.md",
+    "2022-02/【计划】2022-02.md",
+    "global/【看板】通用.md",
     "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
-    "2022-05/美女总是相似的.md",
-    "2022-05/使用RSS订阅公众号文章.md",
-    "2022-05/公众号整理.md",
-    "templates/计划归档模板.md",
-    "templates/测试模板.md"
+    "2022-05/美女总是相似的.md"
   ]
 }
