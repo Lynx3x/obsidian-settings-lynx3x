@@ -7,8 +7,10 @@
         "id": "851ebed6cffefe15",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "2022-05/【计划】2022-05.md"
+          }
         }
       }
     ],
@@ -99,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-05/【计划】2022-05.md"
+              }
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-05/【计划】2022-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-05/【计划】2022-05.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "2022-02/【复盘】2021计划.md",
     "2022-02/2022年度计划.md",
@@ -141,7 +147,6 @@
     "2022-01/【计划】2022-01.md",
     "2022-02/【计划】2022-02.md",
     "global/【看板】通用.md",
-    "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
     "2022-05/美女总是相似的.md"
   ]
