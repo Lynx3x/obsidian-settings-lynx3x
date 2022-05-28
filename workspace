@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05/【笔记】游戏中稀有度颜色的设计.md",
+            "file": "2022-05/【笔记】关于美术大厂外派offer.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【笔记】游戏中稀有度颜色的设计.md"
+                "file": "2022-05/【笔记】关于美术大厂外派offer.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【笔记】游戏中稀有度颜色的设计.md",
+                "file": "2022-05/【笔记】关于美术大厂外派offer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +143,7 @@
   },
   "active": "851ebed6cffefe15",
   "lastOpenFiles": [
+    "2022-05/【笔记】关于美术大厂外派offer.md",
     "2022-05/【笔记】游戏中稀有度颜色的设计.md",
     "2022-05/【笔记】文具推荐 by Elena.md",
     "2022-05/【计划】2022-05.md",
@@ -151,7 +152,6 @@
     "2022-02/2022年度计划.md",
     "2022-03/【计划】2022-03.md",
     "2022-01/【计划】2022-01.md",
-    "2022-02/【计划】2022-02.md",
-    "global/【看板】通用.md"
+    "2022-02/【计划】2022-02.md"
   ]
 }
