@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06/【笔记】鼠标推荐.md",
+            "file": "2022-06/【笔记】书单推荐 by Elena.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【笔记】鼠标推荐.md"
+                "file": "2022-06/【笔记】书单推荐 by Elena.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【笔记】鼠标推荐.md",
+                "file": "2022-06/【笔记】书单推荐 by Elena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
+    "2022-06/【笔记】书单推荐 by Elena.md",
     "2022-06/【笔记】鼠标推荐.md",
     "2022-05/【计划】2022-05.md",
     "2022-06/优质UP主清单.md",
@@ -150,7 +151,6 @@
     "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
     "2022-05/美女总是相似的.md",
     "2022-04/【计划】2022-04.md",
-    "2022-03/【计划】2022-03.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-03/【计划】2022-03.md"
   ]
 }
