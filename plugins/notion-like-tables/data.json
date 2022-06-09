@@ -1,0 +1,29 @@
+{
+  "appData": {},
+  "state": {
+    "2022-06/【购物分享】牛奶.md": {
+      "table-id-hkrk0y": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-oiyv30",
+              "content": "New Column",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [],
+          "cells": [],
+          "tags": []
+        },
+        "shouldUpdate": false,
+        "viewType": "reading"
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  }
+}
