@@ -12,7 +12,7 @@
             "file": "2022-06/【购物分享】牛奶.md",
             "mode": "source",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -108,17 +108,8 @@
                 "file": "2022-06/【购物分享】牛奶.md"
               }
             }
-          },
-          {
-            "id": "5066f288dd671368",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "056ec32a8be876eb",
@@ -151,14 +142,14 @@
   "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
     "2022-06/【购物分享】牛奶.md",
+    "2022-06/【计划】2022-06.md",
+    "2022-06/【笔记】书单推荐 by Elena.md",
+    "2022-06/【笔记】鼠标推荐.md",
     "pluginTestingFiles/TestBoard.md",
     "2021-10/Obsidian插件使用经验.md",
     "2022-06/【笔记】文字遮挡平面设计.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
-    "2022-05/【计划】2022-05.md",
-    "2022-04/【计划】2022-04.md",
-    "2022-06/【计划】2022-06.md",
-    "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md"
+    "2022-05/【计划】2022-05.md"
   ]
 }

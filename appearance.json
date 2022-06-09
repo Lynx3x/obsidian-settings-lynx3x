@@ -3,7 +3,7 @@
   "translucency": false,
   "theme": "obsidian",
   "cssTheme": "Blue Topaz",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "font"
   ]
