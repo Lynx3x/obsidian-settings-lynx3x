@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10/Obsidian插件使用经验.md",
+            "file": "2022-06/【购物分享】牛奶.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -97,7 +97,7 @@
       {
         "id": "956c4522eae32c0b",
         "type": "tabs",
-        "dimension": 73.15864022662889,
+        "dimension": 57.67727526521496,
         "children": [
           {
             "id": "613d40733b3d1ed6",
@@ -105,16 +105,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-10/Obsidian插件使用经验.md"
+                "file": "2022-06/【购物分享】牛奶.md"
               }
             }
+          },
+          {
+            "id": "5066f288dd671368",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 26.841359773371106,
+        "dimension": 42.32272473478504,
         "children": [
           {
             "id": "ab87edd326cf0ef6",
@@ -122,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10/Obsidian插件使用经验.md",
+                "file": "2022-06/【购物分享】牛奶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
-    "2021-10/Obsidian插件使用经验.md",
     "2022-06/【购物分享】牛奶.md",
+    "pluginTestingFiles/TestBoard.md",
+    "2021-10/Obsidian插件使用经验.md",
     "2022-06/【笔记】文字遮挡平面设计.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
     "2022-05/【计划】2022-05.md",
     "2022-04/【计划】2022-04.md",
     "2022-06/【计划】2022-06.md",
-    "pluginTestingFiles/TestBoard.md",
     "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md"
   ]
 }
