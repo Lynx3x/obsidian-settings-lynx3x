@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bbdfcbd9f9ff69e",
+        "id": "ee9d1438cd650b5e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-06/【计划】2022-06.md"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -101,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-06/【计划】2022-06.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +131,17 @@
     "direction": "horizontal",
     "width": 311
   },
-  "active": "5bbdfcbd9f9ff69e",
+  "active": "ee9d1438cd650b5e",
   "lastOpenFiles": [
+    "diary/2022-06-10.md",
+    "diary/delete.md",
+    "diary/2022-03-03.md",
+    "diary/2022-03-15.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/【购物分享】牛奶.md",
     "2021-10/Obsidian插件使用经验.md",
     "2022-06/【笔记】书单推荐 by Elena.md",
     "2022-06/【笔记】鼠标推荐.md",
-    "pluginTestingFiles/TestBoard.md",
-    "2022-06/【笔记】文字遮挡平面设计.md",
-    "2022-06/优质UP主清单.md",
-    "global/【看板】通用.md",
-    "2022-05/【计划】2022-05.md"
+    "pluginTestingFiles/TestBoard.md"
   ]
 }
