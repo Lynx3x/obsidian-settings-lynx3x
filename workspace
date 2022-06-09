@@ -7,21 +7,10 @@
         "id": "5bbdfcbd9f9ff69e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-06/【购物分享】牛奶.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "2022-06/【计划】2022-06.md"
           }
-        }
-      },
-      {
-        "id": "f3dd45cb4312facb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown-table-editor-view",
-          "state": {}
         }
       }
     ],
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【购物分享】牛奶.md"
+                "file": "2022-06/【计划】2022-06.md"
               }
             }
           }
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【购物分享】牛奶.md",
+                "file": "2022-06/【计划】2022-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,9 +139,9 @@
   },
   "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
+    "2022-06/【计划】2022-06.md",
     "2022-06/【购物分享】牛奶.md",
     "2021-10/Obsidian插件使用经验.md",
-    "2022-06/【计划】2022-06.md",
     "2022-06/【笔记】书单推荐 by Elena.md",
     "2022-06/【笔记】鼠标推荐.md",
     "pluginTestingFiles/TestBoard.md",
