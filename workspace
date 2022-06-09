@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06/【购物分享】牛奶.md",
+            "file": "2021-10/Obsidian插件使用经验.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -17,7 +17,7 @@
         }
       },
       {
-        "id": "d44b2cd2f9eb0379",
+        "id": "fdafba5a8dad6f6c",
         "type": "leaf",
         "state": {
           "type": "markdown-table-editor-view",
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -112,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-10/Obsidian插件使用经验.md"
+              }
             }
           }
         ]
@@ -128,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-10/Obsidian插件使用经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,12 +146,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 311
   },
-  "active": "d44b2cd2f9eb0379",
+  "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
-    "2022-06/【购物分享】牛奶.md",
     "2021-10/Obsidian插件使用经验.md",
+    "2022-06/【购物分享】牛奶.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/【笔记】书单推荐 by Elena.md",
     "2022-06/【笔记】鼠标推荐.md",
