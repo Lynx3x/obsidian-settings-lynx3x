@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06/【笔记】文字遮挡平面设计.md",
+            "file": "2022-06/【购物分享】牛奶.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "止汗",
+                "query": "tag:#打折记得买",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【笔记】文字遮挡平面设计.md"
+                "file": "2022-06/【购物分享】牛奶.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【笔记】文字遮挡平面设计.md",
+                "file": "2022-06/【购物分享】牛奶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "5bbdfcbd9f9ff69e",
   "lastOpenFiles": [
+    "2022-06/【购物分享】牛奶.md",
     "2022-06/【笔记】文字遮挡平面设计.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
@@ -150,7 +151,6 @@
     "2022-06/【计划】2022-06.md",
     "pluginTestingFiles/TestBoard.md",
     "2022-03/【笔记】「52 个设计原则」by 小红书产品设计中心.md",
-    "templates/计划归档模板.md",
-    "2022-06/【笔记】中国地图资源.md"
+    "templates/计划归档模板.md"
   ]
 }
