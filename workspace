@@ -7,8 +7,10 @@
         "id": "ee9d1438cd650b5e",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "2022-06/优质UP主清单.md"
+          }
         }
       }
     ],
@@ -99,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-06/优质UP主清单.md"
+              }
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
   },
   "active": "ee9d1438cd650b5e",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
     "diary/2022-06-10.md",
     "diary/delete.md",
     "diary/2022-03-03.md",
@@ -141,7 +147,6 @@
     "2022-06/【购物分享】牛奶.md",
     "2021-10/Obsidian插件使用经验.md",
     "2022-06/【笔记】书单推荐 by Elena.md",
-    "2022-06/【笔记】鼠标推荐.md",
-    "pluginTestingFiles/TestBoard.md"
+    "2022-06/【笔记】鼠标推荐.md"
   ]
 }
