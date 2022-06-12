@@ -12,6 +12,14 @@
             "file": "2022-04/【计划】2022-04.md"
           }
         }
+      },
+      {
+        "id": "02500a3224efb670",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -101,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-04/【计划】2022-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -119,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【计划】2022-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +141,7 @@
     "direction": "horizontal",
     "width": 311
   },
-  "active": "ee9d1438cd650b5e",
+  "active": "02500a3224efb670",
   "lastOpenFiles": [
     "2022-04/【计划】2022-04.md",
     "2022-05/【计划】2022-05.md",
