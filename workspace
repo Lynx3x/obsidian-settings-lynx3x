@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9d1438cd650b5e",
+        "id": "b784d13cf8da0f37",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -99,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-04/【计划】2022-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -117,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04/【计划】2022-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +131,9 @@
     "direction": "horizontal",
     "width": 311
   },
-  "active": "ee9d1438cd650b5e",
+  "active": "b784d13cf8da0f37",
   "lastOpenFiles": [
+    "diary/2022-06-12.md",
     "2022-04/【计划】2022-04.md",
     "2022-05/【计划】2022-05.md",
     "2022-06/【计划】2022-06.md",
@@ -144,7 +142,6 @@
     "diary/delete.md",
     "diary/2022-03-03.md",
     "diary/2022-03-15.md",
-    "2022-06/【购物分享】牛奶.md",
-    "2021-10/Obsidian插件使用经验.md"
+    "2022-06/【购物分享】牛奶.md"
   ]
 }

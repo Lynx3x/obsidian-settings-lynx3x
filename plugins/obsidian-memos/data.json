@@ -5,9 +5,11 @@
   "ProcessEntriesBelow": "## Memo",
   "Language": "en",
   "SaveMemoButtonLabel": "SEND",
+  "SaveMemoButtonIcon": "✍️",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "List",
+  "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",
   "UseButtonToShowEditor": false,
@@ -25,5 +27,11 @@
   "UseVaultTags": false,
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
-  "DefaultMemoComposition": "{TIME} {CONTENT}"
+  "DefaultMemoComposition": "{TIME} {CONTENT}",
+  "CommentOnMemos": true,
+  "CommentsInOriginalNotes": false,
+  "FetchMemosMark": "#memo",
+  "FetchMemosFromNote": false,
+  "ShowCommentOnMemos": true,
+  "ShowLeftSideBar": false
 }
