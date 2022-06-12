@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b784d13cf8da0f37",
+        "id": "cfd0ad5afdcb4f20",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -131,15 +131,15 @@
     "direction": "horizontal",
     "width": 311
   },
-  "active": "b784d13cf8da0f37",
+  "active": "cfd0ad5afdcb4f20",
   "lastOpenFiles": [
+    "diary/2022-06-10.md",
     "diary/2022-06-12.md",
+    "diary/delete.md",
     "2022-04/【计划】2022-04.md",
     "2022-05/【计划】2022-05.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/优质UP主清单.md",
-    "diary/2022-06-10.md",
-    "diary/delete.md",
     "diary/2022-03-03.md",
     "diary/2022-03-15.md",
     "2022-06/【购物分享】牛奶.md"
