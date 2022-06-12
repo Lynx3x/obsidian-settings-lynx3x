@@ -84,5 +84,13 @@
       ],
       "key": "P"
     }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
   ]
 }
