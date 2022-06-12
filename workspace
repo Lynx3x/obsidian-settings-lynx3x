@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7de001f7f330c32f",
+        "id": "8bbb9d79a2226fe8",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -134,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311,
-    "collapsed": true
+    "width": 311
   },
-  "active": "7de001f7f330c32f",
+  "active": "8bbb9d79a2226fe8",
   "lastOpenFiles": [
     "2022-06/【计划】2022-06.md",
+    "2021-10/Obsidian插件使用经验.md",
+    "2022-06/【购物分享】牛奶.md",
+    "2022-01/【草稿】努力、焦虑、延迟满足，多巴胺与内啡肽.md",
+    "2022-02/【笔记】不想学习做什么 by 学姐潇潇.md",
     "2022-05/【计划】2022-05.md",
     "2022-06/【笔记】如何选到一杯好牛奶.md",
     "global/【看板】通用.md",
     "2022-04/【计划】2022-04.md",
-    "diary/2022-06-10.md",
-    "diary/2022-06-12.md",
-    "diary/delete.md",
-    "2022-06/优质UP主清单.md",
-    "diary/2022-03-03.md"
+    "diary/2022-06-10.md"
   ]
 }
