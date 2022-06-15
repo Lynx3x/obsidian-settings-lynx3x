@@ -7,9 +7,12 @@
         "id": "8bbb9d79a2226fe8",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2022-06/【笔记】书单推荐 by Elena.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "块",
+                "query": "牛奶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -85,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-06/【笔记】书单推荐 by Elena.md"
               }
             }
           }
@@ -119,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-06/【笔记】书单推荐 by Elena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +144,15 @@
   },
   "active": "8bbb9d79a2226fe8",
   "lastOpenFiles": [
+    "2022-06/【笔记】书单推荐 by Elena.md",
     "global/【看板】通用.md",
+    "2022-06/【购物分享】牛奶.md",
     "2022-04/【经验】pr剪辑小结.md",
     "2022-06/【计划】2022-06.md",
     "2022-05/【笔记】视频项目管理.md",
     "2022-05/美女总是相似的.md",
-    "2022-06/【购物分享】牛奶.md",
     "pluginTestingFiles/LongformTestFolder/Index.md",
     "2021-10/塔防游戏考据.md",
-    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/世界观 - 最终猎人.md",
-    "2021-05/怪物猎人世界攻略整理.md"
+    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/世界观 - 最终猎人.md"
   ]
 }
