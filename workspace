@@ -7,10 +7,8 @@
         "id": "8bbb9d79a2226fe8",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-06/【计划】2022-06.md"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-05/【计划】2022-05.md"
               }
             }
           }
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-05/【计划】2022-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +137,7 @@
   },
   "active": "8bbb9d79a2226fe8",
   "lastOpenFiles": [
+    "2022-05/【计划】2022-05.md",
     "2022-06/【计划】2022-06.md",
     "diary/2022-06-16.md",
     "diary/2022-06-15.md",
@@ -147,7 +146,6 @@
     "diary/2022-06-12.md",
     "diary/2022-05-05.md",
     "diary/2022-06-07.md",
-    "diary/2022-03-03.md",
-    "2022-02/【笔记】绘画书籍推荐 by 嘉炜.md"
+    "diary/2022-03-03.md"
   ]
 }
