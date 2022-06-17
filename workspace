@@ -99,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-05/【计划】2022-05.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -117,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【计划】2022-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +134,9 @@
   },
   "active": "8bbb9d79a2226fe8",
   "lastOpenFiles": [
+    "diary/2022-06-16.md",
     "2022-05/【计划】2022-05.md",
     "2022-06/【计划】2022-06.md",
-    "diary/2022-06-16.md",
     "diary/2022-06-15.md",
     "diary/2022-03-15.md",
     "diary/2022-06-10.md",
