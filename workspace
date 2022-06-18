@@ -7,8 +7,10 @@
         "id": "8bbb9d79a2226fe8",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "2022-06/【计划】2022-06.md"
+          }
         }
       }
     ],
@@ -99,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-06/【计划】2022-06.md"
+              }
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-06/【计划】2022-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +139,10 @@
   },
   "active": "8bbb9d79a2226fe8",
   "lastOpenFiles": [
+    "2022-06/【计划】2022-06.md",
     "2022-03/【笔记】FF14本地目录结构.md",
     "diary/2022-06-16.md",
     "2022-05/【计划】2022-05.md",
-    "2022-06/【计划】2022-06.md",
     "diary/2022-06-15.md",
     "diary/2022-03-15.md",
     "diary/2022-06-10.md",
