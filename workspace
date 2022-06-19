@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-06/【计划】2022-06.md"
+            "file": "2022-06/优质UP主清单.md"
           }
         }
       }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-06/优质UP主清单.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/【聊天整理】关于绘画杂色.md",
     "global/【看板】通用.md",
@@ -148,7 +149,6 @@
     "2022-05/【计划】2022-05.md",
     "2022-03/【笔记】FF14本地目录结构.md",
     "diary/2022-06-16.md",
-    "diary/2022-06-15.md",
-    "diary/2022-03-15.md"
+    "diary/2022-06-15.md"
   ]
 }
