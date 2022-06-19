@@ -7,9 +7,12 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/【计划】2022-06.md"
+            "file": "2022-06/【聊天整理】关于绘画杂色.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-06/【聊天整理】关于绘画杂色.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-06/【聊天整理】关于绘画杂色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-06/【聊天整理】关于绘画杂色.md",
     "2022-06/【计划】2022-06.md",
     "global/【看板】通用.md",
     "2022-06/【笔记】应届毕业生的迷茫.md",
@@ -148,7 +152,6 @@
     "2022-03/【笔记】FF14本地目录结构.md",
     "diary/2022-06-16.md",
     "diary/2022-06-15.md",
-    "diary/2022-03-15.md",
-    "diary/2022-06-10.md"
+    "diary/2022-03-15.md"
   ]
 }
