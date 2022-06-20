@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-06/【计划】2022-06.md"
+            "file": "2022-06/优质UP主清单.md"
           }
         }
       }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-06/优质UP主清单.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +139,11 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
     "2022-06/【计划】2022-06.md",
     "2022-05/【计划】2022-05.md",
     "2022-02/2022年度计划.md",
     "global/【看板】通用.md",
-    "2022-06/优质UP主清单.md",
     "2022-06/【聊天整理】关于绘画杂色.md",
     "2022-06/【笔记】应届毕业生的迷茫.md",
     "2022-06/【存档】妹！生活 攻略.md",
