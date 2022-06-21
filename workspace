@@ -7,10 +7,8 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-06/【计划】2022-06.md"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -101,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-06/【计划】2022-06.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
