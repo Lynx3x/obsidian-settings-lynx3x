@@ -7,13 +7,8 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-06/曾经陪伴过我的宝可梦伙伴.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-06/曾经陪伴过我的宝可梦伙伴.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/曾经陪伴过我的宝可梦伙伴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +133,7 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-05/美少女总是相似的.md",
     "2022-06/曾经陪伴过我的宝可梦伙伴.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/【笔记】矮人要塞5分钟入门快速指南.md",
@@ -149,7 +142,6 @@
     "2022-02/2022年度计划.md",
     "global/【看板】通用.md",
     "2022-06/【聊天整理】关于绘画杂色.md",
-    "2022-06/【笔记】应届毕业生的迷茫.md",
-    "2022-06/【存档】妹！生活 攻略.md"
+    "2022-06/【笔记】应届毕业生的迷茫.md"
   ]
 }
