@@ -7,9 +7,12 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/【计划】2022-06.md"
+            "file": "2022-02/2022年度计划.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-02/2022年度计划.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-02/2022年度计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +141,15 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-02/2022年度计划.md",
+    "global/【看板】通用.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/便签导入脚本 开发心路.md",
-    "global/【看板】通用.md",
     "2022-02/日常锻炼整合.md",
     "2022-05/美少女总是相似的.md",
     "2022-06/曾经陪伴过我的宝可梦伙伴.md",
     "2022-06/【笔记】矮人要塞5分钟入门快速指南.md",
     "2022-06/优质UP主清单.md",
-    "2022-05/【计划】2022-05.md",
-    "2022-02/2022年度计划.md"
+    "2022-05/【计划】2022-05.md"
   ]
 }
