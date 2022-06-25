@@ -7,9 +7,12 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2021-11/导出Evernote笔记至Obsidian.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2021-11/导出Evernote笔记至Obsidian.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2021-11/导出Evernote笔记至Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2021-11/导出Evernote笔记至Obsidian.md",
     "global/【看板】通用.md",
     "2022-06/个人博客搭建笔记ver2022.md",
     "2021-06/个人博客搭建指南v2.md",
@@ -147,7 +151,6 @@
     "2022-06/便签导入脚本 开发心路.md",
     "2022-02/日常锻炼整合.md",
     "2022-05/美少女总是相似的.md",
-    "2022-06/曾经陪伴过我的宝可梦伙伴.md",
-    "2022-06/【笔记】矮人要塞5分钟入门快速指南.md"
+    "2022-06/曾经陪伴过我的宝可梦伙伴.md"
   ]
 }
