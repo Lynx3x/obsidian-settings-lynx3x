@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02/2022年度计划.md",
+            "file": "2022-06/个人博客搭建笔记ver2022.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-06/个人博客搭建笔记ver2022.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-06/个人博客搭建笔记ver2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +142,11 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
-    "2022-02/2022年度计划.md",
+    "2022-06/个人博客搭建笔记ver2022.md",
     "global/【看板】通用.md",
+    "2022-02/2022年度计划.md",
     "2022-06/优质UP主清单.md",
     "2021-11/导出Evernote笔记至Obsidian.md",
-    "2022-06/个人博客搭建笔记ver2022.md",
     "2021-06/个人博客搭建指南v2.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/便签导入脚本 开发心路.md",
