@@ -7,9 +7,12 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/优质UP主清单.md"
+            "file": "2022-06/【笔记】啊设计.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单.md"
+                "file": "2022-06/【笔记】啊设计.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单.md",
+                "file": "2022-06/【笔记】啊设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "3f4f805e9a3d56db",
   "lastOpenFiles": [
+    "2022-06/【笔记】啊设计.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
     "2022-06/个人博客搭建笔记ver2022.md",
@@ -147,7 +151,6 @@
     "2021-06/个人博客搭建指南v2.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/便签导入脚本 开发心路.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-05/美少女总是相似的.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
