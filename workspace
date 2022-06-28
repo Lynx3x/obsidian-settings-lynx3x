@@ -7,10 +7,8 @@
         "id": "3f4f805e9a3d56db",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "2022-06/优质UP主清单.md"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
