@@ -7,8 +7,13 @@
         "id": "45d83e1e9978f5ad",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-06/【笔记】陷阱UI设计.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/设计",
+                "query": "tag:#类别/书单",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -83,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -100,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【计划】2022-05.md"
+                "file": "2022-06/【笔记】陷阱UI设计.md"
               }
             }
           }
@@ -117,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【计划】2022-05.md",
+                "file": "2022-06/【笔记】陷阱UI设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +144,15 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-06/【笔记】陷阱UI设计.md",
+    "global/【看板】通用.md",
+    "2022-07/【笔记】哲学博士自学绘画两年历程.md",
     "2022-05/【计划】2022-05.md",
     "2022-07/【计划】2022-07.md",
     "templates/计划归档模板.md",
     "2022-06/优质UP主清单.md",
-    "global/【看板】通用.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/冰箱挑选.md",
-    "2022-06/【笔记】段码字.md",
-    "2022-06/便签导入脚本 开发心路.md",
-    "2022-06/【笔记】图灵斑图.md"
+    "2022-06/【笔记】段码字.md"
   ]
 }
