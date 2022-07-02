@@ -7,8 +7,13 @@
         "id": "45d83e1e9978f5ad",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-07/【想法】切香皂视频带来的快感.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -61,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -84,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -101,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-07/【想法】切香皂视频带来的快感.md"
+              }
             }
           }
         ]
@@ -117,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-07/【想法】切香皂视频带来的快感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +142,15 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-07/【想法】切香皂视频带来的快感.md",
+    "global/【看板】通用.md",
+    "2022-02/关于心流.md",
+    "2022-06/【笔记】动画设计小技巧.md",
+    "2022-07/【计划】2022-07.md",
     "2022-02/2022年度计划.md",
     "2022-02/【复盘】2021计划.md",
     "2022-06/【计划】2022-06.md",
-    "2022-06/【笔记】动画设计小技巧.md",
-    "global/【看板】通用.md",
     "2022-06/【笔记】诱导性UI设计.md",
-    "2022-07/【笔记】SKU和SPU的区别.md",
-    "2022-06/优质UP主清单.md",
-    "2022-07/【计划】2022-07.md",
-    "2022-05/【计划】2022-05.md"
+    "2022-07/【笔记】SKU和SPU的区别.md"
   ]
 }
