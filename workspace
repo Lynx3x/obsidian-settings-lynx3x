@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06/【笔记】诱导性UI设计.md",
+            "file": "2022-07/【笔记】SKU和SPU的区别.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【笔记】诱导性UI设计.md"
+                "file": "2022-07/【笔记】SKU和SPU的区别.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【笔记】诱导性UI设计.md",
+                "file": "2022-07/【笔记】SKU和SPU的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-07/【笔记】SKU和SPU的区别.md",
     "2022-06/【笔记】诱导性UI设计.md",
     "global/【看板】通用.md",
     "2022-06/优质UP主清单.md",
@@ -152,7 +153,6 @@
     "2022-06/【计划】2022-06.md",
     "2022-07/【笔记】哲学博士自学绘画两年历程.md",
     "templates/计划归档模板.md",
-    "2022-06/冰箱挑选.md",
-    "2022-06/【笔记】段码字.md"
+    "2022-06/冰箱挑选.md"
   ]
 }
