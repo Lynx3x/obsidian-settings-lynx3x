@@ -7,9 +7,12 @@
         "id": "45d83e1e9978f5ad",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2022-07/【策划案】暗图.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-07/【策划案】暗图.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-07/【策划案】暗图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +142,7 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-07/【策划案】暗图.md",
     "global/【看板】通用.md",
     "2022-06/【经验】宝塔面板相关.md",
     "2022-06/【笔记】动画设计小技巧.md",
@@ -147,7 +151,6 @@
     "2022-06/便签导入脚本 开发心路.md",
     "2022-07/【想法】切香皂视频带来的快感.md",
     "2022-02/关于心流.md",
-    "2022-07/【计划】2022-07.md",
-    "2022-02/2022年度计划.md"
+    "2022-07/【计划】2022-07.md"
   ]
 }
