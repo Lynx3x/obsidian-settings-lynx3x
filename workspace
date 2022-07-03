@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "2022-06/【计划】2022-06.md"
+            "file": "2022-06/优质UP主清单.md"
           }
         }
       }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/【计划】2022-06.md"
+                "file": "2022-06/优质UP主清单.md"
               }
             }
           }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/【计划】2022-06.md",
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +141,15 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
+    "global/【看板】通用.md",
+    "2022-06/【笔记】动画设计小技巧.md",
     "2022-06/【计划】2022-06.md",
     "2022-07/【笔记】正骨相关.md",
     "2022-06/【笔记】书单推荐 by Elena.md",
-    "2022-06/优质UP主清单.md",
-    "global/【看板】通用.md",
     "2022-05/【计划】2022-05.md",
     "2022-07/【计划】2022-07.md",
     "2021-12/【草稿】工作流相关思考.md",
-    "2022-07/【策划案】暗图.md",
-    "2022-06/【经验】宝塔面板相关.md"
+    "2022-07/【策划案】暗图.md"
   ]
 }
