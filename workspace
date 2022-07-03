@@ -7,9 +7,12 @@
         "id": "45d83e1e9978f5ad",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/优质UP主清单.md"
+            "file": "2022-06/【笔记】书单推荐 by Elena.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -63,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单.md"
+                "file": "2022-06/【笔记】书单推荐 by Elena.md"
               }
             }
           }
@@ -119,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单.md",
+                "file": "2022-06/【笔记】书单推荐 by Elena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +143,7 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-06/【笔记】书单推荐 by Elena.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
     "2022-06/【计划】2022-06.md",
@@ -147,7 +152,6 @@
     "2021-12/【草稿】工作流相关思考.md",
     "2022-07/【策划案】暗图.md",
     "2022-06/【经验】宝塔面板相关.md",
-    "2022-06/【笔记】动画设计小技巧.md",
-    "2022-04/【经验】Obsidian修改字体.md"
+    "2022-06/【笔记】动画设计小技巧.md"
   ]
 }
