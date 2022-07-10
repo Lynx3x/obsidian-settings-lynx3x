@@ -7,12 +7,9 @@
         "id": "45d83e1e9978f5ad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-07/【笔记】文艺复兴球_01_线.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-06/【计划】2022-06.md"
           }
         }
       }
@@ -89,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/【笔记】文艺复兴球_01_线.md"
+                "file": "2022-06/【计划】2022-06.md"
               }
             }
           }
@@ -124,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/【笔记】文艺复兴球_01_线.md",
+                "file": "2022-06/【计划】2022-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,12 +140,12 @@
   },
   "active": "45d83e1e9978f5ad",
   "lastOpenFiles": [
+    "2022-06/【计划】2022-06.md",
+    "2022-07/【计划】2022-07.md",
     "2022-07/【笔记】文艺复兴球_01_线.md",
     "2022-07/【笔记】文艺复兴球_工具_PS.md",
     "2022-07/【笔记】关于吸血鬼幸存者.md",
     "global/【看板】通用.md",
-    "2022-07/【计划】2022-07.md",
-    "2022-06/【计划】2022-06.md",
     "2022-07/【笔记】手语学习入门.md",
     "2022-02/日常锻炼整合.md",
     "2022-07/【笔记】两年习得中文的学习分享.md",
