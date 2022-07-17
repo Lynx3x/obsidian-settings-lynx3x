@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "45d83e1e9978f5ad",
+        "id": "8c8822390daea634",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "2022-07/【计划】2022-07.md"
+          }
         }
       }
     ],
@@ -100,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-07/【计划】2022-07.md"
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-07/【计划】2022-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +138,17 @@
     "width": 311,
     "collapsed": true
   },
-  "active": "45d83e1e9978f5ad",
+  "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2021-09/原神日记.md",
+    "2022-07/【计划】2022-07.md",
     "2022-07/【笔记】PS拖动时卡死的解决办法.md",
     "2022-07/【笔记】K大线条练习.md",
-    "2022-07/【计划】2022-07.md",
     "2022-07/【笔记】what 3 words.md",
     "2022-07/【笔记】文艺复兴球_02_形状.md",
     "2022-06/【计划】2022-06.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
-    "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
-    "2022-07/【灵感】早茶等级.md"
+    "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md"
   ]
 }
