@@ -7,9 +7,12 @@
         "id": "8c8822390daea634",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/优质UP主清单.md"
+            "file": "2021-09/原神日记.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单.md"
+                "file": "2021-09/原神日记.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单.md",
+                "file": "2021-09/原神日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
   },
   "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
     "2022-07/【计划】2022-07.md",
     "2021-09/原神日记.md",
@@ -148,7 +152,6 @@
     "2022-07/【笔记】what 3 words.md",
     "2022-07/【笔记】文艺复兴球_02_形状.md",
     "2022-06/【计划】2022-06.md",
-    "2022-06/优质UP主清单.md",
     "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md"
   ]
 }
