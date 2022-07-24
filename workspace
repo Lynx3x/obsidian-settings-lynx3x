@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07/【笔记】互联网导致我们被过度刺激而灵感不足.md",
+            "file": "2022-05/使用RSS订阅公众号文章.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/绘画/绘画教程",
+                "query": "屎",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/【笔记】互联网导致我们被过度刺激而灵感不足.md"
+                "file": "2022-05/使用RSS订阅公众号文章.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/【笔记】互联网导致我们被过度刺激而灵感不足.md",
+                "file": "2022-05/使用RSS订阅公众号文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +143,15 @@
   },
   "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2022-07/【笔记】互联网导致我们被过度刺激而灵感不足.md",
+    "2022-06/【笔记】TED：抑郁与灵性觉醒——门里门外的毗邻世界.md",
+    "2022-03/【食谱】番茄肥牛锅.md",
     "2022-06/优质UP主清单.md",
     "2022-07/【笔记】日料店平替.md",
     "2021-09/原神日记.md",
     "global/【看板】通用.md",
     "2022-07/【计划】2022-07.md",
     "2022-07/【笔记】PS拖动时卡死的解决办法.md",
-    "2022-07/【笔记】K大线条练习.md",
-    "2022-07/【笔记】what 3 words.md",
-    "2022-07/【笔记】文艺复兴球_02_形状.md",
-    "2022-06/【计划】2022-06.md"
+    "2022-07/【笔记】K大线条练习.md"
   ]
 }
