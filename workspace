@@ -7,12 +7,9 @@
         "id": "8c8822390daea634",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-07/【笔记】网友票选十大男香.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-06/优质UP主清单.md"
           }
         }
       }
@@ -107,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/【笔记】网友票选十大男香.md"
+                "file": "2022-06/优质UP主清单.md"
               }
             }
           }
@@ -124,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/【笔记】网友票选十大男香.md",
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +141,7 @@
   },
   "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2022-07/【笔记】网友票选十大男香.md",
     "2022-05/【计划】2022-05.md",
     "2022-07/【计划】2022-07.md",
     "2022-06/【计划】2022-06.md",
@@ -152,7 +150,6 @@
     "2022-05/使用RSS订阅公众号文章.md",
     "2022-07/【笔记】互联网导致我们被过度刺激而灵感不足.md",
     "2022-06/【笔记】TED：抑郁与灵性觉醒——门里门外的毗邻世界.md",
-    "2022-03/【食谱】番茄肥牛锅.md",
-    "2022-06/优质UP主清单.md"
+    "2022-03/【食谱】番茄肥牛锅.md"
   ]
 }
