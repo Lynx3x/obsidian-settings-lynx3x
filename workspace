@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03/【购物分享】止汗走珠.md",
+            "file": "2022-07/【笔记】为什么垃圾读作乐色.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/健康",
+                "query": "tag:#领域/语言学习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md"
+                "file": "2022-07/【笔记】为什么垃圾读作乐色.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md",
+                "file": "2022-07/【笔记】为什么垃圾读作乐色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
   },
   "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2022-03/【购物分享】止汗走珠.md",
     "2022-05/【计划】2022-05.md",
     "global/【看板】通用.md",
     "2022-07/【笔记】文艺复兴球_工具_PS.md",
@@ -152,7 +153,6 @@
     "2022-07/【笔记】游戏中的生命值欺骗.md",
     "2022-06/优质UP主清单.md",
     "2022-07/【笔记】网友票选十大男香.md",
-    "2022-07/【计划】2022-07.md",
-    "2022-06/【计划】2022-06.md"
+    "2022-07/【计划】2022-07.md"
   ]
 }
