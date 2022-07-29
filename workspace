@@ -7,9 +7,12 @@
         "id": "8c8822390daea634",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2022-07/【笔记】JRPG吧 吧友评分.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-07/【笔记】JRPG吧 吧友评分.md"
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-07/【笔记】JRPG吧 吧友评分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +143,13 @@
   },
   "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "2022-07/6.0召唤一键摆烂宏.md",
     "2022-07/【笔记】如何正确的找陌生人拍照2.VLOG.49.md",
     "2022-02/2022年度计划.md",
     "2022-07/【笔记】为什么垃圾读作乐色.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-05/【计划】2022-05.md",
-    "global/【看板】通用.md",
     "2022-07/【笔记】文艺复兴球_工具_PS.md",
     "2022-07/【笔记】文艺复兴球_01_线.md",
     "2022-07/【笔记】如何“重启”一名处于“死机”状态的士兵.md"
