@@ -7,12 +7,9 @@
         "id": "8c8822390daea634",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-07/6.0召唤一键摆烂宏.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "global/【看板】通用.md"
           }
         }
       }
@@ -106,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/6.0召唤一键摆烂宏.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/6.0召唤一键摆烂宏.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +138,9 @@
     "width": 311,
     "collapsed": true
   },
-  "active": "35b63935123c6cb4",
+  "active": "8c8822390daea634",
   "lastOpenFiles": [
+    "2022-07/6.0召唤一键摆烂宏.md",
     "2022-07/【笔记】如何正确的找陌生人拍照2.VLOG.49.md",
     "2022-02/2022年度计划.md",
     "2022-07/【笔记】为什么垃圾读作乐色.md",
@@ -151,7 +149,6 @@
     "global/【看板】通用.md",
     "2022-07/【笔记】文艺复兴球_工具_PS.md",
     "2022-07/【笔记】文艺复兴球_01_线.md",
-    "2022-07/【笔记】如何“重启”一名处于“死机”状态的士兵.md",
-    "2022-07/【笔记】游戏中的生命值欺骗.md"
+    "2022-07/【笔记】如何“重启”一名处于“死机”状态的士兵.md"
   ]
 }
