@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e54beed3ada73e36",
+        "id": "34457321768658a9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-02/日常锻炼整合.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -84,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -101,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-02/日常锻炼整合.md"
+              }
             }
           }
         ]
@@ -117,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,11 +141,11 @@
     "width": 311,
     "collapsed": true
   },
-  "active": "e54beed3ada73e36",
+  "active": "34457321768658a9",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "2022-07/【笔记】正念冥想.md",
     "2022-06/优质UP主清单.md",
-    "global/【看板】通用.md",
     "2022-07/Ob新增标注块功能.md",
     "2022-07/【笔记】JRPG吧 吧友评分.md",
     "2022-02/UP主做视频常用的强力技巧，你见过几个.md",
