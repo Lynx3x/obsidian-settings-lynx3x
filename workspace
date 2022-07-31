@@ -7,12 +7,9 @@
         "id": "8825673911660649",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-07/Ob新增标注块功能.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "2022-06/优质UP主清单.md"
           }
         }
       }
@@ -88,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/Ob新增标注块功能.md"
+                "file": "2022-06/优质UP主清单.md"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/Ob新增标注块功能.md",
+                "file": "2022-06/优质UP主清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +139,15 @@
   },
   "active": "8825673911660649",
   "lastOpenFiles": [
-    "2022-07/【笔记】JRPG吧 吧友评分.md",
     "global/【看板】通用.md",
+    "2022-07/Ob新增标注块功能.md",
+    "2022-07/【笔记】JRPG吧 吧友评分.md",
     "2022-02/UP主做视频常用的强力技巧，你见过几个.md",
     "2022-05/【笔记】T恤购买指南.md",
     "2022-06/优质UP主清单.md",
     "2022-07/【笔记】保姆级租房攻略.md",
     "2022-07/【笔记】劳逸结合效率翻倍 by elena.md",
     "2022-07/6.0召唤一键摆烂宏.md",
-    "2022-07/【笔记】如何正确的找陌生人拍照2.VLOG.49.md",
-    "2022-02/2022年度计划.md"
+    "2022-07/【笔记】如何正确的找陌生人拍照2.VLOG.49.md"
   ]
 }
