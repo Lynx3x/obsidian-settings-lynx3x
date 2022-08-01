@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "global/【看板】通用.md"
+            "file": "2022-08/【计划】2022-08.md"
           }
         }
       }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-08/【计划】2022-08.md"
               }
             }
           }
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-08/【计划】2022-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +138,15 @@
   },
   "active": "79acd74922680ce4",
   "lastOpenFiles": [
-    "2022-06/【计划】2022-06.md",
     "2022-07/【计划】2022-07.md",
-    "global/【看板】通用.md",
     "2022-08/【计划】2022-08.md",
+    "templates/计划归档模板.md",
+    "global/【看板】通用.md",
+    "2022-06/【计划】2022-06.md",
     "2022-08/GBF通过Nginx反代缓存.md",
     "2022-03/【购物分享】止汗走珠.md",
     "2022-06/【购物分享】牛奶.md",
     "2022-05/【计划】2022-05.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-07/【笔记】正念冥想.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
