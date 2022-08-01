@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03/【购物分享】止汗走珠.md",
-            "mode": "preview",
+            "file": "2022-08/GBF通过Nginx反代缓存.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md"
+                "file": "2022-08/GBF通过Nginx反代缓存.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【购物分享】止汗走珠.md",
+                "file": "2022-08/GBF通过Nginx反代缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "79acd74922680ce4",
   "lastOpenFiles": [
+    "2022-03/【购物分享】止汗走珠.md",
     "2022-06/【购物分享】牛奶.md",
     "2022-07/【计划】2022-07.md",
     "2022-05/【计划】2022-05.md",
@@ -150,7 +151,6 @@
     "2022-02/日常锻炼整合.md",
     "2022-07/【笔记】正念冥想.md",
     "2022-06/优质UP主清单.md",
-    "2022-07/Ob新增标注块功能.md",
-    "2022-07/【笔记】JRPG吧 吧友评分.md"
+    "2022-07/Ob新增标注块功能.md"
   ]
 }
