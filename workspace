@@ -7,9 +7,12 @@
         "id": "4a3212bc01da2d27",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2022-06/优质UP主清单.md"
+            "file": "2022-08/【拷贝】关于台湾.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单.md"
+                "file": "2022-08/【拷贝】关于台湾.md"
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单.md",
+                "file": "2022-08/【拷贝】关于台湾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
