@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "35b63935123c6cb4",
+        "id": "4a3212bc01da2d27",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#领域/游戏/游戏策划",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "393732212189570c",
@@ -86,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -139,12 +137,12 @@
     "width": 311,
     "collapsed": true
   },
-  "active": "35b63935123c6cb4",
+  "active": "4a3212bc01da2d27",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单.md",
     "2022-08/【笔记】UI对游戏设计的影响.md",
     "global/【看板】通用.md",
     "2022-08/【笔记】饥荒是如何制作的.md",
-    "2022-06/优质UP主清单.md",
     "2022-08/【计划】2022-08.md",
     "2022-07/【计划】2022-07.md",
     "templates/计划归档模板.md",
