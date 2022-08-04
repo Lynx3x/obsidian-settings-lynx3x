@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3212bc01da2d27",
+        "id": "3f3cc9979be4eb83",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08/【拷贝】关于原神的一些评价.md",
+            "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08/【拷贝】关于原神的一些评价.md"
+                "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08/【拷贝】关于原神的一些评价.md",
+                "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +141,9 @@
     "width": 311,
     "collapsed": true
   },
-  "active": "4a3212bc01da2d27",
+  "active": "3f3cc9979be4eb83",
   "lastOpenFiles": [
+    "2022-08/【拷贝】关于原神的一些评价.md",
     "2022-08/【拷贝】从一个德国人的视角分析台湾问题.md",
     "2022-06/优质UP主清单.md",
     "2022-08/【笔记】UI对游戏设计的影响.md",
@@ -150,7 +152,6 @@
     "2022-08/【计划】2022-08.md",
     "2022-07/【计划】2022-07.md",
     "templates/计划归档模板.md",
-    "2022-06/【计划】2022-06.md",
-    "2022-08/GBF通过Nginx反代缓存.md"
+    "2022-06/【计划】2022-06.md"
   ]
 }
