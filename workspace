@@ -7,12 +7,9 @@
         "id": "3f3cc9979be4eb83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "2022-08/【计划】2022-08.md"
           }
         }
       }
@@ -88,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md"
+                "file": "2022-08/【计划】2022-08.md"
               }
             }
           }
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md",
+                "file": "2022-08/【计划】2022-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +139,7 @@
   },
   "active": "3f3cc9979be4eb83",
   "lastOpenFiles": [
+    "2022-08/【拷贝】有些人真的好看不上别人“不干正事儿”.md",
     "2022-08/【拷贝】关于原神的一些评价.md",
     "2022-08/【拷贝】从一个德国人的视角分析台湾问题.md",
     "2022-06/优质UP主清单.md",
@@ -151,7 +148,6 @@
     "2022-08/【笔记】饥荒是如何制作的.md",
     "2022-08/【计划】2022-08.md",
     "2022-07/【计划】2022-07.md",
-    "templates/计划归档模板.md",
-    "2022-06/【计划】2022-06.md"
+    "templates/计划归档模板.md"
   ]
 }
