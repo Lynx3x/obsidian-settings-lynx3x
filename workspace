@@ -15,6 +15,19 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "43d61bdec1c563c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-01/戴森球计划游玩心得.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
