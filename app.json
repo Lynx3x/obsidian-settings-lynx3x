@@ -12,6 +12,6 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "spellcheck": false
 }
