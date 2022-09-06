@@ -16,5 +16,6 @@
   "blue-topaz-theme@@link-underline": false,
   "blue-topaz-theme@@loading-animation": false,
   "blue-topaz-theme@@remove-custom-svg-icons": false,
-  "blue-topaz-theme@@default-icons": false
+  "blue-topaz-theme@@default-icons": false,
+  "minimal-style@@embed-strict": false
 }
