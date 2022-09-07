@@ -18,5 +18,8 @@
   "blue-topaz-theme@@remove-custom-svg-icons": false,
   "blue-topaz-theme@@default-icons": false,
   "minimal-style@@embed-strict": false,
-  "minimal-style@@active-line-on": true
+  "minimal-style@@active-line-on": true,
+  "minimal-advanced@@window-title-on": false,
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@cursor": "default"
 }
