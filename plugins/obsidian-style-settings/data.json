@@ -22,5 +22,6 @@
   "minimal-advanced@@window-title-on": false,
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "default",
-  "minimal-style@@title-alignment": "title-align-left"
+  "minimal-style@@title-alignment": "title-align-left",
+  "minimal-style@@show-grabber": false
 }
