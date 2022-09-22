@@ -5,16 +5,36 @@
       "path": "2022-09/NoneBot踩坑经验.md"
     },
     {
+      "basename": "【计划】2022-09",
+      "path": "2022-09/【计划】2022-09.md"
+    },
+    {
       "basename": "【看板】通用",
       "path": "global/【看板】通用.md"
     },
     {
-      "basename": "Splatoon3 拆解分析.excalidraw",
-      "path": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
+      "basename": "【计划】2022-05",
+      "path": "2022-05/【计划】2022-05.md"
     },
     {
-      "basename": "【计划】2022-09",
-      "path": "2022-09/【计划】2022-09.md"
+      "basename": "【计划】2022-07",
+      "path": "2022-07/【计划】2022-07.md"
+    },
+    {
+      "basename": "【计划】2022-06",
+      "path": "2022-06/【计划】2022-06.md"
+    },
+    {
+      "basename": "【计划】2022-08",
+      "path": "2022-08/【计划】2022-08.md"
+    },
+    {
+      "basename": "2022年度计划",
+      "path": "2022-02/2022年度计划.md"
+    },
+    {
+      "basename": "Splatoon3 拆解分析.excalidraw",
+      "path": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
     },
     {
       "basename": "咕噜咕噜痴汉电车",
@@ -81,10 +101,6 @@
       "path": "2022-08/【笔记】MMORPG技能管线设计经验总结.md"
     },
     {
-      "basename": "【计划】2022-07",
-      "path": "2022-07/【计划】2022-07.md"
-    },
-    {
       "basename": "【项目】Obsidian美化计划",
       "path": "2022-09/【项目】Obsidian美化计划.md"
     },
@@ -95,10 +111,6 @@
     {
       "basename": "Obsidian插件使用经验",
       "path": "2021-10/Obsidian插件使用经验.md"
-    },
-    {
-      "basename": "2022年度计划",
-      "path": "2022-02/2022年度计划.md"
     }
   ],
   "omittedPaths": [],
