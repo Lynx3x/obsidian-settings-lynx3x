@@ -75,6 +75,13 @@
         "value": false,
         "description": "Open the link in the current active pane (on) or a new pane (off)."
       }
+    },
+    "Downloaded/Box Selected Elements": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the box the script creates"
+      }
     }
   },
   "defaultTrayMode": false,
