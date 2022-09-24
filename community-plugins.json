@@ -1,6 +1,5 @@
 [
   "obsidian-auto-link-title",
-  "obsidian-pangu",
   "obsidian-electron-window-tweaker",
   "customizable-sidebar",
   "remember-cursor-position",
@@ -25,5 +24,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-outliner",
   "obsidian-contextual-typography",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pangu"
 ]
