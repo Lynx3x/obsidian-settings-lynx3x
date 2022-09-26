@@ -7,7 +7,6 @@
   "obsidian-copy-block-link",
   "hotkey-helper",
   "templater-obsidian",
-  "markdown-prettifier",
   "cm-chs-patch",
   "obsidian-auto-pair-chinese-symbol",
   "dataview",
@@ -25,5 +24,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-pangu",
   "ob-table-enhancer",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "cmenu-plugin"
 ]
