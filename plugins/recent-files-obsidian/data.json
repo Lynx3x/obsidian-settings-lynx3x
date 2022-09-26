@@ -17,72 +17,8 @@
       "path": "2022-09/咕噜咕噜痴汉电车.md"
     },
     {
-      "basename": "NoneBot踩坑经验",
-      "path": "2022-09/NoneBot踩坑经验.md"
-    },
-    {
       "basename": "Unity自动翻译插件AutoTranslator",
       "path": "2022-09/Unity自动翻译插件AutoTranslator.md"
-    },
-    {
-      "basename": "Splatoon3 拆解分析.excalidraw",
-      "path": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
-    },
-    {
-      "basename": "Splatoon3打工经验整理",
-      "path": "2022-09/Splatoon3打工经验整理.md"
-    },
-    {
-      "basename": "机核待整理电台节目",
-      "path": "2022-09/机核待整理电台节目.md"
-    },
-    {
-      "basename": "【笔记】what 3 words",
-      "path": "2022-07/【笔记】what 3 words.md"
-    },
-    {
-      "basename": "Obsidian插件推荐",
-      "path": "2021-10/Obsidian插件推荐.md"
-    },
-    {
-      "basename": "【笔记】MMORPG技能管线设计经验总结",
-      "path": "2022-08/【笔记】MMORPG技能管线设计经验总结.md"
-    },
-    {
-      "basename": "独立开发者赚钱经验分享",
-      "path": "2022-09/独立开发者赚钱经验分享.md"
-    },
-    {
-      "basename": "2022-09-25",
-      "path": "diary/2022-09-25.md"
-    },
-    {
-      "basename": "优质UP主清单",
-      "path": "2022-06/优质UP主清单.md"
-    },
-    {
-      "basename": "【购物分享】牛奶",
-      "path": "2022-06/【购物分享】牛奶.md"
-    },
-    {
-      "basename": "【计划】2022-05",
-      "path": "2022-05/【计划】2022-05.md"
-    },
-    {
-      "basename": "【计划】2022-07",
-      "path": "2022-07/【计划】2022-07.md"
-    },
-    {
-      "basename": "【计划】2022-06",
-      "path": "2022-06/【计划】2022-06.md"
-    },
-    {
-      "basename": "【计划】2022-08",
-      "path": "2022-08/【计划】2022-08.md"
-    },
-    {
-      "basename": "2022年度计划",
-      "path": "2022-02/2022年度计划.md"
     },
     {
       "basename": "FFXIV-GShade操作",
@@ -97,12 +33,20 @@
       "path": "2022-09/【经验】达美乐披萨评价.md"
     },
     {
+      "basename": "Obsidian插件推荐",
+      "path": "2021-10/Obsidian插件推荐.md"
+    },
+    {
       "basename": "【经验】Obsidian Minimal主题使用",
       "path": "2022-09/【经验】Obsidian Minimal主题使用.md"
     },
     {
       "basename": "Obsidian Excalidraw中文字体设置",
       "path": "2022-09/Obsidian Excalidraw中文字体设置.md"
+    },
+    {
+      "basename": "【看板】通用",
+      "path": "global/【看板】通用.md"
     },
     {
       "basename": "【笔记】喷喷3打工经验",
@@ -117,6 +61,10 @@
       "path": "2022-02/日常锻炼整合.md"
     },
     {
+      "basename": "优质UP主清单",
+      "path": "2022-06/优质UP主清单.md"
+    },
+    {
       "basename": "【草稿】工作流相关思考",
       "path": "2021-12/【草稿】工作流相关思考.md"
     },
@@ -129,6 +77,14 @@
       "path": "2022-02/【复盘】2021计划.md"
     },
     {
+      "basename": "【笔记】MMORPG技能管线设计经验总结",
+      "path": "2022-08/【笔记】MMORPG技能管线设计经验总结.md"
+    },
+    {
+      "basename": "【计划】2022-07",
+      "path": "2022-07/【计划】2022-07.md"
+    },
+    {
       "basename": "【项目】Obsidian美化计划",
       "path": "2022-09/【项目】Obsidian美化计划.md"
     },
@@ -139,6 +95,10 @@
     {
       "basename": "Obsidian插件使用经验",
       "path": "2021-10/Obsidian插件使用经验.md"
+    },
+    {
+      "basename": "2022年度计划",
+      "path": "2022-02/2022年度计划.md"
     }
   ],
   "omittedPaths": [],
