@@ -1,6 +1,4 @@
 [
-  "obsidian-auto-link-title",
-  "obsidian-pangu",
   "obsidian-electron-window-tweaker",
   "customizable-sidebar",
   "remember-cursor-position",
@@ -20,10 +18,13 @@
   "obsidian-memos",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "markdown-table-editor",
   "recent-files-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-outliner",
   "obsidian-contextual-typography",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pangu",
+  "ob-table-enhancer",
+  "obsidian-table-generator",
+  "remotely-save"
 ]
