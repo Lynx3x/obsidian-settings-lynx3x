@@ -1,5 +1,4 @@
 [
-  "obsidian-electron-window-tweaker",
   "customizable-sidebar",
   "remember-cursor-position",
   "tag-wrangler",
@@ -25,5 +24,6 @@
   "obsidian-pangu",
   "ob-table-enhancer",
   "obsidian-table-generator",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-electron-window-tweaker"
 ]
