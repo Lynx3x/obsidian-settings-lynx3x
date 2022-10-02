@@ -5,7 +5,7 @@
   "ProcessEntriesBelow": "## Memo",
   "Language": "en",
   "SaveMemoButtonLabel": "SEND",
-  "SaveMemoButtonIcon": "✍️",
+  "SaveMemoButtonIcon": "✏",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "List",
