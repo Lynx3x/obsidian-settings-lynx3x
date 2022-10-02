@@ -1,5 +1,4 @@
 [
-  "customizable-sidebar",
   "remember-cursor-position",
   "tag-wrangler",
   "smart-random-note",
@@ -26,5 +25,6 @@
   "obsidian-table-generator",
   "cmenu-plugin",
   "obsidian-electron-window-tweaker",
-  "supercharged-links-obsidian"
+  "supercharged-links-obsidian",
+  "cmdr"
 ]
