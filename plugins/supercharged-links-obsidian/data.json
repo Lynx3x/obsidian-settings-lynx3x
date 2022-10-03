@@ -16,7 +16,7 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "aec6-5b2a",
-      "selectText": true,
+      "selectText": false,
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
