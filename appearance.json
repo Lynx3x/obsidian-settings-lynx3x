@@ -6,6 +6,7 @@
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "font",
-    "external-link-icons"
+    "external-link-icons",
+    "supercharged-links-gen"
   ]
 }

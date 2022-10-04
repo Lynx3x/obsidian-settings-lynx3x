@@ -1,0 +1,39 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:63616879-0eef-409d-bf0d-60e6d6834ac4",
+      "icon": "edit",
+      "name": "QuickAdd: 添加新笔记",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1092f112-3058-43e9-be43-d6aa306b0d9d",
+      "icon": "upload-cloud",
+      "name": "QuickAdd: SyncToGithub",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Templater",
+      "新建 Excalidraw 绘图",
+      "打开快速切换",
+      "查看关系图谱",
+      "打开/创建今天的日记",
+      "插入模板",
+      "打开命令面板"
+    ]
+  },
+  "spacing": 8
+}

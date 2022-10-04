@@ -23,5 +23,6 @@
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "default",
   "minimal-style@@title-alignment": "title-align-left",
-  "minimal-style@@show-grabber": false
+  "minimal-style@@show-grabber": false,
+  "supercharged-links@@aec6-5b2a-before": "📑"
 }
