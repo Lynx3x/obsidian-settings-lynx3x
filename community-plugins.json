@@ -26,5 +26,6 @@
   "cmenu-plugin",
   "obsidian-electron-window-tweaker",
   "supercharged-links-obsidian",
-  "cmdr"
+  "cmdr",
+  "obsidian-linter"
 ]
