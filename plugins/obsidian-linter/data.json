@@ -25,9 +25,9 @@
       "Text to insert": "aliases: \ntags: "
     },
     "Move Tags to Yaml": {
-      "Move all tags to Yaml frontmatter of the document.": false,
-      "Yaml tags section style": "single-line",
-      "Remove the hashtag from tags in content body": false,
+      "Move all tags to Yaml frontmatter of the document.": true,
+      "Yaml tags section style": "multi-line",
+      "Remove the hashtag from tags in content body": true,
       "Tags to ignore": ""
     },
     "Remove YAML Keys": {
