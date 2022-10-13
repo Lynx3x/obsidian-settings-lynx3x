@@ -8,5 +8,7 @@
     "font",
     "external-link-icons",
     "supercharged-links-gen"
-  ]
+  ],
+  "accentColor": "",
+  "showViewHeader": false
 }

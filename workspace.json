@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "1553329c3cdbd7aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2977bbd3fd2a2e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc24f9057d9c65be",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
+          },
+          {
+            "id": "fac189fe7fc8fc87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-12/【草稿】工作流相关思考.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ed61ba11df9cd94",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2cd8b27bb0d571",
+        "type": "tabs",
+        "dimension": 22.774869109947645,
+        "children": [
+          {
+            "id": "e58077ec8f45a165",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fd46c820483008e",
+        "type": "tabs",
+        "dimension": 18.32460732984293,
+        "children": [
+          {
+            "id": "442657a66b40301e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "393732212189570c",
+        "type": "tabs",
+        "dimension": 25.74171029668412,
+        "children": [
+          {
+            "id": "4ab0b3d552c5aed2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "183e74832e39f82f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8ede93b22f723a4e",
+        "type": "tabs",
+        "dimension": 33.1588132635253,
+        "children": [
+          {
+            "id": "baef394a53310d2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "right": {
+    "id": "a470ba3a58289b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "056ec32a8be876eb",
+        "type": "tabs",
+        "dimension": 48.83900928792569,
+        "children": [
+          {
+            "id": "c41be16fce382e52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
+          },
+          {
+            "id": "eb9c968187014fb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c790e932bb467a4",
+        "type": "tabs",
+        "dimension": 51.16099071207431,
+        "children": [
+          {
+            "id": "ab87edd326cf0ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dc24f9057d9c65be",
+  "lastOpenFiles": [
+    "2021-12/【草稿】工作流相关思考.md",
+    "2022-10/【计划】2022-10.md",
+    "2021-10/Obsidian插件推荐.md",
+    "2022-10/吐个黑泥吧，感觉这游戏玩了越久，值得期待的内容就越来越少.md",
+    "2022-10/FF14.md",
+    "2022-06/优质UP主清单.md",
+    "global/【看板】通用.md",
+    "2022-08/FF14 6.18 55pvp推车心得.md",
+    "2022-10/成为女生crush的小细节.md",
+    "2022-02/日常锻炼整合.md"
+  ]
+}

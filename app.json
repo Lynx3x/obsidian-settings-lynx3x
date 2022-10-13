@@ -13,5 +13,6 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true
 }

@@ -19,10 +19,7 @@
   "blue-topaz-theme@@default-icons": false,
   "minimal-style@@embed-strict": false,
   "minimal-style@@active-line-on": true,
-  "minimal-advanced@@window-title-on": false,
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "default",
-  "minimal-style@@title-alignment": "title-align-left",
-  "minimal-style@@show-grabber": false,
   "supercharged-links@@aec6-5b2a-before": "📑"
 }
