@@ -21,5 +21,11 @@
   "minimal-style@@active-line-on": true,
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "default",
-  "supercharged-links@@aec6-5b2a-before": "📑"
+  "supercharged-links@@aec6-5b2a-before": "📑",
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@row-hover": true
 }
