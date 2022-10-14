@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b8d9c36bf9b0028",
+        "id": "024141ee3cc755ae",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9180c3584c3dc6",
+            "id": "540269b46903ed7c",
             "type": "leaf",
             "state": {
               "type": "memos_view",
@@ -165,7 +165,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0c9180c3584c3dc6",
+  "active": "540269b46903ed7c",
   "lastOpenFiles": [
     "diary/2022-10-12.md",
     "2021-12/【草稿】工作流相关思考.md",
