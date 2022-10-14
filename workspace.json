@@ -8,11 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "540269b46903ed7c",
+            "id": "9e722657bdb9bbf7",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
+            }
+          },
+          {
+            "id": "546cf0b326db93ef",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
             }
           },
           {
@@ -55,16 +65,6 @@
             }
           },
           {
-            "id": "9e722657bdb9bbf7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
-            }
-          },
-          {
             "id": "9e4603d8538e2e0f",
             "type": "leaf",
             "state": {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -184,16 +185,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2021-10/Obsidian插件推荐.md"
               }
-            }
-          },
-          {
-            "id": "eb9c968187014fb6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ]
@@ -209,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2021-10/Obsidian插件推荐.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,23 +212,32 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "eb9c968187014fb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9e722657bdb9bbf7",
+  "active": "7205599bf10cd0ad",
   "lastOpenFiles": [
+    "2022-10/【计划】2022-10.md",
+    "2021-12/【草稿】工作流相关思考.md",
+    "2021-10/Obsidian插件推荐.md",
     "2022-10/关于看板的思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2021-10/Obsidian插件推荐.md",
-    "2021-12/【草稿】工作流相关思考.md",
-    "2022-10/【计划】2022-10.md",
     "2022-02/日常锻炼整合.md",
     "2022-03/【购物分享】不计后果BJHG.md",
     "diary/2022-10-12.md",
