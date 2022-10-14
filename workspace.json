@@ -14,8 +14,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "7205599bf10cd0ad",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
             }
           },
           {
@@ -146,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-10/【计划】2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +179,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "540269b46903ed7c",
+  "active": "7205599bf10cd0ad",
   "lastOpenFiles": [
+    "2022-10/关于看板的思考.md",
+    "2022-10/【计划】2022-10.md",
     "diary/2022-10-12.md",
     "2021-12/【草稿】工作流相关思考.md",
     "diary/2022-03-15.md",
@@ -174,8 +190,6 @@
     "diary/2022-06-12.md",
     "diary/2022-06-16.md",
     "diary/2022-06-15.md",
-    "diary/2022-06-17.md",
-    "diary/2022-06-19.md",
-    "diary/2022-06-21.md"
+    "diary/2022-06-17.md"
   ]
 }
