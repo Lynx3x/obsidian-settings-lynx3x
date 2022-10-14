@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10/Dataview经验.md",
+                "file": "2021-12/【草稿】工作流相关思考.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/Dataview经验.md"
+                "file": "2021-12/【草稿】工作流相关思考.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/Dataview经验.md",
+                "file": "2021-12/【草稿】工作流相关思考.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +198,15 @@
   },
   "active": "1011ebc052042dd4",
   "lastOpenFiles": [
-    "global/【看板】通用.md",
+    "2021-12/笔记与工作流.md",
+    "2021-12/【草稿】工作流相关思考.md",
+    "2022-10/【计划】2022-10.md",
     "2022-10/Dataview经验.md",
+    "global/【看板】通用.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-06/【购物分享】牛奶.md",
-    "2022-10/【计划】2022-10.md",
-    "2021-12/【草稿】工作流相关思考.md",
     "2022-02/日常锻炼整合.md",
     "2022-10/吐个黑泥吧，感觉这游戏玩了越久，值得期待的内容就越来越少.md",
-    "2022-10/FF14.md",
-    "2022-06/优质UP主清单.md"
+    "2022-10/FF14.md"
   ]
 }
