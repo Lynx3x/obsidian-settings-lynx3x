@@ -40,9 +40,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0507c7096ad7beba",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
+          },
+          {
+            "id": "9e4603d8538e2e0f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/关于看板的思考.md"
+                "file": "2022-10/【计划】2022-10.md"
               }
             }
           },
@@ -176,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/关于看板的思考.md",
+                "file": "2022-10/【计划】2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +216,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81230f0c5c1c2c04",
+  "active": "0507c7096ad7beba",
   "lastOpenFiles": [
-    "2021-10/Obsidian插件推荐.md",
-    "2022-10/关于看板的思考.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
+    "2022-10/关于看板的思考.md",
+    "2022-03/【购物分享】不计后果BJHG.md",
+    "2021-10/Obsidian插件推荐.md",
     "diary/2022-10-12.md",
     "2021-12/【草稿】工作流相关思考.md",
     "diary/2022-03-15.md",
     "diary/2022-06-10.md",
-    "diary/2022-06-12.md",
-    "diary/2022-06-16.md",
-    "diary/2022-06-15.md"
+    "diary/2022-06-12.md"
   ]
 }
