@@ -28,10 +28,10 @@
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
   "DefaultMemoComposition": "{TIME} {CONTENT}",
-  "CommentOnMemos": false,
-  "CommentsInOriginalNotes": false,
+  "CommentOnMemos": true,
+  "CommentsInOriginalNotes": true,
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
-  "ShowCommentOnMemos": false,
+  "ShowCommentOnMemos": true,
   "ShowLeftSideBar": false
 }
