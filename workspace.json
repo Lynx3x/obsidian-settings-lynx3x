@@ -23,7 +23,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "global/【看板】通用.md"
               }
             }
           },
@@ -33,7 +33,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-12/【草稿】工作流相关思考.md",
+                "file": "2021-10/Obsidian插件推荐.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1011ebc052042dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10/Dataview经验.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-10/Dataview经验.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-10/Dataview经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,23 +203,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f75852df900cb4b6",
+  "active": "1011ebc052042dd4",
   "lastOpenFiles": [
+    "2021-10/Obsidian插件推荐.md",
+    "2022-10/Dataview经验.md",
+    "global/【看板】通用.md",
     "2022-10/【计划】2022-10.md",
     "2021-12/【草稿】工作流相关思考.md",
-    "2021-10/Obsidian插件推荐.md",
+    "2022-02/日常锻炼整合.md",
     "2022-10/吐个黑泥吧，感觉这游戏玩了越久，值得期待的内容就越来越少.md",
     "2022-10/FF14.md",
     "2022-06/优质UP主清单.md",
-    "global/【看板】通用.md",
-    "2022-08/FF14 6.18 55pvp推车心得.md",
-    "2022-10/成为女生crush的小细节.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-08/FF14 6.18 55pvp推车心得.md"
   ]
 }
