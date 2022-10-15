@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/关于看板的思考.md"
+                "file": "2022-09/【计划】2022-09.md"
               }
             }
           }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/关于看板的思考.md",
+                "file": "2022-09/【计划】2022-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81230f0c5c1c2c04",
+  "active": "93de99abffcbe41b",
   "lastOpenFiles": [
+    "2022-10/关于看板的思考.md",
     "2022-09/【计划】2022-09.md",
     "2021-12/【草稿】工作流相关思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
@@ -239,7 +240,6 @@
     "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
     "2022-10/解决Win10无法睡眠问题.md",
     "2022-10/【计划】2022-10.md",
-    "2022-10/关于看板的思考.md",
     "2022-06/【计划】2022-06.md"
   ]
 }
