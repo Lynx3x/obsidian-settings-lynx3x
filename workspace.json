@@ -32,12 +32,9 @@
             "id": "abcce844c155cdc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2022-10/解决Win10无法睡眠问题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
               }
             }
           },
@@ -187,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/解决Win10无法睡眠问题.md"
+                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
               }
             }
           }
@@ -204,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/解决Win10无法睡眠问题.md",
+                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +231,7 @@
   },
   "active": "abcce844c155cdc0",
   "lastOpenFiles": [
+    "2022-10/解决Win10无法睡眠问题.md",
     "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
     "2022-09/【计划】2022-09.md",
     "2022-10/【计划】2022-10.md",
@@ -242,7 +240,6 @@
     "2022-06/【计划】2022-06.md",
     "2022-06/优质UP主清单.md",
     "2021-12/【草稿】工作流相关思考.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-10/工作流流向与项目分类思考.excalidraw.md"
   ]
 }
