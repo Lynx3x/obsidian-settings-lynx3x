@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/关于看板的思考.md"
+                "file": "2022-10/【计划】2022-10.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/关于看板的思考.md",
+                "file": "2022-10/【计划】2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +230,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81230f0c5c1c2c04",
+  "active": "546cf0b326db93ef",
   "lastOpenFiles": [
-    "2022-06/优质UP主清单.md",
     "2022-10/关于看板的思考.md",
+    "2022-06/优质UP主清单.md",
     "2021-12/【草稿】工作流相关思考.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-10/【计划】2022-10.md",
