@@ -32,9 +32,12 @@
             "id": "abcce844c155cdc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
+                "file": "2022-08/FF14 6.18 55pvp推车心得.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -184,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md"
+                "file": "2022-08/FF14 6.18 55pvp推车心得.md"
               }
             }
           }
@@ -201,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
+                "file": "2022-08/FF14 6.18 55pvp推车心得.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +234,8 @@
   },
   "active": "abcce844c155cdc0",
   "lastOpenFiles": [
-    "2022-10/解决Win10无法睡眠问题.md",
     "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
+    "2022-10/解决Win10无法睡眠问题.md",
     "2022-09/【计划】2022-09.md",
     "2022-10/【计划】2022-10.md",
     "2021-10/Obsidian插件推荐.md",
