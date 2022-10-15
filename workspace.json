@@ -16,22 +16,25 @@
             }
           },
           {
-            "id": "546cf0b326db93ef",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
-            }
-          },
-          {
             "id": "7205599bf10cd0ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-10/Obsidian插件推荐.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abcce844c155cdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10/解决Win10无法睡眠问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "薯条",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/解决Win10无法睡眠问题.md"
               }
             }
           }
@@ -202,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-10/解决Win10无法睡眠问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,17 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "546cf0b326db93ef",
+  "active": "abcce844c155cdc0",
   "lastOpenFiles": [
+    "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
+    "2022-09/【计划】2022-09.md",
+    "2022-10/【计划】2022-10.md",
+    "2021-10/Obsidian插件推荐.md",
     "2022-10/关于看板的思考.md",
+    "2022-06/【计划】2022-06.md",
     "2022-06/优质UP主清单.md",
     "2021-12/【草稿】工作流相关思考.md",
-    "2021-10/Obsidian插件推荐.md",
-    "2022-10/【计划】2022-10.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-03/【购物分享】不计后果BJHG.md",
-    "diary/2022-10-12.md",
-    "diary/2022-03-15.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
