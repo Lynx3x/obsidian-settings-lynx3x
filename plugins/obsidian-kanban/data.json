@@ -30,5 +30,7 @@
   "show-relative-date": true,
   "show-archive-all": false,
   "hide-tags-in-title": false,
-  "hide-tags-display": false
+  "hide-tags-display": false,
+  "hide-card-count": false,
+  "tag-colors": []
 }

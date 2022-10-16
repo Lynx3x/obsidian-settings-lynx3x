@@ -25,11 +25,23 @@
     {
       "type": "tag",
       "name": "",
-      "value": "#完成状态/已完成",
+      "value": "完成状态/已完成",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "6b9e-72a3",
-      "selectText": false,
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "完成状态/未完成",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "46bb-4765",
+      "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
