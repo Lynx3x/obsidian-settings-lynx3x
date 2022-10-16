@@ -42,6 +42,19 @@
             }
           },
           {
+            "id": "43251b12ca1d1b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10/关于看板的思考.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93de99abffcbe41b",
             "type": "leaf",
             "state": {
@@ -75,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/关于看板的思考.md"
               }
             }
           }
@@ -201,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-10/关于看板的思考.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,17 +242,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9e4603d8538e2e0f",
+  "active": "43251b12ca1d1b51",
   "lastOpenFiles": [
-    "2022-09/【计划】2022-09.md",
-    "2022-10/关于看板的思考.md",
+    "2022-10/【计划】2022-10.md",
     "2021-12/【草稿】工作流相关思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-09/【计划】2022-09.md",
+    "2022-10/关于看板的思考.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-08/FF14 6.18 55pvp推车心得.md",
     "Excalidraw/Splatoon3 拆解分析.excalidraw.md",
     "2022-10/解决Win10无法睡眠问题.md",
-    "2022-10/【计划】2022-10.md",
     "2022-06/【计划】2022-06.md"
   ]
 }
