@@ -14,8 +14,22 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "ff6d96da53e8d29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10/一个无成本的改善睡眠方法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-10/一个无成本的改善睡眠方法.md"
+              }
             }
           }
         ]
@@ -140,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-10/一个无成本的改善睡眠方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +185,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fcf4146aed1dd4f8",
+  "active": "ff6d96da53e8d29c",
   "lastOpenFiles": [
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
