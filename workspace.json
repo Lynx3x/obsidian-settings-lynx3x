@@ -21,11 +21,12 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fcf4146aed1dd4f8",
+  "active": "0796055dde0ed205",
   "lastOpenFiles": [
-    "2022-09/【笔记】喷喷3打工经验.md",
     "global/【看板】通用.md",
+    "diary/2022-10-17.md",
+    "2022-09/【笔记】喷喷3打工经验.md",
     "2022-09/Splatoon3打工经验整理.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-10/一个无成本的改善睡眠方法.md",
     "2022-10/调整作息，摆脱恶性循环的方法.md",
-    "2022-10/Dataview经验.md",
-    "2022-09/【计划】2022-09.md"
+    "2022-10/Dataview经验.md"
   ]
 }
