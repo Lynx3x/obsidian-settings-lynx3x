@@ -11,10 +11,8 @@
             "id": "fcf4146aed1dd4f8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -126,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +170,10 @@
   },
   "active": "fcf4146aed1dd4f8",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-10/调整作息，摆脱恶性循环的方法.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/Dataview经验.md",
     "2022-09/【计划】2022-09.md",
     "2022-09/咕噜咕噜痴汉电车.md",
