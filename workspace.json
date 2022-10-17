@@ -19,9 +19,12 @@
             "id": "0796055dde0ed205",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-10/饮食计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -118,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-10/饮食计划.md"
               }
             }
           }
@@ -152,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-10/饮食计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,13 +179,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "0796055dde0ed205",
   "lastOpenFiles": [
+    "2022-02/日常锻炼整合.md",
     "global/【看板】通用.md",
     "diary/2022-10-17.md",
     "2022-09/【笔记】喷喷3打工经验.md",
@@ -190,7 +196,6 @@
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-10/一个无成本的改善睡眠方法.md",
-    "2022-10/调整作息，摆脱恶性循环的方法.md",
-    "2022-10/Dataview经验.md"
+    "2022-10/调整作息，摆脱恶性循环的方法.md"
   ]
 }
