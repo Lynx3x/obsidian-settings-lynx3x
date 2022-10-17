@@ -11,8 +11,10 @@
             "id": "fcf4146aed1dd4f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              }
             }
           }
         ]
@@ -75,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#完成状态/未完成",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -123,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              }
             }
           }
         ]
@@ -139,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,22 +167,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "fcf4146aed1dd4f8",
   "lastOpenFiles": [
-    "2022-10/调整作息，摆脱恶性循环的方法.md",
     "2022-10/【计划】2022-10.md",
+    "2022-06/优质UP主清单.md",
+    "2022-10/调整作息，摆脱恶性循环的方法.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/Dataview经验.md",
     "2022-09/【计划】2022-09.md",
     "2022-09/咕噜咕噜痴汉电车.md",
     "pluginTestingFiles/TestBoard.md",
     "2021-10/Obsidian插件推荐.md",
-    "2022-10/FF14.md",
-    "global/【看板】通用.md"
+    "2022-10/FF14.md"
   ]
 }
