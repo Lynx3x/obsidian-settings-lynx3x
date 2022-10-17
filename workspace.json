@@ -19,9 +19,9 @@
             "id": "0796055dde0ed205",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,23 +175,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "0796055dde0ed205",
   "lastOpenFiles": [
+    "2022-09/【笔记】喷喷3打工经验.md",
+    "global/【看板】通用.md",
+    "2022-09/Splatoon3打工经验整理.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-10/一个无成本的改善睡眠方法.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/调整作息，摆脱恶性循环的方法.md",
     "2022-10/Dataview经验.md",
-    "2022-09/【计划】2022-09.md",
-    "2022-09/咕噜咕噜痴汉电车.md",
-    "pluginTestingFiles/TestBoard.md",
-    "2021-10/Obsidian插件推荐.md"
+    "2022-09/【计划】2022-09.md"
   ]
 }
