@@ -11,10 +11,8 @@
             "id": "fcf4146aed1dd4f8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
