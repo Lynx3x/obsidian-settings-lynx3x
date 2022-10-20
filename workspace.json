@@ -19,9 +19,12 @@
             "id": "7f7ccdb6d0ed231e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/心理人格性格测试相关.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -95,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/心理人格性格测试相关.md"
               }
             }
           }
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-10/心理人格性格测试相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +185,9 @@
   },
   "active": "7f7ccdb6d0ed231e",
   "lastOpenFiles": [
+    "2022-10/【计划】2022-10.md",
     "2022-09/Splatoon3打工经验整理.md",
     "2022-02/日常锻炼整合.md",
-    "2022-10/【计划】2022-10.md",
     "2021-06/缺氧游玩笔记.md",
     "2022-10/Obsidian同步&备份方案.md",
     "2021-10/Obsidian插件推荐.md",
