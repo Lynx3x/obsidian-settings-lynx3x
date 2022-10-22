@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10/一些想要成为的男生例子.md",
+                "file": "2022-10/吸血鬼幸存者心得.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,9 +32,12 @@
             "id": "31249b1c626c91c8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "global/【看板】通用.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/一些想要成为的男生例子.md"
+                "file": "2022-10/吸血鬼幸存者心得.md"
               }
             }
           }
@@ -165,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/一些想要成为的男生例子.md",
+                "file": "2022-10/吸血鬼幸存者心得.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,9 +199,9 @@
   },
   "active": "99cc87ef90662ff3",
   "lastOpenFiles": [
+    "2022-10/一些想要成为的男生例子.md",
     "global/【看板】通用.md",
     "2022-06/优质UP主清单.md",
-    "2022-10/一些想要成为的男生例子.md",
     "2022-10/【计划】2022-10.md",
     "2022-02/2022年度计划.md",
     "2022-10/心理人格性格测试相关.md",
