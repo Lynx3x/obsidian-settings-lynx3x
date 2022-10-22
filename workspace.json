@@ -19,14 +19,30 @@
             "id": "965bc03e592c44bf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "diary/2022-10-03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a7a59ab4dd8d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-10/Obsidian插件推荐.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +54,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 26.36203866432337,
+        "dimension": 26.32869991823385,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -53,7 +69,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 17.57469244288225,
+        "dimension": 17.57972199509403,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -68,7 +84,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 22.93497363796134,
+        "dimension": 32.134096484055604,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -89,7 +105,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -101,7 +117,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.12829525483304,
+        "dimension": 23.957481602616518,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -135,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2021-10/Obsidian插件推荐.md"
               }
             }
           },
@@ -147,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8c790e932bb467a4",
@@ -161,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2021-10/Obsidian插件推荐.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,23 +199,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "965bc03e592c44bf",
+  "active": "c41be16fce382e52",
   "lastOpenFiles": [
+    "diary/2022-10-03.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
+    "2022-09/【计划】2022-09.md",
     "2021-12/工作流相关思考.md",
     "2022-10/Obsidian同步&备份方案.md",
     "diary/2022-10-22.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "global/【看板】通用.md",
     "2022-08/戴森球计划再启动.md",
-    "2022-09/【经验】eraTw 心得.md",
-    "2022-10/吸血鬼幸存者心得.md",
-    "2022-02/2022年度计划.md"
+    "2022-09/【经验】eraTw 心得.md"
   ]
 }
