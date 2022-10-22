@@ -12,15 +12,15 @@
       "mode": "any"
     },
     {
-      "id": "quickadd:choice:1092f112-3058-43e9-be43-d6aa306b0d9d",
-      "icon": "upload-cloud",
-      "name": "QuickAdd: SyncToGithub",
-      "mode": "any"
-    },
-    {
       "id": "graph:open-local",
       "icon": "lucide-git-fork",
       "name": "局部关系图",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1092f112-3058-43e9-be43-d6aa306b0d9d",
+      "icon": "upload-cloud",
+      "name": "QuickAdd: SyncToGithub",
       "mode": "any"
     }
   ],
