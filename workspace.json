@@ -39,9 +39,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "480eefbea0bdc419",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
+          },
+          {
+            "id": "bd1bf68031ed7010",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-02/日常锻炼整合.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -133,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           },
@@ -176,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +223,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d60813f05111535",
+  "active": "4ab0b3d552c5aed2",
   "lastOpenFiles": [
+    "2022-10/【计划】2022-10.md",
+    "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-07/【计划】2022-07.md",
-    "2022-10/【计划】2022-10.md",
     "diary/2022-10-03.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-09/【计划】2022-09.md",
     "2021-12/工作流相关思考.md",
     "2022-10/Obsidian同步&备份方案.md",
-    "diary/2022-10-22.md",
-    "global/【看板】通用.md"
+    "diary/2022-10-22.md"
   ]
 }
