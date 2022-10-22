@@ -16,38 +16,17 @@
             }
           },
           {
-            "id": "31249b1c626c91c8",
+            "id": "7e0f7b95a2a208ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "global/【看板】通用.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "global/【看板】通用.md"
               }
             }
           }
-        ]
-      },
-      {
-        "id": "b39cab76f74d8d3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a1aa76b698c3a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2022-10-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-10-22.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -173,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-10-22.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,9 +181,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9a1aa76b698c3a37",
+  "active": "7e0f7b95a2a208ee",
   "lastOpenFiles": [
     "global/【看板】通用.md",
+    "diary/2022-10-22.md",
     "2022-10/【计划】2022-10.md",
     "2022-10/吸血鬼幸存者心得.md",
     "2022-10/一些想要成为的男生例子.md",
@@ -212,7 +192,6 @@
     "2022-02/2022年度计划.md",
     "2022-10/心理人格性格测试相关.md",
     "2022-09/Splatoon3打工经验整理.md",
-    "2022-02/日常锻炼整合.md",
-    "2021-06/缺氧游玩笔记.md"
+    "2022-02/日常锻炼整合.md"
   ]
 }
