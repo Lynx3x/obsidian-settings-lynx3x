@@ -18,31 +18,17 @@
           {
             "id": "965bc03e592c44bf",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "diary/2022-10-03.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94a7a59ab4dd8d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           },
@@ -176,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,22 +186,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c41be16fce382e52",
+  "active": "965bc03e592c44bf",
   "lastOpenFiles": [
-    "diary/2022-10-03.md",
+    "2022-07/【计划】2022-07.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
+    "diary/2022-10-03.md",
+    "2021-10/Obsidian插件推荐.md",
     "2022-09/【计划】2022-09.md",
     "2021-12/工作流相关思考.md",
     "2022-10/Obsidian同步&备份方案.md",
     "diary/2022-10-22.md",
-    "global/【看板】通用.md",
-    "2022-08/戴森球计划再启动.md",
-    "2022-09/【经验】eraTw 心得.md"
+    "global/【看板】通用.md"
   ]
 }
