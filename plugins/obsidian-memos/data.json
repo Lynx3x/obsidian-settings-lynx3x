@@ -27,7 +27,7 @@
   "UseVaultTags": true,
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
-  "DefaultMemoComposition": "{TIME} {CONTENT}",
+  "DefaultMemoComposition": "{HH:mm:ss} {CONTENT}",
   "CommentOnMemos": true,
   "CommentsInOriginalNotes": true,
   "FetchMemosMark": "#memo",
