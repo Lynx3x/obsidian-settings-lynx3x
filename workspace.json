@@ -4,32 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4a77c667c49637f4",
+        "id": "1345a939e8d02b16",
         "type": "tabs",
         "children": [
           {
-            "id": "99cc87ef90662ff3",
+            "id": "3b1c7d5fa23401b3",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e0f7b95a2a208ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2022-10/吸血鬼幸存者心得.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -41,7 +29,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 22.774869109947645,
+        "dimension": 26.36203866432337,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -56,7 +44,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 18.32460732984293,
+        "dimension": 17.57469244288225,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -71,7 +59,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 25.74171029668412,
+        "dimension": 22.93497363796134,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -104,7 +92,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.1588132635253,
+        "dimension": 33.12829525483304,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -121,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -139,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/吸血鬼幸存者心得.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "509d16e5a7155e47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8c790e932bb467a4",
@@ -156,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/吸血鬼幸存者心得.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7e0f7b95a2a208ee",
+  "active": "3b1c7d5fa23401b3",
   "lastOpenFiles": [
-    "global/【看板】通用.md",
-    "2022-02/2022年度计划.md",
-    "diary/2022-10-22.md",
     "2022-10/【计划】2022-10.md",
+    "diary/2022-10-22.md",
+    "global/【看板】通用.md",
+    "2022-08/戴森球计划再启动.md",
+    "2022-09/【经验】eraTw 心得.md",
     "2022-10/吸血鬼幸存者心得.md",
+    "2022-02/2022年度计划.md",
     "2022-10/一些想要成为的男生例子.md",
     "2022-06/优质UP主清单.md",
-    "2022-10/心理人格性格测试相关.md",
-    "2022-09/Splatoon3打工经验整理.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-10/心理人格性格测试相关.md"
   ]
 }
