@@ -28,6 +28,29 @@
             }
           },
           {
+            "id": "6a4984630f706257",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-02/日常锻炼整合.md"
+              }
+            }
+          },
+          {
+            "id": "f189035e75682720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10/吸血鬼幸存者心得.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd1bf68031ed7010",
             "type": "leaf",
             "state": {
@@ -41,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -151,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/吸血鬼幸存者心得.md"
               }
             }
           },
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-10/吸血鬼幸存者心得.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,17 +226,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "965bc03e592c44bf",
+  "active": "f189035e75682720",
   "lastOpenFiles": [
+    "2022-10/【计划】2022-10.md",
+    "2022-02/日常锻炼整合.md",
+    "2022-07/关于吸血鬼幸存者.md",
+    "2022-09/【计划】2022-09.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/如果你想走近时尚，可以看看这七本书.md",
     "2022-10/从理工肥宅到时装内容美编.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-10/【计划】2022-10.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-02/2022年度计划.md",
-    "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md",
-    "2022-09/Splatoon3打工经验整理.md",
-    "2022-09/【笔记】为什么“高亮”比“转述”更好.md"
+    "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md"
   ]
 }
