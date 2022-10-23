@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/【计划】2022-10.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-10/【计划】2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,10 +212,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "965bc03e592c44bf",
+  "active": "480eefbea0bdc419",
   "lastOpenFiles": [
-    "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-10/有效整理和吸收不同类型的知识 - 我的笔记工作流.md",
     "2022-09/Splatoon3打工经验整理.md",
     "2022-09/【笔记】为什么“高亮”比“转述”更好.md",
     "2022-10/【计划】2022-10.md",
