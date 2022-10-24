@@ -31,9 +31,12 @@
             "id": "d4b9e7ce259d4a64",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/如何鉴别朋友圈渣男.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/如何鉴别朋友圈渣男.md"
               }
             }
           },
@@ -172,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-10/如何鉴别朋友圈渣男.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,9 +205,9 @@
   },
   "active": "d4b9e7ce259d4a64",
   "lastOpenFiles": [
+    "2022-10/【计划】2022-10.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-02/日常锻炼整合.md",
-    "2022-10/【计划】2022-10.md",
     "2022-10/如果你想走近时尚，可以看看这七本书.md",
     "2022-10/从理工肥宅到时装内容美编.md",
     "2022-06/优质UP主清单.md",
