@@ -7,11 +7,6 @@
       "icon": "bold-glyph"
     },
     {
-      "id": "cmenu-plugin:editor:toggle-italics",
-      "name": "cMenu: Toggle italics",
-      "icon": "italic-glyph"
-    },
-    {
       "id": "cmenu-plugin:editor:toggle-strikethrough",
       "name": "cMenu: Toggle strikethrough",
       "icon": "strikethrough-glyph"
