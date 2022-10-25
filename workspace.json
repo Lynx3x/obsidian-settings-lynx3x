@@ -41,16 +41,6 @@
             }
           },
           {
-            "id": "4ac8e51744403325",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
-            }
-          },
-          {
             "id": "8f927fada7437945",
             "type": "leaf",
             "state": {
@@ -133,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -227,17 +216,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d2364e77c553542c",
+  "active": "442657a66b40301e",
   "lastOpenFiles": [
-    "2021-12/工作流相关思考.md",
-    "2022-10/化妆.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "2022-09/【计划】2022-09.md",
     "2022-10/【计划】2022-10.md",
+    "2022-10/化妆.md",
+    "2021-12/工作流相关思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/关于看板的思考.md",
     "pluginTestingFiles/TestBoard.md",
     "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/世界观 - 冰天星.md",
-    "2022-05/【计划】2022-05.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-06/优质UP主清单.md"
+    "2022-05/【计划】2022-05.md"
   ]
 }
