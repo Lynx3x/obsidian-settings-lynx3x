@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#类别/笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +123,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/化妆.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/化妆.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,14 +217,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "442657a66b40301e",
+  "active": "965bc03e592c44bf",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "2022-09/【计划】2022-09.md",
-    "2022-10/【计划】2022-10.md",
     "2022-10/化妆.md",
     "2021-12/工作流相关思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "2022-09/【计划】2022-09.md",
+    "2022-10/【计划】2022-10.md",
     "2022-10/关于看板的思考.md",
     "pluginTestingFiles/TestBoard.md",
     "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/世界观 - 冰天星.md",
