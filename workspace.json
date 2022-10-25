@@ -26,19 +26,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5631fc446eb5393c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           },
@@ -172,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,22 +185,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5631fc446eb5393c",
+  "active": "9a2e6b0ca411e717",
   "lastOpenFiles": [
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-10/关于看板的思考.md",
     "2022-10/【计划】2022-10.md",
+    "pluginTestingFiles/TestBoard.md",
+    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/世界观 - 冰天星.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-05/【计划】2022-05.md",
+    "2022-02/日常锻炼整合.md",
     "2022-06/优质UP主清单.md",
     "global/【看板】通用.md",
-    "2022-10/如何鉴别朋友圈渣男.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-10/如果你想走近时尚，可以看看这七本书.md",
-    "2022-10/从理工肥宅到时装内容美编.md",
-    "2022-10/吸血鬼幸存者心得.md",
-    "2022-07/关于吸血鬼幸存者.md"
+    "2022-10/如何鉴别朋友圈渣男.md"
   ]
 }
