@@ -45,6 +45,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "类别/笔记",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5ed8-14df",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
