@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10/底妆防坑指南.md",
+                "file": "2022-10/化妆.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/底妆防坑指南.md"
+                "file": "2022-10/化妆.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/底妆防坑指南.md",
+                "file": "2022-10/化妆.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +220,8 @@
   },
   "active": "1d2979839f4a651e",
   "lastOpenFiles": [
-    "2022-10/化妆.md",
     "2022-10/底妆防坑指南.md",
+    "2022-10/化妆.md",
     "2022-10/化妆师告诉你为什么不要买隔离.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/论文可视化配色简易指南.md",
