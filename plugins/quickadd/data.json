@@ -264,7 +264,7 @@
             "appendLink": false,
             "incrementFileName": false,
             "openFileInNewTab": {
-              "enabled": false,
+              "enabled": true,
               "direction": "vertical",
               "focus": true
             },
