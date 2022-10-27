@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "439693abfc134e31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "aa26f22fdcee4e8e",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,10 +239,7 @@
     "width": 243.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1d2979839f4a651e",
+  "active": "439693abfc134e31",
   "lastOpenFiles": [
     "2022-10/化妆师告诉你为什么不要买隔离.md",
     "2022-10/底妆防坑指南.md",
