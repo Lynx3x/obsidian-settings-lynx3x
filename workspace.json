@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-12/工作流相关思考.md"
+                "file": "2022-10/如果你不嫌弃它丑 那这三个东西真的物超所值.md"
               }
             }
           },
@@ -233,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12/工作流相关思考.md",
+                "file": "2022-10/如果你不嫌弃它丑 那这三个东西真的物超所值.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,19 +257,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
-  "active": "4ab0b3d552c5aed2",
+  "active": "0f77da58ed19bd58",
   "lastOpenFiles": [
     "2022-10/化妆.md",
     "2022-10/如果你不嫌弃它丑 那这三个东西真的物超所值.md",
+    "2021-12/工作流相关思考.md",
     "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md",
     "2022-02/日常锻炼整合.md",
     "2022-10/年度交作业视频！挑剔主义都夸的爱用品【妆前遮瑕篇】.md",
     "2022-10/底妆防坑指南.md",
     "2022-10/化妆师告诉你为什么不要买隔离.md",
     "2022-09/咕噜咕噜痴汉电车.md",
-    "2021-12/工作流相关思考.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md"
   ]
 }
