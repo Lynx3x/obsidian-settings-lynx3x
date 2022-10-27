@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-09/咕噜咕噜痴汉电车.md",
+                "file": "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09/咕噜咕噜痴汉电车.md"
+                "file": "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09/咕噜咕噜痴汉电车.md",
+                "file": "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +232,7 @@
   "active": "1d2979839f4a651e",
   "lastOpenFiles": [
     "2022-10/化妆.md",
+    "2022-09/咕噜咕噜痴汉电车.md",
     "2021-12/工作流相关思考.md",
     "2022-10/化妆师告诉你为什么不要买隔离.md",
     "2022-10/底妆防坑指南.md",
@@ -238,7 +240,6 @@
     "2022-10/论文可视化配色简易指南.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "2022-09/【计划】2022-09.md",
-    "2022-10/【计划】2022-10.md",
-    "2022-10/关于看板的思考.md"
+    "2022-10/【计划】2022-10.md"
   ]
 }
