@@ -53,22 +53,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ec15f0426bf28fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10/消费降级后！我获得了更多的快乐｜一些可以消费降级的产品类型&产品推荐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/消费降级后！我获得了更多的快乐｜一些可以消费降级的产品类型&产品推荐.md"
+                "file": "2022-10/化妆.md"
               }
             }
           },
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/消费降级后！我获得了更多的快乐｜一些可以消费降级的产品类型&产品推荐.md",
+                "file": "2022-10/化妆.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +215,17 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "6ec15f0426bf28fd",
+  "active": "7d694771e6f60746",
   "lastOpenFiles": [
-    "2022-09/Unity自动翻译插件AutoTranslator.md",
     "2022-10/消费降级后！我获得了更多的快乐｜一些可以消费降级的产品类型&产品推荐.md",
+    "2022-10/化妆.md",
+    "2022-10/底妆防坑指南.md",
+    "2022-09/Unity自动翻译插件AutoTranslator.md",
     "2022-10/年度交作业视频！挑剔主义都夸的爱用品【妆前遮瑕篇】.md",
     "2022-05/美少女总是相似的.md",
     "global/【看板】通用.md",
     "2022-09/咕噜咕噜痴汉电车.md",
     "2022-10/【计划】2022-10.md",
-    "2022-10/吸血鬼幸存者心得.md",
-    "2022-10/化妆.md",
-    "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md"
+    "2022-10/吸血鬼幸存者心得.md"
   ]
 }
