@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a0016771478fe11",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-02/日常锻炼整合.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#游戏/黄油/职场女友带回家",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【清华毕业配方师2】3招告别无效护肤｜0岁到100岁的八大护肤要点.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           },
@@ -202,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【清华毕业配方师2】3招告别无效护肤｜0岁到100岁的八大护肤要点.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,20 +236,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
-  "active": "32fce1da010901c0",
+  "active": "4a0016771478fe11",
   "lastOpenFiles": [
+    "2022-10/【清华毕业配方师2】3招告别无效护肤｜0岁到100岁的八大护肤要点.md",
     "2022-10/化妆.md",
+    "2022-02/日常锻炼整合.md",
+    "2022-10/【清华毕业配方师】揭开4个护肤真相｜如果我25岁就知道该多好.md",
     "2022-10/消费降级后！我获得了更多的快乐｜一些可以消费降级的产品类型&产品推荐.md",
     "2022-10/底妆防坑指南.md",
     "2022-09/Unity自动翻译插件AutoTranslator.md",
     "2022-10/年度交作业视频！挑剔主义都夸的爱用品【妆前遮瑕篇】.md",
     "2022-05/美少女总是相似的.md",
-    "global/【看板】通用.md",
-    "2022-09/咕噜咕噜痴汉电车.md",
-    "2022-10/【计划】2022-10.md",
-    "2022-10/吸血鬼幸存者心得.md"
+    "global/【看板】通用.md"
   ]
 }
