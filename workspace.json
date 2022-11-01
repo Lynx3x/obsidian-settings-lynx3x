@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d48c4258102b4568",
+        "id": "14e60e5aa6cf027a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b441aea5603bb65",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1df85061526dbf8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df782e090abb27be",
+            "id": "c3bc905a2fe8cf67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/吸血鬼幸存者.md",
+                "file": "diary/2022-11-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,18 +122,8 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 48.83900928792569,
+        "dimension": 28.23741007194245,
         "children": [
-          {
-            "id": "c41be16fce382e52",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2022-11/吸血鬼幸存者.md"
-              }
-            }
-          },
           {
             "id": "509d16e5a7155e47",
             "type": "leaf",
@@ -159,9 +135,26 @@
         ]
       },
       {
+        "id": "7e68816121f3bbd9",
+        "type": "tabs",
+        "dimension": 20.593525179856115,
+        "children": [
+          {
+            "id": "c41be16fce382e52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2022-11-01.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 51.16099071207431,
+        "dimension": 51.16906474820144,
         "children": [
           {
             "id": "ab87edd326cf0ef6",
@@ -169,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/吸血鬼幸存者.md",
+                "file": "diary/2022-11-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,11 +187,11 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "df782e090abb27be",
+  "active": "c3bc905a2fe8cf67",
   "lastOpenFiles": [
+    "2022-11/吸血鬼幸存者.md",
     "2022-10/【计划】2022-10.md",
     "2022-10/吸血鬼幸存者心得.md",
-    "2022-11/吸血鬼幸存者.md",
     "2022-11/求职和实际中都会用到的技能——如何写游戏体验文档.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/关于看板的思考.md",
