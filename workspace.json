@@ -11,9 +11,12 @@
             "id": "ec0468baa55ded8d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/FF14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -108,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-10/FF14.md"
               }
             }
           }
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-10/FF14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,15 +188,15 @@
   },
   "active": "ec0468baa55ded8d",
   "lastOpenFiles": [
+    "2022-11/FF14 logs相关计算.md",
+    "2022-10/FF14.md",
+    "2022-10/【计划】2022-10.md",
     "diary/2022-11-01.md",
     "templates/diaryTmpl.md",
     "2022-11/吸血鬼幸存者.md",
-    "2022-10/【计划】2022-10.md",
     "2022-10/吸血鬼幸存者心得.md",
     "2022-11/求职和实际中都会用到的技能——如何写游戏体验文档.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-10/关于看板的思考.md",
-    "2022-10/化妆.md",
-    "2022-10/年度交作业视频！挑剔主义都夸的爱用品【妆前遮瑕篇】.md"
+    "2022-10/关于看板的思考.md"
   ]
 }
