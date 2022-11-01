@@ -14,8 +14,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "c71ee30bfc9d76a2",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-10/【计划】2022-10.md"
+              }
             }
           }
         ]
@@ -153,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-10/【计划】2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,9 +189,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
-  "active": "ec0468baa55ded8d",
+  "active": "c71ee30bfc9d76a2",
   "lastOpenFiles": [
     "2022-10/化妆.md",
     "2022-10/【计划】2022-10.md",
