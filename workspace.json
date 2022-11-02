@@ -24,9 +24,38 @@
                 "file": "2022-10/【计划】2022-10.md"
               }
             }
+          },
+          {
+            "id": "14cd89fe794a4736",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-02/日常锻炼整合.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "2dfd4c78fafbc895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f3b1f73a570e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/咖啡.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/【计划】2022-10.md"
+                "file": "2022-11/咖啡.md"
               }
             }
           }
@@ -166,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/【计划】2022-10.md",
+                "file": "2022-11/咖啡.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +221,17 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "c71ee30bfc9d76a2",
+  "active": "70f3b1f73a570e97",
   "lastOpenFiles": [
-    "2022-10/化妆.md",
+    "2022-02/日常锻炼整合.md",
     "2022-10/【计划】2022-10.md",
+    "2022-10/化妆.md",
     "2022-10/FF14.md",
     "2022-11/FF14 logs相关计算.md",
     "diary/2022-11-01.md",
     "templates/diaryTmpl.md",
     "2022-11/吸血鬼幸存者.md",
     "2022-10/吸血鬼幸存者心得.md",
-    "2022-11/求职和实际中都会用到的技能——如何写游戏体验文档.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md"
+    "2022-11/求职和实际中都会用到的技能——如何写游戏体验文档.md"
   ]
 }
