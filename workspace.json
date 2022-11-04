@@ -14,22 +14,8 @@
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "6b2d71bdc1c0d12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/为什么忍不住批判MBTI.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-11/为什么忍不住批判MBTI.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/为什么忍不住批判MBTI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +178,10 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "6b2d71bdc1c0d12b",
+  "active": "ec0468baa55ded8d",
   "lastOpenFiles": [
+    "2022-11/点外卖的心得.md",
+    "2022-11/为什么忍不住批判MBTI.md",
     "templates/DiaryTmpl.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
@@ -204,8 +189,6 @@
     "2022-11/樱井老师的开发课堂B04：游戏性之外的乐趣.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-02/2022年度计划.md",
-    "2022-10/FF14.md",
-    "2022-02/日常锻炼整合.md",
-    "2022-10/化妆.md"
+    "2022-10/FF14.md"
   ]
 }
