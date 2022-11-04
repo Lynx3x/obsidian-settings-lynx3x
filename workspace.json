@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "c71ee30bfc9d76a2",
+            "id": "6b2d71bdc1c0d12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/diaryTmpl.md",
+                "file": "2022-11/为什么忍不住批判MBTI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/diaryTmpl.md"
+                "file": "2022-11/为什么忍不住批判MBTI.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/diaryTmpl.md",
+                "file": "2022-11/为什么忍不住批判MBTI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,9 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "c71ee30bfc9d76a2",
+  "active": "6b2d71bdc1c0d12b",
   "lastOpenFiles": [
+    "templates/DiaryTmpl.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-11/咖啡.md",
@@ -205,7 +206,6 @@
     "2022-02/2022年度计划.md",
     "2022-10/FF14.md",
     "2022-02/日常锻炼整合.md",
-    "2022-10/化妆.md",
-    "2022-11/FF14 logs相关计算.md"
+    "2022-10/化妆.md"
   ]
 }
