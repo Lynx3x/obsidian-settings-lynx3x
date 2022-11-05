@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2328a5cc7f894908",
+        "id": "0a7f0fc8f1059c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "f9876f78844ed1ea",
+            "id": "d1133a15e7e6f17f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/躁郁症抗病经验.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -137,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-11/躁郁症抗病经验.md"
+              }
             }
           }
         ]
@@ -153,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-11/躁郁症抗病经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +186,7 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "f9876f78844ed1ea",
+  "active": "d1133a15e7e6f17f",
   "lastOpenFiles": [
     "2022-11/咖啡.md",
     "2022-11/点外卖的心得.md",
