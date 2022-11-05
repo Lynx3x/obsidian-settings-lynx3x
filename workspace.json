@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe4fc6587b0356af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "744e6b453749ad02",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/FF14.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -161,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/FF14.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +208,17 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "a9b5ab2e505c0028",
+  "active": "744e6b453749ad02",
   "lastOpenFiles": [
-    "2022-08/FF14 6.18 55pvp推车心得.md",
+    "2022-11/P.A.R.A.笔记法.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
+    "2022-06/优质UP主清单.md",
+    "2022-10/FF14.md",
+    "2022-08/FF14 6.18 55pvp推车心得.md",
     "2022-05/美少女总是相似的.md",
     "global/【看板】通用.md",
     "2022-11/躁郁症抗病经验.md",
-    "2022-11/咖啡.md",
-    "2022-11/点外卖的心得.md",
-    "2022-11/为什么忍不住批判MBTI.md",
-    "templates/DiaryTmpl.md"
+    "2022-11/咖啡.md"
   ]
 }
