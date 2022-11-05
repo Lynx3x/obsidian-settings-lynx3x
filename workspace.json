@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-08/FF14 6.18 55pvp推车心得.md",
+                "file": "2022-10/FF14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08/FF14 6.18 55pvp推车心得.md"
+                "file": "2022-10/FF14.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08/FF14 6.18 55pvp推车心得.md",
+                "file": "2022-10/FF14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,7 @@
   },
   "active": "a9b5ab2e505c0028",
   "lastOpenFiles": [
+    "2022-08/FF14 6.18 55pvp推车心得.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-05/美少女总是相似的.md",
@@ -197,7 +198,6 @@
     "2022-11/咖啡.md",
     "2022-11/点外卖的心得.md",
     "2022-11/为什么忍不住批判MBTI.md",
-    "templates/DiaryTmpl.md",
-    "2022-06/优质UP主清单.md"
+    "templates/DiaryTmpl.md"
   ]
 }
