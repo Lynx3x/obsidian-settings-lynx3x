@@ -14,7 +14,7 @@
   "DefaultEditorLocation": "Top",
   "UseButtonToShowEditor": false,
   "FocusOnEditor": true,
-  "OpenDailyMemosWithMemos": true,
+  "OpenDailyMemosWithMemos": false,
   "HideDoneTasks": false,
   "ShowTaskLabel": false,
   "OpenMemosAutomatically": false,
