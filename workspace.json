@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md"
+                "file": "2022-11/P.A.R.A.笔记法.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
+                "file": "2022-11/P.A.R.A.笔记法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,14 +221,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
-  "active": "a517f03e1115b3cb",
+  "active": "744e6b453749ad02",
   "lastOpenFiles": [
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "2022-11/P.A.R.A.笔记法.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
     "2022-10/FF14.md",
