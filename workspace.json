@@ -34,14 +34,30 @@
             "id": "744e6b453749ad02",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-11/P.A.R.A.笔记法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a517f03e1115b3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md"
               }
             }
           }
@@ -182,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,9 +224,10 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "744e6b453749ad02",
+  "active": "a517f03e1115b3cb",
   "lastOpenFiles": [
     "2022-11/P.A.R.A.笔记法.md",
+    "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/【计划】2022-10.md",
     "2022-06/优质UP主清单.md",
@@ -218,7 +235,6 @@
     "2022-08/FF14 6.18 55pvp推车心得.md",
     "2022-05/美少女总是相似的.md",
     "global/【看板】通用.md",
-    "2022-11/躁郁症抗病经验.md",
-    "2022-11/咖啡.md"
+    "2022-11/躁郁症抗病经验.md"
   ]
 }
