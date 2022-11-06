@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "file",
+      "title": "任务管理",
+      "path": "global/任务管理.md"
+    },
+    {
+      "type": "file",
       "title": "Obsidian插件使用经验",
       "path": "Obsidian插件使用经验.md"
     },
@@ -69,6 +74,11 @@
       "type": "file",
       "title": "TestBoard",
       "path": "pluginTestingFiles/TestBoard.md"
+    },
+    {
+      "type": "file",
+      "title": "重复任务",
+      "path": "global/重复任务.md"
     }
   ]
 }
