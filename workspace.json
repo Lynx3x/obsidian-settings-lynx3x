@@ -45,6 +45,25 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d9509887b6f07eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a77cfcc8e365690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/如何构建笔记系统-实际操作篇.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/如何构建自己的笔记系统？.md"
+                "file": "2022-11/如何构建笔记系统-实际操作篇.md"
               }
             }
           }
@@ -185,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/如何构建自己的笔记系统？.md",
+                "file": "2022-11/如何构建笔记系统-实际操作篇.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,17 +230,17 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "ba9e6b7d4af876e7",
+  "active": "0a77cfcc8e365690",
   "lastOpenFiles": [
-    "2022-09/咕噜咕噜痴汉电车.md",
     "2022-11/如何构建自己的笔记系统？.md",
+    "2022-11/如何构建笔记系统-实际操作篇.md",
+    "2022-09/咕噜咕噜痴汉电车.md",
     "2022-11/世界树迷宫1.md",
     "2022-06/优质UP主清单.md",
     "2022-02/2022年度计划.md",
     "2022-11/游戏叙事.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
-    "2022-11/P.A.R.A.笔记法.md",
-    "2022-10/【计划】2022-10.md"
+    "2022-11/P.A.R.A.笔记法.md"
   ]
 }
