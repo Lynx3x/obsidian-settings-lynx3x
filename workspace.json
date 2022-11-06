@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09/咕噜咕噜痴汉电车.md"
+                "file": "2022-11/如何构建自己的笔记系统？.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09/咕噜咕噜痴汉电车.md",
+                "file": "2022-11/如何构建自己的笔记系统？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "78c893593a4df188",
+  "active": "ba9e6b7d4af876e7",
   "lastOpenFiles": [
-    "2022-11/如何构建自己的笔记系统？.md",
     "2022-09/咕噜咕噜痴汉电车.md",
+    "2022-11/如何构建自己的笔记系统？.md",
     "2022-11/世界树迷宫1.md",
     "2022-06/优质UP主清单.md",
     "2022-02/2022年度计划.md",
