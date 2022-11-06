@@ -30,5 +30,7 @@
   "obsidian-image-toolkit",
   "calendar",
   "obsidian-frontmatter-tag-suggest",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-reminder-plugin"
 ]
