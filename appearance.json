@@ -10,6 +10,6 @@
     "supercharged-links-gen"
   ],
   "accentColor": "",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "nativeMenus": false
 }

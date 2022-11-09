@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "860401157c57e6db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d5a0f46b74978023",
             "type": "leaf",
             "state": {
@@ -29,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "962d7bd04b24ebec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/个人笔记管理系统探索.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +121,7 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 13.88888888888889,
+        "dimension": 13.873626373626374,
         "children": [
           {
             "id": "f07cb023e6a28101",
@@ -160,7 +136,7 @@
       {
         "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 24.79166666666667,
+        "dimension": 24.793956043956044,
         "children": [
           {
             "id": "509d16e5a7155e47",
@@ -175,7 +151,7 @@
       {
         "id": "7e68816121f3bbd9",
         "type": "tabs",
-        "dimension": 19.583333333333332,
+        "dimension": 40.86538461538461,
         "children": [
           {
             "id": "c41be16fce382e52",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/个人笔记管理系统探索.md"
+                "file": "2022-11/关于任务管理.md"
               }
             }
           }
@@ -192,7 +168,7 @@
       {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 41.736111111111114,
+        "dimension": 20.467032967032967,
         "children": [
           {
             "id": "ab87edd326cf0ef6",
@@ -200,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/个人笔记管理系统探索.md",
+                "file": "2022-11/关于任务管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,17 +201,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "962d7bd04b24ebec",
+  "active": "d5a0f46b74978023",
   "lastOpenFiles": [
-    "2022-11/关于任务管理.md",
-    "2022-11/从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践.md",
-    "diary/2022-11-08.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-11/何谓渐进式总结：Progressive Summarization.md",
+    "2021-10/Obsidian插件推荐.md",
+    "2022-11/关于任务管理.md",
+    "diary/2022-10-03.md",
+    "2022-10/【计划】2022-10.md",
     "2022-11/卡片盒笔记法.md",
-    "global/任务管理.md",
-    "基础的雏形.md",
-    "2022-04/【笔记】让女生高潮的方法.md",
-    "2022-10/化妆.md"
+    "diary/2022-11-09.md",
+    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
+    "diary/2022-11-08.md",
+    "2022-11/从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践.md"
   ]
 }
