@@ -11,9 +11,9 @@
             "id": "d5a0f46b74978023",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/【计划】2022-10.md"
               }
             }
           },
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/分享我的生活管理系统.md"
+                "file": "2022-11/我的笔记系统实践.md"
               }
             }
           }
@@ -239,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/分享我的生活管理系统.md",
+                "file": "2022-11/我的笔记系统实践.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,17 +265,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "0f9a36c47ec8ee39",
+  "active": "ba119129d2223b3d",
   "lastOpenFiles": [
-    "2022-11/P.A.R.A.笔记法.md",
+    "2022-10/【计划】2022-10.md",
+    "2022-11/卡片盒笔记法.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-11/分享我的生活管理系统.md",
-    "2022-11/INKP笔记法.md",
     "global/任务管理.md",
+    "2022-11/我的笔记系统实践.md",
+    "2022-11/分享我的生活管理系统.md",
+    "2022-11/P.A.R.A.笔记法.md",
+    "2022-11/INKP笔记法.md",
     "diary/2022-11-10.md",
-    "2022-11/KPT复盘法.md",
-    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
-    "2022-11/关于任务管理.md",
-    "PARA.md"
+    "2022-11/KPT复盘法.md"
   ]
 }
