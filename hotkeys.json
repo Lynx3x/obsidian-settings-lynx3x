@@ -113,5 +113,14 @@
   ],
   "obsidian-outliner:unfold": [],
   "obsidian-outliner:fold": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": []
 }
