@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d966b89a6bafd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/3ds推荐游戏.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/任务管理.md"
+                "file": "2022-11/3ds推荐游戏.md"
               }
             }
           }
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/任务管理.md",
+                "file": "2022-11/3ds推荐游戏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,17 +255,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "da2596339a12617e",
+  "active": "6d966b89a6bafd95",
   "lastOpenFiles": [
-    "global/重复任务.md",
+    "2022-11/分享我的生活管理系统.md",
+    "2022-11/3ds推荐游戏.md",
     "global/任务管理.md",
+    "global/重复任务.md",
     "2022-11/我的笔记系统实践.md",
     "diary/2022-11-11.md",
-    "2022-11/分享我的生活管理系统.md",
     "2022-11/使用 Zettelkasten 笔记助力学习.md",
     "2022-11/P.A.R.A.笔记法.md",
     "2022-11/卡片盒笔记法.md",
-    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
-    "2022-11/从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践.md"
+    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md"
   ]
 }
