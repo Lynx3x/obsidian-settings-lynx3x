@@ -121,7 +121,7 @@ var TagSuggest = class extends import_obsidian.EditorSuggest {
         suggestion = `${suggestion}`;
       } else {
         suggestion = `${suggestion}
- -`;
+-`;
       }
       this.context.editor.replaceRange(`${suggestion} `, this.context.start, this.context.end);
     }

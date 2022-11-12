@@ -7,6 +7,11 @@
       "icon": "bold-glyph"
     },
     {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
       "id": "cmenu-plugin:editor:toggle-strikethrough",
       "name": "cMenu: Toggle strikethrough",
       "icon": "strikethrough-glyph"
@@ -27,14 +32,24 @@
       "icon": "subscript-glyph"
     },
     {
+      "id": "cmenu-plugin:editor:toggle-comments",
+      "name": "cMenu: Toggle comment",
+      "icon": "percent-sign-glyph"
+    },
+    {
       "id": "cmenu-plugin:editor:toggle-code",
       "name": "cMenu: Toggle code",
       "icon": "code-glyph"
     },
     {
-      "id": "cmenu-plugin:codeblock",
-      "name": "cMenu: Toggle codeblock",
-      "icon": "codeblock-glyph"
+      "id": "cmenu-plugin:editor:insert-embed",
+      "name": "cMenu: Add embed",
+      "icon": "note-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-wikilink",
+      "name": "cMenu: Add internal link",
+      "icon": "bracket-glyph"
     },
     {
       "id": "cmenu-plugin:editor:toggle-blockquote",
@@ -46,5 +61,5 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 8
+  "cMenuNumRows": 11
 }

@@ -20,12 +20,25 @@
             }
           },
           {
-            "id": "05415574f094d3ca",
+            "id": "db6214df1c10faf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-05/【笔记】各专业入门书单.md",
+                "file": "2022-06/矮人要塞5分钟入门快速指南.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c248375ebf6f2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-10/Obsidian插件推荐.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 13.88888888888889,
+        "dimension": 19.583333333333332,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -75,7 +88,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 27.569444444444446,
+        "dimension": 21.875,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -93,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/书单",
+                "query": "tag:#游戏/矮人要塞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/【笔记】各专业入门书单.md"
+                "file": "2021-10/Obsidian插件推荐.md"
               }
             }
           }
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/【笔记】各专业入门书单.md",
+                "file": "2021-10/Obsidian插件推荐.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +227,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "05415574f094d3ca",
+  "active": "3c248375ebf6f2fb",
   "lastOpenFiles": [
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-03/【感想】从一本杂志GP Racing聊聊Fl赛车运动.md",
-    "2022-03/【笔记】网课：福瑞入门.md",
+    "2022-06/矮人要塞5分钟入门快速指南.md",
     "2021-10/Obsidian插件推荐.md",
-    "2022-11/艺术通识课推荐.md",
-    "2022-11/INKP笔记法.md",
-    "2022-11/DIKW体系.md",
-    "2022-11/购物清单.md",
-    "2021-07/四件套这样买，立马让你省300！.md",
-    "2021-12/工作流相关思考.md"
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-08/有些人真的好看不上别人“不干正事儿”.md",
+    "2022-08/网易与FF14群的后续.md",
+    "2022-10/吐个黑泥吧，感觉这游戏玩了越久，值得期待的内容就越来越少.md",
+    "2022-08/关于原神的一些评价.md",
+    "2022-08/从一个德国人的视角分析台湾问题.md",
+    "2022-10/化妆.md",
+    "2022-11/游戏叙事.md"
   ]
 }
