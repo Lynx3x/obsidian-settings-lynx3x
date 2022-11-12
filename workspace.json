@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "pluginTestingFiles/DataviewTest.md"
               }
             }
           }
@@ -253,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "pluginTestingFiles/DataviewTest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,17 +279,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "d98a30e3b76136c5",
+  "active": "ba119129d2223b3d",
   "lastOpenFiles": [
-    "pluginTestingFiles/DataviewTest.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-10/化妆.md",
+    "pluginTestingFiles/DataviewTest.md",
     "2021-12/我的阅读工作流（2021版）.md",
     "2021-05/笔记工具的整理与思考.md",
     "2021-05/【计划】202105.md",
     "2022-11/使用 Zettelkasten 笔记助力学习.md",
     "2021-12/笔记与工作流.md",
     "2021-12/工作流相关思考.md",
-    "global/【看板】通用.md",
-    "diary/2022-11-12.md"
+    "global/【看板】通用.md"
   ]
 }
