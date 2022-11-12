@@ -4,141 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "5287fc1c7c8233c6",
-        "type": "split",
+        "id": "0a7f0fc8f1059c2b",
+        "type": "tabs",
         "children": [
           {
-            "id": "0a7f0fc8f1059c2b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d98a30e3b76136c5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
-                  },
-                  "pinned": true
-                }
+            "id": "d98a30e3b76136c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               },
-              {
-                "id": "5813c5ee46b1cf9e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-12/工作流相关思考.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ba119129d2223b3d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/卡片盒笔记法.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a93756ce99fd8cde",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/使用 Zettelkasten 笔记助力学习.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "063c1a8a247d7c2d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-12/工作流相关思考.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fd3bf5441deb7f54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/DIKW体系.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 5
+              "pinned": true
+            }
           },
           {
-            "id": "186d1ddc337f32d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7c465d568328bcad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/INKP笔记法.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dcb69e62bdb0f337",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "698d845e5735b6ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2022-11/分享我的生活管理系统.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "5813c5ee46b1cf9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-12/工作流相关思考.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
+          },
+          {
+            "id": "ba119129d2223b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/卡片盒笔记法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a93756ce99fd8cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/使用 Zettelkasten 笔记助力学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "063c1a8a247d7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-12/工作流相关思考.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd3bf5441deb7f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03/艺术与视知觉.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#类别/读书笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -277,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/DIKW体系.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -294,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/DIKW体系.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,17 +266,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "0bc8df577d4a921c",
+  "active": "d98a30e3b76136c5",
   "lastOpenFiles": [
-    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-    "2022-11/DIKW体系.md",
-    "2022-11/分享我的生活管理系统.md",
+    "2022-03/艺术与视知觉.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-11/INKP笔记法.md",
+    "2022-11/分享我的生活管理系统.md",
+    "2022-11/DIKW体系.md",
+    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
     "2021-12/工作流相关思考.md",
     "2022-11/使用 Zettelkasten 笔记助力学习.md",
     "2022-11/卡片盒笔记法.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-11/My Obsidian tags are mine, all mine!.md",
-    "2022-10/玩转Obsidian_03间歇式日记.md"
+    "2022-11/My Obsidian tags are mine, all mine!.md"
   ]
 }
