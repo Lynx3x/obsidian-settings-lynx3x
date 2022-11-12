@@ -74,81 +74,68 @@
                     "source": false
                   }
                 }
-              }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "1dfc1f9f0eda1a14",
-            "type": "split",
-            "children": [
-              {
-                "id": "186d1ddc337f32d7",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7c465d568328bcad",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11/INKP笔记法.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "dcb69e62bdb0f337",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "698d845e5735b6ae",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11/分享我的生活管理系统.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
               },
               {
-                "id": "e0167fd5e90df543",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "fd3bf5441deb7f54",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11/DIKW体系.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
+                "id": "fd3bf5441deb7f54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2022-11/DIKW体系.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
                   }
-                ]
+                }
               }
             ],
-            "direction": "vertical"
+            "currentTab": 5
+          },
+          {
+            "id": "186d1ddc337f32d7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c465d568328bcad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2022-11/INKP笔记法.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "dcb69e62bdb0f337",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2022-11/知识该怎么管理呢？我终于找到答案了.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "698d845e5735b6ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2022-11/分享我的生活管理系统.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -302,7 +289,7 @@
         "dimension": 20.467032967032967,
         "children": [
           {
-            "id": "ab87edd326cf0ef6",
+            "id": "0bc8df577d4a921c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -332,17 +319,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "fd3bf5441deb7f54",
+  "active": "0bc8df577d4a921c",
   "lastOpenFiles": [
     "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-    "2022-11/INKP笔记法.md",
+    "2022-11/DIKW体系.md",
     "2022-11/分享我的生活管理系统.md",
+    "2022-11/INKP笔记法.md",
     "2021-12/工作流相关思考.md",
     "2022-11/使用 Zettelkasten 笔记助力学习.md",
     "2022-11/卡片盒笔记法.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-11/My Obsidian tags are mine, all mine!.md",
-    "2022-10/玩转Obsidian_03间歇式日记.md",
-    "diary/2022-11-12.md"
+    "2022-10/玩转Obsidian_03间歇式日记.md"
   ]
 }
