@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "0f9a36c47ec8ee39",
+            "id": "f1f2e185ba5ba9ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -242,8 +242,10 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "0f9a36c47ec8ee39",
+  "active": "f1f2e185ba5ba9ef",
   "lastOpenFiles": [
+    "2022-11/P.A.R.A.笔记法.md",
+    "2022-10/化妆.md",
     "2022-11/分享我的生活管理系统.md",
     "2022-11/雨后春笋般出现的类吸血鬼游戏究竟爽在哪？.md",
     "2022-11/吸血鬼幸存者.md",
@@ -251,8 +253,6 @@
     "global/任务管理.md",
     "global/重复任务.md",
     "2022-11/我的笔记系统实践.md",
-    "diary/2022-11-11.md",
-    "2022-11/使用 Zettelkasten 笔记助力学习.md",
-    "2022-11/P.A.R.A.笔记法.md"
+    "diary/2022-11-11.md"
   ]
 }
