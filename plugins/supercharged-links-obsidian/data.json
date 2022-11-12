@@ -57,6 +57,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "完成状态/进行中",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "abad-0f03",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
