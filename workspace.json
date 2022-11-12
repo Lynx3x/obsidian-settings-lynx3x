@@ -18,22 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ea93710d59c74f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-09/Unity自动翻译插件AutoTranslator.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1_工作流/资源",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -172,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09/Unity自动翻译插件AutoTranslator.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -189,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09/Unity自动翻译插件AutoTranslator.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +199,9 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "ea93710d59c74f9c",
+  "active": "4ab0b3d552c5aed2",
   "lastOpenFiles": [
+    "2022-09/Unity自动翻译插件AutoTranslator.md",
     "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "2022-11/My Obsidian tags are mine, all mine!.md",
@@ -224,7 +210,6 @@
     "2022-11/FF14 logs相关计算.md",
     "2022-10/FF14.md",
     "2022-10/最火的几款大牌粉底黑红榜.md",
-    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-    "2022-11/躁郁症抗病经验.md"
+    "2022-11/知识该怎么管理呢？我终于找到答案了.md"
   ]
 }
