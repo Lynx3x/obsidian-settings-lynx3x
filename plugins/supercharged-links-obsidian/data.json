@@ -25,6 +25,18 @@
     {
       "type": "tag",
       "name": "",
+      "value": "类别/书籍",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5382-0dcd",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
       "value": "完成状态/已完成",
       "matchCaseSensitive": false,
       "match": "exact",
@@ -49,11 +61,11 @@
     {
       "type": "tag",
       "name": "",
-      "value": "类别/笔记",
+      "value": "完成状态/进行中",
       "matchCaseSensitive": false,
       "match": "exact",
-      "uid": "5ed8-14df",
-      "selectText": false,
+      "uid": "abad-0f03",
+      "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
@@ -61,11 +73,11 @@
     {
       "type": "tag",
       "name": "",
-      "value": "完成状态/进行中",
+      "value": "类别/笔记",
       "matchCaseSensitive": false,
       "match": "exact",
-      "uid": "abad-0f03",
-      "selectText": true,
+      "uid": "5ed8-14df",
+      "selectText": false,
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
