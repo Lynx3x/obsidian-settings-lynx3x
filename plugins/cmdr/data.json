@@ -3,7 +3,14 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-kanban:toggle-kanban-view",
+      "icon": "file",
+      "name": "Kanban: 在看板和 Markdown 模式之间进行切换",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [
     {
       "id": "quickadd:choice:63616879-0eef-409d-bf0d-60e6d6834ac4",
