@@ -20,71 +20,20 @@
             }
           },
           {
-            "id": "5813c5ee46b1cf9e",
+            "id": "05415574f094d3ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-12/工作流相关思考.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba119129d2223b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/卡片盒笔记法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a93756ce99fd8cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/使用 Zettelkasten 笔记助力学习.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "063c1a8a247d7c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-12/工作流相关思考.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd3bf5441deb7f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-03/艺术与视知觉.md",
+                "file": "2022-05/【笔记】各专业入门书单.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +45,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 26.32869991823385,
+        "dimension": 25,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -111,7 +60,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 17.57972199509403,
+        "dimension": 13.88888888888889,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -126,7 +75,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 32.134096484055604,
+        "dimension": 27.569444444444446,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -144,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/读书笔记",
+                "query": "tag:#类别/书单",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,7 +108,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 23.957481602616518,
+        "dimension": 33.541666666666664,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -176,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -224,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-05/【笔记】各专业入门书单.md"
               }
             }
           }
@@ -241,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-05/【笔记】各专业入门书单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,17 +214,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "d98a30e3b76136c5",
+  "active": "05415574f094d3ca",
   "lastOpenFiles": [
-    "2022-03/艺术与视知觉.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-03/【感想】从一本杂志GP Racing聊聊Fl赛车运动.md",
+    "2022-03/【笔记】网课：福瑞入门.md",
+    "2021-10/Obsidian插件推荐.md",
+    "2022-11/艺术通识课推荐.md",
     "2022-11/INKP笔记法.md",
-    "2022-11/分享我的生活管理系统.md",
     "2022-11/DIKW体系.md",
-    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
-    "2021-12/工作流相关思考.md",
-    "2022-11/使用 Zettelkasten 笔记助力学习.md",
-    "2022-11/卡片盒笔记法.md",
-    "2022-11/My Obsidian tags are mine, all mine!.md"
+    "2022-11/购物清单.md",
+    "2021-07/四件套这样买，立马让你省300！.md",
+    "2021-12/工作流相关思考.md"
   ]
 }
