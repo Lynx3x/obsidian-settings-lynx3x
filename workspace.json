@@ -20,25 +20,12 @@
             }
           },
           {
-            "id": "db6214df1c10faf8",
+            "id": "ea93710d59c74f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-06/矮人要塞5分钟入门快速指南.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c248375ebf6f2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
+                "file": "2022-09/如何高效休息.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#游戏/矮人要塞",
+                "query": "tag:#1_工作流/资源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md"
+                "file": "2022-09/如何高效休息.md"
               }
             }
           }
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
+                "file": "2022-09/如何高效休息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +214,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "3c248375ebf6f2fb",
+  "active": "ea93710d59c74f9c",
   "lastOpenFiles": [
-    "2022-06/矮人要塞5分钟入门快速指南.md",
-    "2021-10/Obsidian插件推荐.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-08/有些人真的好看不上别人“不干正事儿”.md",
-    "2022-08/网易与FF14群的后续.md",
-    "2022-10/吐个黑泥吧，感觉这游戏玩了越久，值得期待的内容就越来越少.md",
-    "2022-08/关于原神的一些评价.md",
-    "2022-08/从一个德国人的视角分析台湾问题.md",
-    "2022-10/化妆.md",
-    "2022-11/游戏叙事.md"
+    "2022-09/如何高效休息.md",
+    "2022-10/如果你想走近时尚，可以看看这七本书.md",
+    "2022-10/如果你不嫌弃它丑 那这三个东西真的物超所值.md",
+    "2022-11/求职和实际中都会用到的技能——如何写游戏体验文档.md",
+    "2022-10/年度交作业视频！挑剔主义都夸的爱用品【妆前遮瑕篇】.md",
+    "2022-10/论文可视化配色简易指南.md",
+    "2022-11/卡片盒笔记法.md",
+    "2022-11/咖啡.md",
+    "2022-10/解决Win10无法睡眠问题.md"
   ]
 }
