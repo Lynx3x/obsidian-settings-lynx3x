@@ -31,22 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2860bc0d26fb4130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/一件吵了100多年的小事…….md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -137,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/一件吵了100多年的小事…….md"
+                "file": "pluginTestingFiles/DataviewTest.md"
               }
             }
           }
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/一件吵了100多年的小事…….md",
+                "file": "pluginTestingFiles/DataviewTest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +215,10 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "2860bc0d26fb4130",
+  "active": "183e74832e39f82f",
   "lastOpenFiles": [
+    "2022-11/一件吵了100多年的小事…….md",
+    "2022-11/「直角引号」是用来装X的吗？.md",
     "pluginTestingFiles/DataviewTest.md",
     "2022-11/少数派创作手册.md",
     "2022-07/Ob新增标注块功能.md",
@@ -237,8 +226,6 @@
     "2022-10/一些想要成为的男生例子.md",
     "2022-11/分享我的生活管理系统.md",
     "2022-11/KPT复盘法.md",
-    "diary/2022-11-13.md",
-    "2022-10/Dataview经验.md",
-    "2022-09/图片管理标签分级描述.md"
+    "diary/2022-11-13.md"
   ]
 }
