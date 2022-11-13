@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "从理工",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -225,20 +224,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
-  "active": "368f14b25495cc4f",
+  "active": "4ab0b3d552c5aed2",
   "lastOpenFiles": [
-    "pluginTestingFiles/DataviewTest.md",
+    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
     "2022-11/DIKW体系.md",
+    "2022-11/把信息交给未来的自己.md",
+    "pluginTestingFiles/DataviewTest.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/从理工肥宅到时装内容美编.md",
     "2022-08/“当代大学生语言退化实录”.md",
     "2022-10/解决Win10无法睡眠问题.md",
     "2022-11/「直角引号」是用来装X的吗？.md",
-    "2022-11/一件吵了100多年的小事…….md",
-    "2022-11/少数派创作手册.md",
-    "2022-07/Ob新增标注块功能.md"
+    "2022-11/一件吵了100多年的小事…….md"
   ]
 }
