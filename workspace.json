@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-11/卡片盒笔记法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "2022-11/卡片盒笔记法.md"
               }
             }
           }
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "2022-11/卡片盒笔记法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,20 +225,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "active": "eebd64b23b9609ab",
   "lastOpenFiles": [
-    "2022-02/日常锻炼整合.md",
+    "global/任务管理.md",
     "pluginTestingFiles/DataviewTest.md",
+    "diary/2022-11-12.md",
+    "2021-12/我的阅读工作流（2021版）.md",
+    "2022-11/咖啡.md",
+    "2022-02/日常锻炼整合.md",
     "2022-11/吸血鬼幸存者.md",
     "2022-10/吸血鬼幸存者心得.md",
-    "global/任务管理.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-11/DIKW体系.md",
-    "diary/2022-11-09.md",
-    "diary/2022-11-10.md",
-    "diary/2022-11-11.md"
+    "2022-11/DIKW体系.md"
   ]
 }
