@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "e1f97e2442a532a5",
+            "id": "334151dd17c23a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/NewFileTemplate.md",
+                "file": "2022-11/少数派创作手册.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/NewFileTemplate.md"
+                "file": "2022-11/少数派创作手册.md"
               }
             }
           }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/NewFileTemplate.md",
+                "file": "2022-11/少数派创作手册.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,17 +226,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "e1f97e2442a532a5",
+  "active": "334151dd17c23a91",
   "lastOpenFiles": [
-    "2022-11/少数派创作手册.md",
     "pluginTestingFiles/DataviewTest.md",
+    "templates/NewFileTemplate.md",
+    "2022-11/少数派创作手册.md",
     "2022-10/一些想要成为的男生例子.md",
     "2022-11/分享我的生活管理系统.md",
     "2022-11/KPT复盘法.md",
     "diary/2022-11-13.md",
     "2022-10/Dataview经验.md",
     "2022-09/图片管理标签分级描述.md",
-    "2022-09/Obsidian Minimal主题使用.md",
-    "2022-09/Obsidian Excalidraw中文字体设置.md"
+    "2022-09/Obsidian Minimal主题使用.md"
   ]
 }
