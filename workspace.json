@@ -31,9 +31,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1f97e2442a532a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/NewFileTemplate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md"
+                "file": "templates/NewFileTemplate.md"
               }
             }
           }
@@ -188,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md",
+                "file": "templates/NewFileTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +226,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "497b54d35bf2c47b",
+  "active": "e1f97e2442a532a5",
   "lastOpenFiles": [
-    "2022-10/一些想要成为的男生例子.md",
+    "2022-11/少数派创作手册.md",
     "pluginTestingFiles/DataviewTest.md",
+    "2022-10/一些想要成为的男生例子.md",
     "2022-11/分享我的生活管理系统.md",
     "2022-11/KPT复盘法.md",
     "diary/2022-11-13.md",
     "2022-10/Dataview经验.md",
     "2022-09/图片管理标签分级描述.md",
     "2022-09/Obsidian Minimal主题使用.md",
-    "2022-09/Obsidian Excalidraw中文字体设置.md",
-    "2022-09/NoneBot踩坑经验.md"
+    "2022-09/Obsidian Excalidraw中文字体设置.md"
   ]
 }
