@@ -1,6 +1,14 @@
 {
-  "scanned": false,
-  "reminders": {},
+  "scanned": true,
+  "reminders": {
+    "global/重复任务.md": [
+      {
+        "title": "FF14上线续房子",
+        "time": "2022-12-01",
+        "rowNumber": 3
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "00:00",
@@ -13,7 +21,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,

@@ -20,25 +20,12 @@
             }
           },
           {
-            "id": "60954e5c08f25de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55e7ef2d29eb33c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10/Dataview经验.md",
+                "file": "2022-10/玩转Obsidian 02 - 基础设置篇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,12 +33,25 @@
             }
           },
           {
-            "id": "44cc775c08a0f7b5",
+            "id": "3da7c04b52a4da50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "global/任务管理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386d77a06e875bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2022-11-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 13.873626373626372,
+        "dimension": 19.071310116086234,
         "children": [
           {
             "id": "f07cb023e6a28101",
@@ -214,7 +214,7 @@
       {
         "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 24.793956043956044,
+        "dimension": 26.036484245439468,
         "children": [
           {
             "id": "509d16e5a7155e47",
@@ -229,7 +229,7 @@
       {
         "id": "7e68816121f3bbd9",
         "type": "tabs",
-        "dimension": 40.86538461538461,
+        "dimension": 34.41127694859038,
         "children": [
           {
             "id": "c41be16fce382e52",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "diary/2022-11-11.md"
               }
             }
           }
@@ -246,7 +246,7 @@
       {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 20.467032967032967,
+        "dimension": 20.480928689883914,
         "children": [
           {
             "id": "0bc8df577d4a921c",
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "diary/2022-11-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,17 +279,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "f07cb023e6a28101",
+  "active": "386d77a06e875bec",
   "lastOpenFiles": [
-    "diary/2022-11-14.md",
-    "2022-10/Dataview经验.md",
-    "2021-10/Obsidian插件推荐.md",
     "global/任务管理.md",
-    "diary/2022-11-13.md",
-    "pluginTestingFiles/DataviewTest.md",
-    "2022-11/雨后春笋般出现的类吸血鬼游戏究竟爽在哪？.md",
-    "2021-06/01-JZ7-斐波那契数列.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "2022-08/Era.md"
+    "diary/2022-11-11.md",
+    "2022-11/分享我的生活管理系统.md",
+    "diary/2022-11-14.md",
+    "2022-10/玩转Obsidian 03 - 间歇式日记.md",
+    "2022-10/玩转Obsidian 02 - 基础设置篇.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-10/Dataview经验.md",
+    "2022-11/关于任务管理.md",
+    "2021-10/Obsidian插件推荐.md"
   ]
 }
