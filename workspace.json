@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/概念",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -264,20 +264,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
-  "active": "183e74832e39f82f",
+  "active": "a63ceaac91cb03c3",
   "lastOpenFiles": [
-    "2022-10/Dataview经验.md",
+    "2022-11/雨后春笋般出现的类吸血鬼游戏究竟爽在哪？.md",
     "pluginTestingFiles/DataviewTest.md",
+    "2021-06/01-JZ7-斐波那契数列.md",
+    "2022-10/Dataview经验.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "2022-08/Era.md",
     "2022-11/世界树迷宫1.md",
     "2022-09/咕噜咕噜痴汉电车.md",
     "2022-11/吸血鬼幸存者.md",
-    "2022-10/FF14.md",
-    "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
-    "2021-10/Obsidian插件推荐.md"
+    "2022-10/FF14.md"
   ]
 }
