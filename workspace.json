@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pkm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,8 +154,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ede93b22f723a4e",
@@ -177,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -270,15 +268,15 @@
   },
   "active": "a63ceaac91cb03c3",
   "lastOpenFiles": [
-    "2022-08/Era.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "pluginTestingFiles/DataviewTest.md",
+    "2022-08/Era.md",
     "2022-11/世界树迷宫1.md",
     "2022-09/咕噜咕噜痴汉电车.md",
     "2022-11/吸血鬼幸存者.md",
     "2022-10/FF14.md",
     "2022-05/【灵感】尝试迎来完美结局的阿谢姆.md",
     "2022-10/Dataview经验.md",
-    "2021-10/Obsidian插件推荐.md",
-    "diary/2022-11-14.md"
+    "2021-10/Obsidian插件推荐.md"
   ]
 }
