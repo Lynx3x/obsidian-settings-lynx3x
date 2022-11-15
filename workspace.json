@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 25,
+        "dimension": 18.425460636515915,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -99,7 +98,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 19.583333333333332,
+        "dimension": 16.750418760469014,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -114,7 +113,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 21.875,
+        "dimension": 31.32328308207705,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -132,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#领域/社会科学/管理学/个人管理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +146,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.541666666666664,
+        "dimension": 33.50083752093803,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/任务管理.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -229,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/任务管理.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,8 +253,9 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "24ac4480ce6e4a42",
+  "active": "183e74832e39f82f",
   "lastOpenFiles": [
+    "global/任务管理.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-10/玩转Obsidian 02 - 基础设置篇.md",
     "pluginTestingFiles/DataviewTest.md",
@@ -263,7 +263,6 @@
     "diary/2022-11-14.md",
     "2022-11/玩转Obsidian 08 - 利用 Dataview 打造自动化 HomePage.md",
     "2022-11/卡片盒笔记法.md",
-    "global/任务管理.md",
     "diary/2022-11-11.md",
     "2022-02/2022年度计划.md"
   ]
