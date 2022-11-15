@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-10/Obsidian同步&备份方案.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:类别/清单 tag:领域/生活",
+                "query": "Remotely",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +142,7 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 25.175370226032733,
+        "dimension": 25.175370226032737,
         "children": [
           {
             "id": "f07cb023e6a28101",
@@ -157,7 +157,7 @@
       {
         "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 27.04598597038192,
+        "dimension": 27.045985970381924,
         "children": [
           {
             "id": "509d16e5a7155e47",
@@ -172,7 +172,7 @@
       {
         "id": "7e68816121f3bbd9",
         "type": "tabs",
-        "dimension": 27.279812938425565,
+        "dimension": 27.27981293842557,
         "children": [
           {
             "id": "c41be16fce382e52",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "2022-10/Obsidian同步&备份方案.md"
               }
             }
           }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-10/Obsidian同步&备份方案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,11 +224,11 @@
   },
   "active": "83807519538b6220",
   "lastOpenFiles": [
+    "global/任务管理.md",
+    "diary/2022-11-16.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "diary/2022-10-10.md",
-    "diary/2022-11-16.md",
     "2022-11/卡片盒笔记法.md",
-    "global/任务管理.md",
     "2022-11/购物清单.md",
     "2022-06/牛奶挑选.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
