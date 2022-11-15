@@ -28,11 +28,7 @@
   "minimal-style@@table-lines": true,
   "minimal-style@@row-alt": true,
   "minimal-style@@row-hover": true,
-  "supercharged-links@@c-6b9e-72a3-use-background": false,
-  "supercharged-links@@6b9e-72a3-color": "#267340",
-  "supercharged-links@@46bb-4765-color": "#A32929",
   "supercharged-links@@5ed8-14df-before": "[笔记]",
   "supercharged-links@@c-5ed8-14df-use-background": false,
-  "supercharged-links@@abad-0f03-color": "#A3A329",
   "supercharged-links@@5382-0dcd-before": "[书籍]"
 }

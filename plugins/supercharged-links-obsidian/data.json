@@ -37,42 +37,6 @@
     {
       "type": "tag",
       "name": "",
-      "value": "完成状态/已完成",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "6b9e-72a3",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "tag",
-      "name": "",
-      "value": "完成状态/未完成",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "46bb-4765",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "tag",
-      "name": "",
-      "value": "完成状态/进行中",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "abad-0f03",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "tag",
-      "name": "",
       "value": "类别/笔记",
       "matchCaseSensitive": false,
       "match": "exact",
