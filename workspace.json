@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10/Obsidian同步&备份方案.md",
+                "file": "2022-11/购物清单.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +142,7 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 25.175370226032737,
+        "dimension": 25.175370226032733,
         "children": [
           {
             "id": "f07cb023e6a28101",
@@ -157,7 +157,7 @@
       {
         "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 27.045985970381924,
+        "dimension": 27.04598597038192,
         "children": [
           {
             "id": "509d16e5a7155e47",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/Obsidian同步&备份方案.md"
+                "file": "2022-11/购物清单.md"
               }
             }
           }
@@ -189,7 +189,7 @@
       {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 20.498830865159782,
+        "dimension": 20.49883086515978,
         "children": [
           {
             "id": "0bc8df577d4a921c",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/Obsidian同步&备份方案.md",
+                "file": "2022-11/购物清单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,7 @@
   },
   "active": "83807519538b6220",
   "lastOpenFiles": [
+    "2022-10/Obsidian同步&备份方案.md",
     "global/任务管理.md",
     "diary/2022-11-16.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
@@ -232,7 +233,6 @@
     "2022-11/购物清单.md",
     "2022-06/牛奶挑选.md",
     "2022-04/【笔记】我用手机戒网瘾 by Topbook.md",
-    "2022-11/思考，快与慢.md",
-    "2022-03/【笔记】价格锚点.md"
+    "2022-11/思考，快与慢.md"
   ]
 }
