@@ -30,18 +30,18 @@
       "YAML Keys to Remove": ""
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
-      "YAML Key Priority Sort Order": "",
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
+      "YAML Key Priority Sort Order": "date\nmodified\nalias\ntags",
       "Priority Keys at Start of YAML": true,
       "YAML Sort Order for Other Keys": "None"
     },
     "YAML Timestamp": {
-      "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
+      "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,
       "Date Created": true,
-      "Date Created Key": "date created",
+      "Date Created Key": "date",
       "Date Modified": true,
-      "Date Modified Key": "date modified",
-      "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
+      "Date Modified Key": "modified",
+      "Format": "YYYY-MM-DD HH:mm:ss"
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,

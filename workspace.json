@@ -109,22 +109,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc25753e46e588a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -264,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md"
+                "file": "2022-11/玩转Obsidian 08 - 利用 Dataview 打造自动化 HomePage.md"
               }
             }
           }
@@ -281,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10/Obsidian插件推荐.md",
+                "file": "2022-11/玩转Obsidian 08 - 利用 Dataview 打造自动化 HomePage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,8 +293,9 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "bc25753e46e588a1",
+  "active": "4c65338e46846cfb",
   "lastOpenFiles": [
+    "2021-10/Obsidian插件推荐.md",
     "2022-11/玩转Obsidian 08 - 利用 Dataview 打造自动化 HomePage.md",
     "pluginTestingFiles/DataviewTest.md",
     "global/任务管理.md",
@@ -316,7 +304,6 @@
     "2022-11/分享我的生活管理系统.md",
     "diary/2022-11-14.md",
     "2022-10/玩转Obsidian 03 - 间歇式日记.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-10/Dataview经验.md"
+    "2022-10/工作流流向与项目分类思考.excalidraw.md"
   ]
 }
