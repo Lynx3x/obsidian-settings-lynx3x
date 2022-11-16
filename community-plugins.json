@@ -5,7 +5,6 @@
   "obsidian-copy-block-link",
   "templater-obsidian",
   "obsidian-auto-pair-chinese-symbol",
-  "dataview",
   "obsidian-git",
   "quickadd",
   "obsidian-kanban",
@@ -31,5 +30,6 @@
   "obsidian-frontmatter-tag-suggest",
   "cmenu-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "dataview"
 ]

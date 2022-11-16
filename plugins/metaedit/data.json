@@ -1,6 +1,6 @@
 {
   "ProgressProperties": {
-    "enabled": false,
+    "enabled": true,
     "properties": []
   },
   "IgnoredProperties": {
