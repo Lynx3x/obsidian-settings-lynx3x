@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,17 +208,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "21d1c4d2cf24e51f",
+  "active": "d98a30e3b76136c5",
   "lastOpenFiles": [
-    "2022-10/玩转Obsidian 02 - 基础设置篇.md",
+    "2022-02/2022年度计划.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-10/玩转Obsidian 02 - 基础设置篇.md",
     "2022-11/购物清单.md",
     "2022-10/Obsidian同步&备份方案.md",
     "global/任务管理.md",
     "diary/2022-11-16.md",
     "diary/2022-10-10.md",
     "2022-11/卡片盒笔记法.md",
-    "2022-06/牛奶挑选.md",
-    "2022-04/【笔记】我用手机戒网瘾 by Topbook.md"
+    "2022-06/牛奶挑选.md"
   ]
 }
