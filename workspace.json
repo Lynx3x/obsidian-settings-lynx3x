@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md"
+                "file": "2022-11/何谓渐进式总结：Progressive Summarization.md"
               }
             }
           }
@@ -223,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md",
+                "file": "2022-11/何谓渐进式总结：Progressive Summarization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,12 +250,12 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "c21e61fc81d22c9f",
+  "active": "6e71d9c3ed23860e",
   "lastOpenFiles": [
+    "pluginTestingFiles/DataviewTest.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "pluginTestingFiles/DataviewTest.md",
     "2022-11/玩转Obsidian 08 - 利用 Dataview 打造自动化 HomePage.md",
     "2022-10/Dataview经验.md",
     "global/任务管理.md",
