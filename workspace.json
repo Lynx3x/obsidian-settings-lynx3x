@@ -44,19 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b2515793ce42e94",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/宝可梦属性相克.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/宝可梦属性相克.excalidraw.md"
+                "file": "diary/2022-11-16.md"
               }
             }
           }
@@ -212,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/宝可梦属性相克.excalidraw.md",
+                "file": "diary/2022-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,8 +228,9 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "4ab0b3d552c5aed2",
+  "active": "55da9feed0fb9a84",
   "lastOpenFiles": [
+    "Excalidraw/宝可梦属性相克.excalidraw.md",
     "Excalidraw/宝可梦属性相克.md",
     "diary/2022-11-16.md",
     "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
@@ -248,7 +239,6 @@
     "diary/2022-11-01.md",
     "diary/2022-10-07.md",
     "diary/2022-06-12.md",
-    "2022-11/美感提升相关.md",
-    "diary/2022-11-17.md"
+    "2022-11/美感提升相关.md"
   ]
 }
