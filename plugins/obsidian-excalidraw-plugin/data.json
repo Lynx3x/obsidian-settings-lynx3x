@@ -94,7 +94,7 @@
       }
     }
   },
-  "defaultTrayMode": false,
+  "defaultTrayMode": true,
   "previousRelease": "1.7.29",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
