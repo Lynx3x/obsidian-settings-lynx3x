@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b2515793ce42e94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/宝可梦属性相克.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "Excalidraw/宝可梦属性相克.excalidraw.md"
               }
             }
           }
@@ -202,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "Excalidraw/宝可梦属性相克.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,19 +235,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
-  "active": "55da9feed0fb9a84",
+  "active": "4ab0b3d552c5aed2",
   "lastOpenFiles": [
-    "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
+    "Excalidraw/宝可梦属性相克.md",
     "diary/2022-11-16.md",
+    "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "diary/2022-11-01.md",
     "diary/2022-10-07.md",
     "diary/2022-06-12.md",
     "2022-11/美感提升相关.md",
-    "diary/2022-11-17.md",
-    "pluginTestingFiles/DataviewTest.md"
+    "diary/2022-11-17.md"
   ]
 }
