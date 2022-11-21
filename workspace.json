@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -231,8 +230,8 @@
   "active": "55da9feed0fb9a84",
   "lastOpenFiles": [
     "Excalidraw/宝可梦属性相克.excalidraw.md",
-    "Excalidraw/宝可梦属性相克.md",
     "diary/2022-11-16.md",
+    "Excalidraw/宝可梦属性相克.md",
     "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
