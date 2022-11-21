@@ -57,9 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30189b632cb389ad",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-06/优质UP主清单2022.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -198,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/购物清单.md"
+                "file": "2022-06/优质UP主清单2022.md"
               }
             }
           }
@@ -215,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/购物清单.md",
+                "file": "2022-06/优质UP主清单2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,8 +252,9 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "3690df31ac718d44",
+  "active": "30189b632cb389ad",
   "lastOpenFiles": [
+    "2022-11/购物清单.md",
     "diary/2022-11-16.md",
     "Excalidraw/宝可梦属性相克.excalidraw.md",
     "Excalidraw/宝可梦属性相克.md",
@@ -251,7 +263,6 @@
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "diary/2022-11-01.md",
     "diary/2022-10-07.md",
-    "diary/2022-06-12.md",
-    "2022-11/美感提升相关.md"
+    "diary/2022-06-12.md"
   ]
 }
