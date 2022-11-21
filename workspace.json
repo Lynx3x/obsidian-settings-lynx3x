@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3690df31ac718d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/购物清单.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/梦境记录",
+                "query": "tag:类别/清单",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +128,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "2022-11/购物清单.md"
               }
             }
           }
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-11/购物清单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,10 +241,10 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "55da9feed0fb9a84",
+  "active": "3690df31ac718d44",
   "lastOpenFiles": [
-    "Excalidraw/宝可梦属性相克.excalidraw.md",
     "diary/2022-11-16.md",
+    "Excalidraw/宝可梦属性相克.excalidraw.md",
     "Excalidraw/宝可梦属性相克.md",
     "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
