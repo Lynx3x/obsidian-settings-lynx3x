@@ -83,9 +83,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae88691b0fde4c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/樱井老师的开发课堂B03：游戏性.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:类别/清单",
+                "query": "樱井",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "2022-11/樱井老师的开发课堂B03：游戏性.md"
               }
             }
           }
@@ -242,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-11/樱井老师的开发课堂B03：游戏性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,13 +280,13 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "b4534cc73dee1d32",
+  "active": "ae88691b0fde4c65",
   "lastOpenFiles": [
+    "diary/2022-11-16.md",
     "global/任务管理.md",
     "diary/2022-11-21.md",
     "2022-06/优质UP主清单2022.md",
     "2022-11/购物清单.md",
-    "diary/2022-11-16.md",
     "Excalidraw/宝可梦属性相克.excalidraw.md",
     "Excalidraw/宝可梦属性相克.md",
     "resources/K11A0ZG(KLNTQJ47RZI5__R.jpg",
