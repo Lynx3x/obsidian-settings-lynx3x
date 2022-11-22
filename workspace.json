@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/何谓渐进式总结：Progressive Summarization.md",
+                "file": "2022-10/心理人格性格测试相关.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "人格",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/心理人格性格测试相关.md"
               }
             }
           }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-10/心理人格性格测试相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,8 +250,9 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "d98a30e3b76136c5",
+  "active": "93de0e98ef4875dd",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "diary/2022-11-16.md",
@@ -260,7 +261,6 @@
     "2022-11/购物清单.md",
     "diary/2022-11-21.md",
     "2022-08/【计划】2022-08.md",
-    "2022-11/馄饨.md",
-    "2022-11/樱井老师的开发课堂B03：游戏性.md"
+    "2022-11/馄饨.md"
   ]
 }
