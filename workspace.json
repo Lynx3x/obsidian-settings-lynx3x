@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "93de0e98ef4875dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/何谓渐进式总结：Progressive Summarization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e329679837821d03",
             "type": "leaf",
             "state": {
@@ -55,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,17 +250,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "069472ab60abb97a",
+  "active": "d98a30e3b76136c5",
   "lastOpenFiles": [
-    "global/任务管理.md",
-    "2022-02/日常锻炼整合.md",
+    "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "diary/2022-11-16.md",
+    "global/任务管理.md",
+    "2022-02/日常锻炼整合.md",
     "2022-11/购物清单.md",
     "diary/2022-11-21.md",
     "2022-08/【计划】2022-08.md",
     "2022-11/馄饨.md",
-    "2022-11/樱井老师的开发课堂B03：游戏性.md",
-    "2022-06/优质UP主清单2022.md"
+    "2022-11/樱井老师的开发课堂B03：游戏性.md"
   ]
 }
