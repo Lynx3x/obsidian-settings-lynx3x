@@ -31,19 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ece034f67a91e02",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-02/日常锻炼整合.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +45,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 23.52941176470588,
+        "dimension": 23.529411764705877,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -70,7 +60,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 18.099547511312217,
+        "dimension": 18.09954751131222,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -85,7 +75,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 24.8868778280543,
+        "dimension": 24.886877828054303,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -118,7 +108,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.4841628959276,
+        "dimension": 33.484162895927604,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -183,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "diary/2022-11-16.md"
               }
             }
           }
@@ -200,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "diary/2022-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,10 +215,10 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "0ece034f67a91e02",
+  "active": "00f0cd22d66301d4",
   "lastOpenFiles": [
-    "2022-05/【计划】2022-05.md",
     "2022-02/日常锻炼整合.md",
+    "2022-05/【计划】2022-05.md",
     "diary/2022-11-16.md",
     "2022-02/2022年度计划.md",
     "2021-11/Obsidian快捷键心得.md",
