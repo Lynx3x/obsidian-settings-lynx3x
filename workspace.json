@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-02/高效能人士的七个习惯.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "高效",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "2022-02/高效能人士的七个习惯.md"
               }
             }
           }
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "2022-02/高效能人士的七个习惯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,9 +216,9 @@
   },
   "active": "00f0cd22d66301d4",
   "lastOpenFiles": [
+    "diary/2022-11-16.md",
     "2022-02/日常锻炼整合.md",
     "2022-05/【计划】2022-05.md",
-    "diary/2022-11-16.md",
     "2022-02/2022年度计划.md",
     "2021-11/Obsidian快捷键心得.md",
     "2022-11/关于我是怎么突然变白的.md",
