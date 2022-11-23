@@ -33,15 +33,12 @@
             }
           },
           {
-            "id": "15b607ecb978a274",
+            "id": "0ece034f67a91e02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2022-02/2022年度计划.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -58,7 +55,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 18.425460636515915,
+        "dimension": 23.52941176470588,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -73,7 +70,7 @@
       {
         "id": "6fd46c820483008e",
         "type": "tabs",
-        "dimension": 16.750418760469014,
+        "dimension": 18.099547511312217,
         "children": [
           {
             "id": "442657a66b40301e",
@@ -88,7 +85,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 31.32328308207705,
+        "dimension": 24.8868778280543,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -121,7 +118,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.50083752093803,
+        "dimension": 33.4841628959276,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -186,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-02/日常锻炼整合.md"
               }
             }
           }
@@ -203,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-02/日常锻炼整合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +225,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "15b607ecb978a274",
+  "active": "0ece034f67a91e02",
   "lastOpenFiles": [
-    "2021-11/Obsidian快捷键心得.md",
+    "2022-05/【计划】2022-05.md",
     "2022-02/日常锻炼整合.md",
-    "2022-11/关于我是怎么突然变白的.md",
-    "2022-02/2022年度计划.md",
-    "2022-06/优质UP主清单2022.md",
     "diary/2022-11-16.md",
+    "2022-02/2022年度计划.md",
+    "2021-11/Obsidian快捷键心得.md",
+    "2022-11/关于我是怎么突然变白的.md",
+    "2022-06/优质UP主清单2022.md",
     "diary/2022-11-17.md",
     "diary/2022-11-21.md",
-    "2022-10/FF14.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md"
+    "2022-10/FF14.md"
   ]
 }
