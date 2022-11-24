@@ -28,14 +28,7 @@
                 "file": "2022-10/【计划】2022-10.md"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1e7ccb8748e56f2d",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "48c0057576be8b03",
             "type": "leaf",
@@ -49,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
