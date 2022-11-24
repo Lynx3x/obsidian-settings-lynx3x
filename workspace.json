@@ -23,12 +23,9 @@
             "id": "00f0cd22d66301d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2022-02/高效能人士的七个习惯.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "2022-09/【计划】2022-09.md"
               }
             }
           }
@@ -93,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "高效",
+                "query": "字体",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/高效能人士的七个习惯.md"
+                "file": "2022-09/【计划】2022-09.md"
               }
             }
           }
@@ -189,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/高效能人士的七个习惯.md",
+                "file": "2022-09/【计划】2022-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +213,15 @@
   },
   "active": "00f0cd22d66301d4",
   "lastOpenFiles": [
+    "2022-07/【策划案】暗图.md",
+    "2022-09/【笔记】Ob美化方案 by 夜航船夫.md",
+    "2022-02/高效能人士的七个习惯.md",
     "diary/2022-11-16.md",
     "2022-02/日常锻炼整合.md",
     "2022-05/【计划】2022-05.md",
     "2022-02/2022年度计划.md",
     "2021-11/Obsidian快捷键心得.md",
     "2022-11/关于我是怎么突然变白的.md",
-    "2022-06/优质UP主清单2022.md",
-    "diary/2022-11-17.md",
-    "diary/2022-11-21.md",
-    "2022-10/FF14.md"
+    "2022-06/优质UP主清单2022.md"
   ]
 }
