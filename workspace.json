@@ -33,15 +33,19 @@
             }
           },
           {
-            "id": "4f123014ff31f3c7",
+            "id": "4cec144066fd9f0d",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/购物清单.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:类别/清单",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8ede93b22f723a4e",
@@ -180,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-20.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -197,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-20.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,19 +225,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
-  "active": "4f123014ff31f3c7",
+  "active": "d98a30e3b76136c5",
   "lastOpenFiles": [
-    "2022-11/食用油.md",
-    "diary/2022-11-20.md",
+    "2022-11/购物清单.md",
+    "global/任务管理.md",
     "2022-11/宝可梦朱紫.md",
+    "diary/2022-11-20.md",
+    "2022-11/食用油.md",
     "2022-10/【计划】2022-10.md",
     "2022-11/字体相关.md",
     "2022-11/在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验.md",
     "2022-11/时间测试.md",
-    "templates/NewFileTemplate.md",
-    "2022-11/6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？.md",
-    "diary/2022-11-26.md"
+    "templates/NewFileTemplate.md"
   ]
 }
