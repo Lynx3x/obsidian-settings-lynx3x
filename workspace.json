@@ -41,35 +41,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e453972e362c265d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-09/如何高效休息.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0eb1adc3140291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/巧用分类法解决使用卡片笔记时遇到的困境.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "放松",
+                "query": "tag:#类别",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -209,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/巧用分类法解决使用卡片笔记时遇到的困境.md"
+                "file": "2022-11/字体相关.md"
               }
             }
           }
@@ -226,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/巧用分类法解决使用卡片笔记时遇到的困境.md",
+                "file": "2022-11/字体相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,17 +224,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "bf0eb1adc3140291",
+  "active": "48c0057576be8b03",
   "lastOpenFiles": [
+    "2022-11/Vivaldi浏览器.md",
     "2022-11/字体相关.md",
-    "2022-11/今天开始享受无聊.md",
+    "pluginTestingFiles/DataviewTest.md",
     "2022-09/如何高效休息.md",
+    "2022-11/巧用分类法解决使用卡片笔记时遇到的困境.md",
+    "2022-11/卡片盒笔记法.md",
+    "2022-11/今天开始享受无聊.md",
     "2021-10/Obsidian插件推荐.md",
     "diary/2022-11-26.md",
-    "2022-11/倦怠社会.md",
-    "2022-07/劳逸结合效率翻倍 by elena.md",
-    "2022-10/【计划】2022-10.md",
-    "2022-09/【计划】2022-09.md",
-    "2022-07/【策划案】暗图.md"
+    "2022-11/倦怠社会.md"
   ]
 }
