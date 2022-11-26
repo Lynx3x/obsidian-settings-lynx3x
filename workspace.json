@@ -23,23 +23,21 @@
             "id": "00f0cd22d66301d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/【计划】2022-10.md"
-              }
-            }
-          },
-          {
-            "id": "48c0057576be8b03",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/字体相关.md",
+                "file": "diary/2022-11-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4f123014ff31f3c7",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
             }
           }
         ],
@@ -134,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/字体相关.md"
+                "file": "diary/2022-11-20.md"
               }
             }
           }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/字体相关.md",
+                "file": "diary/2022-11-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,17 +222,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "48c0057576be8b03",
+  "active": "4f123014ff31f3c7",
   "lastOpenFiles": [
+    "diary/2022-11-20.md",
     "2022-11/宝可梦朱紫.md",
-    "2022-11/在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验.md",
+    "2022-10/【计划】2022-10.md",
     "2022-11/字体相关.md",
+    "2022-11/在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验.md",
     "2022-11/时间测试.md",
     "templates/NewFileTemplate.md",
     "2022-11/6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？.md",
     "diary/2022-11-26.md",
-    "2022-11/Vivaldi浏览器.md",
-    "pluginTestingFiles/DataviewTest.md",
-    "2022-09/如何高效休息.md"
+    "2022-11/Vivaldi浏览器.md"
   ]
 }
