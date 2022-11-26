@@ -21,7 +21,7 @@
       "Text to insert": "tags: "
     },
     "Move Tags to Yaml": {
-      "Move all tags to Yaml frontmatter of the document.": true,
+      "Move all tags to Yaml frontmatter of the document.": false,
       "Tags to ignore": "",
       "Body tag operation": "Remove hashtag"
     },
