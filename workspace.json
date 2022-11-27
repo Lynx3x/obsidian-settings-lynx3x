@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "efdea85503564aff",
+            "id": "071d18d8b26de6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2022-11-27.md",
+                "file": "2022-11/如何避免陷入政治性抑郁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-27.md"
+                "file": "2022-11/如何避免陷入政治性抑郁.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-27.md",
+                "file": "2022-11/如何避免陷入政治性抑郁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +227,17 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "efdea85503564aff",
+  "active": "071d18d8b26de6e1",
   "lastOpenFiles": [
+    "2022-08/AI绘画相关整理.md",
+    "diary/2022-11-27.md",
     "2022-10/FF14.md",
     "diary/2022-11-16.md",
     "2022-11/关于颜色革命.md",
-    "2022-08/AI绘画相关整理.md",
     "2022-11/宝可梦朱紫.md",
     "2022-11/去年冬天，我从北京回山东.md",
     "2022-11/关于疫情对世界经济的影响.md",
     "2022-03/【笔记】价格锚点.md",
-    "2022-11/赚钱的四个层面.md",
-    "2022-09/【计划】2022-09.md"
+    "2022-11/赚钱的四个层面.md"
   ]
 }
