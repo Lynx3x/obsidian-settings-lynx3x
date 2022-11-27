@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/关于颜色革命.md",
+                "file": "diary/2022-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cpa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/关于颜色革命.md"
+                "file": "diary/2022-11-16.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/关于颜色革命.md",
+                "file": "diary/2022-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,7 @@
   },
   "active": "efdea85503564aff",
   "lastOpenFiles": [
+    "2022-11/关于颜色革命.md",
     "2022-08/AI绘画相关整理.md",
     "2022-11/宝可梦朱紫.md",
     "2022-11/去年冬天，我从北京回山东.md",
@@ -238,7 +239,6 @@
     "2022-11/赚钱的四个层面.md",
     "2022-09/【计划】2022-09.md",
     "2022-11/购物清单.md",
-    "2022-11/绝境时应该如何调整心态.md",
-    "2022-11/今天开始享受无聊.md"
+    "2022-11/绝境时应该如何调整心态.md"
   ]
 }
