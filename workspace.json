@@ -31,9 +31,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efdea85503564aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/关于颜色革命.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08/AI绘画相关整理.md"
+                "file": "2022-11/关于颜色革命.md"
               }
             }
           }
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08/AI绘画相关整理.md",
+                "file": "2022-11/关于颜色革命.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,8 +228,9 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "58b875ecc675699b",
+  "active": "efdea85503564aff",
   "lastOpenFiles": [
+    "2022-08/AI绘画相关整理.md",
     "2022-11/宝可梦朱紫.md",
     "2022-11/去年冬天，我从北京回山东.md",
     "2022-11/关于疫情对世界经济的影响.md",
@@ -225,7 +239,6 @@
     "2022-09/【计划】2022-09.md",
     "2022-11/购物清单.md",
     "2022-11/绝境时应该如何调整心态.md",
-    "2022-11/今天开始享受无聊.md",
-    "2022-11/关于舆论战.md"
+    "2022-11/今天开始享受无聊.md"
   ]
 }
