@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/关于舆论战.md",
+                "file": "2022-10/FF14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/关于舆论战.md"
+                "file": "2022-10/FF14.md"
               }
             }
           }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/关于舆论战.md",
+                "file": "2022-10/FF14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,6 +217,8 @@
   },
   "active": "e732f0be8dd8c11e",
   "lastOpenFiles": [
+    "2022-11/关于舆论战.md",
+    "2022-11/关于疫情.md",
     "2022-10/FF14.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-08/AI绘画相关整理.md",
@@ -224,8 +226,6 @@
     "diary/2022-11-27.md",
     "diary/2022-11-16.md",
     "2022-11/关于颜色革命.md",
-    "2022-11/宝可梦朱紫.md",
-    "2022-11/去年冬天，我从北京回山东.md",
-    "2022-11/关于疫情对世界经济的影响.md"
+    "2022-11/宝可梦朱紫.md"
   ]
 }
