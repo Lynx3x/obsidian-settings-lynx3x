@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:类别/清单",
+                "query": "樱井",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -244,15 +243,15 @@
   },
   "active": "61bd677020759f2a",
   "lastOpenFiles": [
+    "2022-11/樱井老师的开发课堂B04：游戏性之外的乐趣.md",
+    "2022-11/樱井老师的开发课堂B05：《新光神话》难度调节机制介绍.md",
+    "2022-11/关于舆论战.md",
     "2022-05/美少女总是相似的.md",
     "2022-11/宝可梦朱紫.md",
-    "2022-11/关于舆论战.md",
     "2022-11/关于创作——鹰角网络海猫络合物在2022好Yeah！大学生创意文化节上的分享.md",
     "2022-11/烘焙相关.md",
     "2022-11/购物清单.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "global/任务管理.md",
-    "diary/2022-11-20.md",
-    "2022-11/食用油.md"
+    "global/任务管理.md"
   ]
 }
