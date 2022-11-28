@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blender",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
