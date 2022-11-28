@@ -60,14 +60,14 @@
               "type": "markdown",
               "state": {
                 "file": "2022-11/关于舆论战.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/关于舆论战.md"
+                "file": "2022-11/样式演示用文本.md"
               }
             }
           }
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/关于舆论战.md",
+                "file": "2022-11/样式演示用文本.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,17 +249,17 @@
     "width": 243.5,
     "collapsed": true
   },
-  "active": "1c0c0b84712fdcb3",
+  "active": "eb7dbdb282c48622",
   "lastOpenFiles": [
     "2022-09/Obsidian美化计划.md",
     "2022-11/样式演示用文本.md",
+    "2022-11/关于舆论战.md",
     "2022-11/从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-09/为什么“高亮”比“转述”更好.md",
     "2022-11/Blender相关.md",
     "2022-11/宝可梦朱紫.md",
     "2022-07/【策划案】暗图.md",
-    "2022-11/今天开始享受无聊.md",
-    "2022-11/关于舆论战.md"
+    "2022-11/今天开始享受无聊.md"
   ]
 }
