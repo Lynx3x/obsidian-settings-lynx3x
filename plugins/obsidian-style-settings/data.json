@@ -30,5 +30,7 @@
   "minimal-style@@row-hover": true,
   "supercharged-links@@5ed8-14df-before": "[笔记]",
   "supercharged-links@@c-5ed8-14df-use-background": false,
-  "supercharged-links@@5382-0dcd-before": "[书籍]"
+  "supercharged-links@@5382-0dcd-before": "[书籍]",
+  "minimal-style@@h1-l": false,
+  "minimal-style@@h2-l": false
 }
