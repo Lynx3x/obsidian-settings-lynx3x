@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "2022-09/Obsidian美化计划.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -52,9 +52,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17a3c157a5b97dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11/关于舆论战.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/Blender相关.md"
+                "file": "2022-09/Obsidian美化计划.md"
               }
             }
           }
@@ -210,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/Blender相关.md",
+                "file": "2022-09/Obsidian美化计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,16 +248,16 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "66fecfd961d4e5a8",
+  "active": "789c5667c4de6037",
   "lastOpenFiles": [
+    "2022-11/Blender相关.md",
+    "2022-11/关于舆论战.md",
     "2022-09/Obsidian美化计划.md",
     "2022-10/FF14.md",
-    "2022-11/Blender相关.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2021-03/【计划】202103.md",
     "2022-11/关于疫情.md",
     "2022-09/Obsidian Minimal主题使用.md",
-    "2022-11/关于舆论战.md",
     "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
     "2022-11/宝可梦朱紫.md"
   ]
