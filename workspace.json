@@ -31,22 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9efe6fa6d260f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -186,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/画手和写手如何走出毫无灵感的低潮期？.md"
+                "file": "2022-11/关于舆论战.md"
               }
             }
           }
@@ -203,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
+                "file": "2022-11/关于舆论战.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +214,9 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "a9efe6fa6d260f05",
+  "active": "e732f0be8dd8c11e",
   "lastOpenFiles": [
+    "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
     "2022-11/关于舆论战.md",
     "2022-10/FF14.md",
     "2022-11/宝可梦朱紫.md",
@@ -238,7 +225,6 @@
     "2022-08/AI绘画相关整理.md",
     "2022-11/如何避免陷入政治性抑郁.md",
     "diary/2022-11-27.md",
-    "diary/2022-11-16.md",
-    "2022-11/关于颜色革命.md"
+    "diary/2022-11-16.md"
   ]
 }
