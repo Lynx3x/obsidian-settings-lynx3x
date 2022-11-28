@@ -17,7 +17,7 @@
   "blue-topaz-theme@@loading-animation": false,
   "blue-topaz-theme@@remove-custom-svg-icons": false,
   "blue-topaz-theme@@default-icons": false,
-  "minimal-style@@embed-strict": false,
+  "minimal-style@@embed-strict": true,
   "minimal-style@@active-line-on": true,
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "default",
@@ -35,6 +35,9 @@
   "minimal-style@@h2-l": false,
   "minimal-advanced@@folding-offset": 10,
   "minimal-style@@h2-size": "1.5em",
-  "minimal-style@@h3-size": "1.2em",
-  "minimal-style@@h1-size": "1.9em"
+  "minimal-style@@h3-size": "1.29em",
+  "minimal-style@@h1-size": "1.9em",
+  "minimal-style@@h3-l": false,
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@checkbox-shape": "checkbox-square"
 }
