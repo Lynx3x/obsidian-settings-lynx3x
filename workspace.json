@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-09/Obsidian Minimal主题使用.md",
+                "file": "2022-09/Obsidian美化计划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09/Obsidian Minimal主题使用.md"
+                "file": "2022-09/Obsidian美化计划.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09/Obsidian Minimal主题使用.md",
+                "file": "2022-09/Obsidian美化计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +216,7 @@
   },
   "active": "e732f0be8dd8c11e",
   "lastOpenFiles": [
+    "2022-09/Obsidian Minimal主题使用.md",
     "2022-11/关于舆论战.md",
     "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
     "2022-10/FF14.md",
@@ -224,7 +225,6 @@
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-08/AI绘画相关整理.md",
     "2022-11/如何避免陷入政治性抑郁.md",
-    "diary/2022-11-27.md",
-    "diary/2022-11-16.md"
+    "diary/2022-11-27.md"
   ]
 }
