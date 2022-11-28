@@ -5,11 +5,11 @@
   "cssTheme": "Minimal",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "font",
     "external-link-icons",
     "supercharged-links-gen"
   ],
   "accentColor": "",
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "霞鹜文楷 屏幕阅读版 R"
 }
