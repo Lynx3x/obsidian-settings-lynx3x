@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "b956351d220e1465",
+            "id": "bd8cd7acd8ddd4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11/关于疫情.md",
+                "file": "2022-10/FF14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/关于疫情.md"
+                "file": "2022-10/FF14.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/关于疫情.md",
+                "file": "2022-10/FF14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,15 +227,15 @@
     "direction": "horizontal",
     "width": 243.5
   },
-  "active": "b956351d220e1465",
+  "active": "bd8cd7acd8ddd4ad",
   "lastOpenFiles": [
     "2022-09/Obsidian美化计划.md",
+    "2022-11/关于疫情.md",
     "2022-09/Obsidian Minimal主题使用.md",
     "2022-11/关于舆论战.md",
     "2022-11/画手和写手如何走出毫无灵感的低潮期？.md",
     "2022-10/FF14.md",
     "2022-11/宝可梦朱紫.md",
-    "2022-11/关于疫情.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-08/AI绘画相关整理.md",
     "2022-11/如何避免陷入政治性抑郁.md"
