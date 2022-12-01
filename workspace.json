@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "global/任务管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-11-16.md"
+                "file": "global/任务管理.md"
               }
             }
           }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-11-16.md",
+                "file": "global/任务管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,7 @@
   },
   "active": "540228f65caeea77",
   "lastOpenFiles": [
+    "diary/2022-11-16.md",
     "global/任务管理.md",
     "diary/2022-11-21.md",
     "pluginTestingFiles/DataviewTest.md",
@@ -232,7 +233,6 @@
     "2022-05/尝试迎来完美结局的阿谢姆.md",
     "diary/2022-10-22.md",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
-    "2022-07/关于吸血鬼幸存者.md",
-    "2022-11/吸血鬼幸存者.md"
+    "2022-07/关于吸血鬼幸存者.md"
   ]
 }
