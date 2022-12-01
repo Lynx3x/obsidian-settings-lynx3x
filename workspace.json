@@ -26,9 +26,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "540228f65caeea77",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-10/2022-10.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
       {
         "id": "056ec32a8be876eb",
         "type": "tabs",
-        "dimension": 25.208333333333332,
+        "dimension": 25.20833333333333,
         "children": [
           {
             "id": "f07cb023e6a28101",
@@ -144,7 +154,7 @@
       {
         "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 27.013888888888886,
+        "dimension": 27.013888888888893,
         "children": [
           {
             "id": "509d16e5a7155e47",
@@ -159,7 +169,7 @@
       {
         "id": "7e68816121f3bbd9",
         "type": "tabs",
-        "dimension": 22.01388888888889,
+        "dimension": 22.013888888888893,
         "children": [
           {
             "id": "c41be16fce382e52",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-10/2022-10.md"
               }
             }
           }
@@ -176,7 +186,7 @@
       {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 25.763888888888886,
+        "dimension": 25.763888888888893,
         "children": [
           {
             "id": "0bc8df577d4a921c",
@@ -184,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-10/2022-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +219,9 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "806d38cf2e61e0d0",
+  "active": "540228f65caeea77",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-05/尝试迎来完美结局的阿谢姆.md",
     "diary/2022-10-22.md",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
@@ -219,7 +230,6 @@
     "2022-11/雨后春笋般出现的类吸血鬼游戏究竟爽在哪？.md",
     "2022-10/吸血鬼幸存者心得.md",
     "2021-12/看牟大直播来的人设测试.md",
-    "2022-06/曾经陪伴过我的宝可梦伙伴.md",
-    "2022-06/优质UP主清单2022.md"
+    "2022-06/曾经陪伴过我的宝可梦伙伴.md"
   ]
 }
