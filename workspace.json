@@ -31,9 +31,12 @@
             "id": "540228f65caeea77",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-10/2022-10.md"
+                "file": "diary/2022-11-16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#工作流/灵感",
+                "query": "cpa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/2022-10.md"
+                "file": "diary/2022-11-16.md"
               }
             }
           }
@@ -194,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/2022-10.md",
+                "file": "diary/2022-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +224,15 @@
   },
   "active": "540228f65caeea77",
   "lastOpenFiles": [
+    "global/任务管理.md",
+    "diary/2022-11-21.md",
+    "pluginTestingFiles/DataviewTest.md",
+    "2022-10/2022-10.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-05/尝试迎来完美结局的阿谢姆.md",
     "diary/2022-10-22.md",
     "2022-11/何谓渐进式总结：Progressive Summarization.md",
     "2022-07/关于吸血鬼幸存者.md",
-    "2022-11/吸血鬼幸存者.md",
-    "2022-11/雨后春笋般出现的类吸血鬼游戏究竟爽在哪？.md",
-    "2022-10/吸血鬼幸存者心得.md",
-    "2021-12/看牟大直播来的人设测试.md",
-    "2022-06/曾经陪伴过我的宝可梦伙伴.md"
+    "2022-11/吸血鬼幸存者.md"
   ]
 }
