@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad75535e10e5e3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12/文科博士是怎么读书的.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -185,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/P.A.R.A.笔记法.md"
+                "file": "2022-12/文科博士是怎么读书的.md"
               }
             }
           }
@@ -202,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/P.A.R.A.笔记法.md",
+                "file": "2022-12/文科博士是怎么读书的.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,10 +242,10 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "fc688dbb26ffca67",
+  "active": "ad75535e10e5e3df",
   "lastOpenFiles": [
-    "2022-02/2022年度计划.md",
     "2022-11/P.A.R.A.笔记法.md",
+    "2022-02/2022年度计划.md",
     "global/任务管理.md",
     "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
     "2022-06/改变人生的好书 by Elena.md",
