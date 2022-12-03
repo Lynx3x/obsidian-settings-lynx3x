@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "806d38cf2e61e0d0",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "540228f65caeea77",
             "type": "leaf",
             "state": {
@@ -52,22 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e5525aa098f09afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md"
+                "file": "2022-11/P.A.R.A.笔记法.md"
               }
             }
           }
@@ -223,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
+                "file": "2022-11/P.A.R.A.笔记法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,17 +228,17 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "e5525aa098f09afc",
+  "active": "fc688dbb26ffca67",
   "lastOpenFiles": [
+    "2022-02/2022年度计划.md",
+    "2022-11/P.A.R.A.笔记法.md",
+    "global/任务管理.md",
+    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
     "2022-06/改变人生的好书 by Elena.md",
     "2022-12/掌控习惯.md",
     "2022-11/P.A.R.A. 是什么及在 Notion 中的应用.md",
     "2022-12/数据科学.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-11/P.A.R.A.笔记法.md",
-    "2022-11/PAPR，Slip-box，Bullet Journey：个人笔记管理系统探索.md",
-    "global/任务管理.md",
-    "diary/2022-11-07.md",
-    "2022-02/日常锻炼整合.md"
+    "diary/2022-11-07.md"
   ]
 }
