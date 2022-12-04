@@ -25,7 +25,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "2022-05/2022-05.md"
+                "file": "2022-06/2022-06.md"
               }
             }
           },
@@ -44,6 +44,44 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4ff92c1eb5b557c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d382b265787b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2022-12-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2acc6a92a425cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc5586506688531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12/Unity塔防Demo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-05/2022-05.md"
+                "file": "2022-06/2022-06.md"
               }
             }
           }
@@ -192,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05/2022-05.md",
+                "file": "2022-06/2022-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,15 +257,15 @@
   },
   "active": "33ca916ef60b61a9",
   "lastOpenFiles": [
-    "2022-11/购物清单.md",
+    "diary/2022-12-04.md",
+    "2022-12/Unity塔防Demo.md",
     "2022-05/2022-05.md",
+    "2022-06/2022-06.md",
+    "2022-11/购物清单.md",
     "2022-10/FF14.md",
     "diary/2022-11-07.md",
     "global/任务管理.md",
-    "diary/2022-12-04.md",
     "global/【看板】通用.md",
-    "diary/2022-11-20.md",
-    "diary/2022-12-02.md",
-    "2022-11/宝可梦朱紫.md"
+    "diary/2022-11-20.md"
   ]
 }
