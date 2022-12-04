@@ -23,9 +23,12 @@
             "id": "854107a1a173bc6f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "diary/2022-12-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -90,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/书籍",
+                "query": "tag:#领域/语言/语言学习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "diary/2022-12-04.md"
               }
             }
           }
@@ -179,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "diary/2022-12-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +207,9 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "854107a1a173bc6f",
+  "active": "183e74832e39f82f",
   "lastOpenFiles": [
+    "2022-02/日常锻炼整合.md",
     "global/任务管理.md",
     "2022-06/2022-06.md",
     "diary/2022-12-04.md",
@@ -214,7 +218,6 @@
     "2022-12/人性的弱点.md",
     "2022-06/宝塔面板相关.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-02/高效能人士的七个习惯.md",
-    "2022-11/倦怠社会.md"
+    "2022-02/高效能人士的七个习惯.md"
   ]
 }
