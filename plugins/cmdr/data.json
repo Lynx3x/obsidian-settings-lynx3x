@@ -9,6 +9,12 @@
       "icon": "file",
       "name": "Kanban: 在看板和 Markdown 模式之间进行切换",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-kanban:toggle-kanban-view",
+      "icon": "bookmark",
+      "name": "Kanban: 在看板和 Markdown 模式之间进行切换",
+      "mode": "any"
     }
   ],
   "leftRibbon": [
