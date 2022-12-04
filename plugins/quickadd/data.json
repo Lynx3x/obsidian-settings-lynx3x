@@ -264,7 +264,70 @@
             "appendLink": false,
             "incrementFileName": false,
             "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "GitCommitAllAndPush",
+      "id": "e61b66c1-9154-4546-bc55-fe6107eee208",
+      "commands": [
+        {
+          "name": "Obsidian Git: Commit all changes",
+          "type": "Obsidian",
+          "id": "711810f7-152f-4c09-98e8-c01fb9ce0550",
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "e354cef5-7d55-454e-abec-c542981872c5",
+          "time": 5000
+        },
+        {
+          "name": "Obsidian Git: Push",
+          "type": "Obsidian",
+          "id": "7e7875a0-6712-4d90-8475-aaccd3425f31",
+          "commandId": "obsidian-git:push2"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "添加新笔记backup",
+      "id": "4467f69f-ffe3-4a67-b10e-73821cfc27a4",
+      "commands": [
+        {
+          "name": "Template: 根据模板新建文件",
+          "type": "NestedChoice",
+          "id": "a763f69b-d8db-41c0-958c-f7e83f500173",
+          "choice": {
+            "id": "bcc55f99-87c7-421e-b68f-1743a9d5410f",
+            "name": "Template: 根据模板新建文件",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/NewFileTemplate.md",
+            "fileNameFormat": {
               "enabled": true,
+              "format": "{{Date:yyyy-MM}}/{{VALUE:title}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
               "direction": "vertical",
               "focus": true
             },
@@ -275,16 +338,16 @@
         {
           "name": "Wait",
           "type": "Wait",
-          "id": "1d08a55e-a7ef-4eb0-a236-08ce507cf059",
+          "id": "100a4ba1-3780-405c-9b49-2a1b3260dc60",
           "time": 50
         },
         {
-          "name": "将新文件添加进通用看板",
+          "name": "Capture: 将新文件添加进通用看板",
           "type": "NestedChoice",
-          "id": "c470a43d-870b-4879-acf0-7e24a4f9b668",
+          "id": "429e49ed-e615-4f37-ac64-b8f92b9744e9",
           "choice": {
-            "id": "29c67e3d-f10e-479d-9368-c83a9624d0a9",
-            "name": "将新文件添加进通用看板",
+            "id": "5c8db880-582e-4c4d-939a-11a712f561ea",
+            "name": "Capture: 将新文件添加进通用看板",
             "type": "Capture",
             "command": false,
             "appendLink": false,
@@ -316,31 +379,6 @@
             "openFile": false,
             "openFileInMode": "default"
           }
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "GitCommitAllAndPush",
-      "id": "e61b66c1-9154-4546-bc55-fe6107eee208",
-      "commands": [
-        {
-          "name": "Obsidian Git: Commit all changes",
-          "type": "Obsidian",
-          "id": "711810f7-152f-4c09-98e8-c01fb9ce0550",
-          "commandId": "obsidian-git:commit"
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "e354cef5-7d55-454e-abec-c542981872c5",
-          "time": 5000
-        },
-        {
-          "name": "Obsidian Git: Push",
-          "type": "Obsidian",
-          "id": "7e7875a0-6712-4d90-8475-aaccd3425f31",
-          "commandId": "obsidian-git:push2"
         }
       ],
       "runOnStartup": false
