@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "4a5b764666cf04f6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "global/【看板】通用.md"
-              }
-            }
-          },
-          {
             "id": "fc688dbb26ffca67",
             "type": "leaf",
             "state": {
@@ -176,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-11/卡片盒笔记法.md"
               }
             }
           }
@@ -193,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-11/卡片盒笔记法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,9 +206,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
-  "active": "4a5b764666cf04f6",
+  "active": "fc688dbb26ffca67",
   "lastOpenFiles": [
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "global/【看板】通用.md",
