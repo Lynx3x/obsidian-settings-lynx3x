@@ -20,15 +20,12 @@
             }
           },
           {
-            "id": "34182468b40b675c",
+            "id": "4a5b764666cf04f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "global/【看板】通用.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "global/【看板】通用.md"
               }
             }
           },
@@ -58,7 +55,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 23.529411764705877,
+        "dimension": 14.3646408839779,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -71,12 +68,12 @@
         ]
       },
       {
-        "id": "6fd46c820483008e",
+        "id": "46be330f3d0ea782",
         "type": "tabs",
-        "dimension": 18.09954751131222,
+        "dimension": 14.3646408839779,
         "children": [
           {
-            "id": "442657a66b40301e",
+            "id": "65054916e1c78feb",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -88,7 +85,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 24.886877828054303,
+        "dimension": 30.38674033149172,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -121,7 +118,7 @@
       {
         "id": "8ede93b22f723a4e",
         "type": "tabs",
-        "dimension": 33.484162895927604,
+        "dimension": 40.88397790055249,
         "children": [
           {
             "id": "baef394a53310d2d",
@@ -138,19 +135,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
     "type": "split",
     "children": [
       {
-        "id": "056ec32a8be876eb",
+        "id": "24c87d8ce3b4fd70",
         "type": "tabs",
-        "dimension": 25.20833333333333,
+        "dimension": 36.1188486536676,
         "children": [
           {
-            "id": "f07cb023e6a28101",
+            "id": "509d16e5a7155e47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43cab27fff514758",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -160,24 +166,9 @@
         ]
       },
       {
-        "id": "24c87d8ce3b4fd70",
-        "type": "tabs",
-        "dimension": 27.013888888888893,
-        "children": [
-          {
-            "id": "509d16e5a7155e47",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "7e68816121f3bbd9",
         "type": "tabs",
-        "dimension": 22.013888888888893,
+        "dimension": 29.433611884865368,
         "children": [
           {
             "id": "c41be16fce382e52",
@@ -194,7 +185,7 @@
       {
         "id": "8c790e932bb467a4",
         "type": "tabs",
-        "dimension": 25.763888888888893,
+        "dimension": 34.44753946146704,
         "children": [
           {
             "id": "0bc8df577d4a921c",
@@ -225,10 +216,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
-  "active": "34182468b40b675c",
+  "active": "4a5b764666cf04f6",
   "lastOpenFiles": [
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "global/【看板】通用.md",
