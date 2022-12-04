@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/2022-06.md"
+                "file": "diary/2022-12-04.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/2022-06.md",
+                "file": "diary/2022-12-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +223,10 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "854107a1a173bc6f",
+  "active": "59e20329f8e19e3c",
   "lastOpenFiles": [
-    "diary/2022-12-04.md",
     "2022-06/2022-06.md",
+    "diary/2022-12-04.md",
     "2022-07/文艺复兴球_01_线.md",
     "2022-11/购物清单.md",
     "2022-12/人性的弱点.md",
