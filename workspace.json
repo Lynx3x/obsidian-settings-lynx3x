@@ -23,9 +23,12 @@
             "id": "854107a1a173bc6f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "global/任务管理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/日常锻炼整合.md"
+                "file": "global/任务管理.md"
               }
             }
           }
@@ -179,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/日常锻炼整合.md",
+                "file": "global/任务管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,15 +209,15 @@
   },
   "active": "854107a1a173bc6f",
   "lastOpenFiles": [
-    "diary/2022-12-04.md",
-    "2022-02/日常锻炼整合.md",
+    "diary/2022-11-21.md",
     "global/任务管理.md",
+    "2022-02/日常锻炼整合.md",
+    "diary/2022-12-04.md",
     "2022-06/2022-06.md",
     "2022-07/文艺复兴球_01_线.md",
     "2022-11/购物清单.md",
     "2022-12/人性的弱点.md",
     "2022-06/宝塔面板相关.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-02/高效能人士的七个习惯.md"
+    "2022-10/工作流流向与项目分类思考.excalidraw.md"
   ]
 }
