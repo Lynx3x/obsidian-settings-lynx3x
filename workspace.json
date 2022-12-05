@@ -20,53 +20,6 @@
             }
           },
           {
-            "id": "27fabdbeceb87904",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "90af2ae568616e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2022-12-05.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ded2606b2bbf8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12/帽子相关.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e23c5f187389000d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11/宝可梦朱紫.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e74449956ba7a705",
             "type": "leaf",
             "state": {
@@ -85,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-02/【复盘】2021计划.md",
+                "file": "2022-02/复盘2021计划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,23 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "88c9a1ce2b2f15ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2c862cb84683b79",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-02/2022-02.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "高效信息",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -241,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11/宝可梦朱紫.md"
+                "file": "2022-02/复盘2021计划.md"
               }
             }
           }
@@ -258,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11/宝可梦朱紫.md",
+                "file": "2022-02/复盘2021计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,17 +221,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "e23c5f187389000d",
+  "active": "f3034884bbd73eed",
   "lastOpenFiles": [
-    "2022-12/帽子相关.md",
-    "diary/2022-12-05.md",
     "2022-02/2022-02.md",
-    "2022-12/高效信息管理术.md",
-    "2022-02/【复盘】2021计划.md",
-    "2022-11/我是如何用 Notion 来进行知识管理的.md",
+    "2022-02/2022年度计划.md",
+    "2022-01/2022-01.md",
+    "2022-02/复盘2021计划.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "global/任务管理.md",
-    "diary/2022-11-21.md",
+    "2022-12/高效信息管理术.md",
+    "diary/2022-12-05.md",
+    "2022-12/帽子相关.md",
+    "2022-11/宝可梦朱紫.md",
     "2022-02/日常锻炼整合.md"
   ]
 }
