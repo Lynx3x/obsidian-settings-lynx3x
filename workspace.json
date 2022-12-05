@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e74449956ba7a705",
+            "id": "2efe5c15807557fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12/高效信息管理术.md",
+                "file": "2022-12/时间管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,12 +33,25 @@
             }
           },
           {
-            "id": "f3034884bbd73eed",
+            "id": "5388560b7c235c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-02/复盘2021计划.md",
+                "file": "2022-02/2022年度计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45ad8d951d3d6ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12/英语学习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#类别/人物",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/复盘2021计划.md"
+                "file": "2022-12/英语学习.md"
               }
             }
           }
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/复盘2021计划.md",
+                "file": "2022-12/英语学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,17 +233,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "f3034884bbd73eed",
+  "active": "45ad8d951d3d6ede",
   "lastOpenFiles": [
-    "2022-02/2022-02.md",
     "2022-02/2022年度计划.md",
-    "2022-01/2022-01.md",
-    "2022-02/复盘2021计划.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-12/高效信息管理术.md",
-    "diary/2022-12-05.md",
-    "2022-12/帽子相关.md",
-    "2022-11/宝可梦朱紫.md",
-    "2022-02/日常锻炼整合.md"
+    "2022-12/时间管理.md",
+    "2022-12/管理好时间的底层原理，全在这里了.md",
+    "2022-12/少楠.md",
+    "2022-12/L先生说.md",
+    "2022-11/分享我的生活管理系统.md",
+    "2022-11/知识该怎么管理呢？我终于找到答案了.md",
+    "2022-11/DIKW体系.md",
+    "2022-11/INKP笔记法.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md"
   ]
 }
