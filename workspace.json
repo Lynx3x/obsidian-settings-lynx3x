@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "2efe5c15807557fc",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "d28ba84ef4332347",
             "type": "leaf",
             "state": {
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,11 +235,11 @@
   "active": "a5640dafb0ed5c81",
   "lastOpenFiles": [
     "2022-06/优质UP主清单2022.md",
+    "2022-12/英语学习.md",
     "2022-12/b站每周必看.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/时间管理.md",
     "2022-02/2022年度计划.md",
-    "2022-12/英语学习.md",
     "2022-12/管理好时间的底层原理，全在这里了.md",
     "2022-12/少楠.md",
     "2022-12/L先生说.md",
