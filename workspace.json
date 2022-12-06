@@ -20,35 +20,12 @@
             }
           },
           {
-            "id": "d28ba84ef4332347",
+            "id": "0dcb185d7ae31c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-02/2022年度计划.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e37827828e806ac",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-06/优质UP主清单2022.md"
-              }
-            }
-          },
-          {
-            "id": "a5640dafb0ed5c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12/英语学习.md",
+                "file": "2022-12/布鲁姆分类学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#类别/人物",
+                "query": "知识",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12/英语学习.md"
+                "file": "2022-12/布鲁姆分类学.md"
               }
             }
           }
@@ -206,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12/英语学习.md",
+                "file": "2022-12/布鲁姆分类学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,17 +209,17 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "a5640dafb0ed5c81",
+  "active": "0dcb185d7ae31c3b",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-02/2022年度计划.md",
+    "2021-07/【计划】202107.md",
     "2022-06/优质UP主清单2022.md",
+    "2022-06/中国地图资源.md",
     "2022-12/英语学习.md",
     "2022-12/b站每周必看.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/时间管理.md",
-    "2022-02/2022年度计划.md",
     "2022-12/管理好时间的底层原理，全在这里了.md",
-    "2022-12/少楠.md",
-    "2022-12/L先生说.md",
-    "2022-11/分享我的生活管理系统.md"
+    "2022-12/少楠.md"
   ]
 }
