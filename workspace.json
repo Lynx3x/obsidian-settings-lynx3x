@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-12/b站每周必看.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-12/b站每周必看.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +228,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "2efe5c15807557fc",
+  "active": "6e37827828e806ac",
   "lastOpenFiles": [
-    "2022-12/时间管理.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-02/2022年度计划.md",
+    "2022-06/优质UP主清单2022.md",
     "2022-12/b站每周必看.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-12/时间管理.md",
+    "2022-02/2022年度计划.md",
     "2022-12/英语学习.md",
     "2022-12/管理好时间的底层原理，全在这里了.md",
     "2022-12/少楠.md",
     "2022-12/L先生说.md",
-    "2022-11/分享我的生活管理系统.md",
-    "2022-11/知识该怎么管理呢？我终于找到答案了.md"
+    "2022-11/分享我的生活管理系统.md"
   ]
 }
