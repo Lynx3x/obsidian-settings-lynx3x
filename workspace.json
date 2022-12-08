@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,7 +39,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 17.77777777777778,
+        "dimension": 43.84085692425402,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -53,24 +52,9 @@
         ]
       },
       {
-        "id": "46be330f3d0ea782",
-        "type": "tabs",
-        "dimension": 21.04166666666667,
-        "children": [
-          {
-            "id": "65054916e1c78feb",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 21.25,
+        "dimension": 36.342769701606734,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -83,29 +67,6 @@
             }
           },
           {
-            "id": "183e74832e39f82f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "知识",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8ede93b22f723a4e",
-        "type": "tabs",
-        "dimension": 39.93055555555556,
-        "children": [
-          {
             "id": "baef394a53310d2d",
             "type": "leaf",
             "state": {
@@ -114,6 +75,37 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "183e74832e39f82f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "664c2d92b35f1c13",
+        "type": "tabs",
+        "dimension": 19.81637337413925,
+        "children": [
+          {
+            "id": "65054916e1c78feb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
@@ -202,7 +194,7 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "665a851c38fb5fa9",
+  "active": "d98a30e3b76136c5",
   "lastOpenFiles": [
     "diary/2022-12-05.md",
     "diary/2022-12-06.md",
