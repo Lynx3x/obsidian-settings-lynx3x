@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -192,19 +194,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
-  "active": "d98a30e3b76136c5",
+  "active": "665a851c38fb5fa9",
   "lastOpenFiles": [
+    "2022-12/数据科学.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "diary/2022-12-05.md",
     "diary/2022-12-06.md",
     "diary/2022-12-07.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/英语学习.md",
     "2022-12/布鲁姆分类学.md",
     "2022-02/2022年度计划.md",
     "2021-07/【计划】202107.md",
-    "2022-06/优质UP主清单2022.md",
-    "2022-06/中国地图资源.md"
+    "2022-06/优质UP主清单2022.md"
   ]
 }
