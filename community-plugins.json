@@ -31,5 +31,6 @@
   "cmenu-plugin",
   "obsidian-tasks-plugin",
   "obsidian-reminder-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-snippet-downloader"
 ]

@@ -6,7 +6,8 @@
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "external-link-icons",
-    "supercharged-links-gen"
+    "supercharged-links-gen",
+    "MCL Multi Column"
   ],
   "accentColor": "",
   "showViewHeader": false,
