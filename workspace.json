@@ -20,15 +20,7 @@
             }
           },
           {
-            "id": "665a851c38fb5fa9",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a79ed3b22451f9f",
+            "id": "343b275a88fc4885",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "输入法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "664c2d92b35f1c13",
@@ -126,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -209,17 +200,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "4a79ed3b22451f9f",
+  "active": "343b275a88fc4885",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/双手设定系统.md",
+    "2022-10/电脑必备软件.md",
+    "2022-12/英语学习.md",
     "2022-12/最终痴汉电车3.md",
     "2022-11/宝可梦朱紫.md",
     "2022-02/日常锻炼整合.md",
     "2022-12/时间管理四象限是错误的.md",
-    "2022-12/英语学习.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-06/优质UP主清单2022.md",
-    "diary/2022-12-09.md",
-    "2022-12/Obsidian分栏实现.md",
-    "diary/2022-12-10.md"
+    "diary/2022-12-09.md"
   ]
 }
