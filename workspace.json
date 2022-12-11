@@ -31,22 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f62451fa49da19d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12/每个人都值得拥有几本好词典.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "输入法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12/每个人都值得拥有几本好词典.md"
+                "file": "2022-12/英语学习.md"
               }
             }
           }
@@ -189,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12/每个人都值得拥有几本好词典.md",
+                "file": "2022-12/英语学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,13 +202,13 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "f62451fa49da19d0",
+  "active": "343b275a88fc4885",
   "lastOpenFiles": [
+    "2022-12/每个人都值得拥有几本好词典.md",
+    "2022-12/英语学习.md",
     "diary/2022-12-10.md",
     "diary/2022-12-09.md",
     "diary/2022-12-07.md",
-    "2022-12/英语学习.md",
-    "2022-12/每个人都值得拥有几本好词典.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/双手设定系统.md",
     "2022-10/电脑必备软件.md",
