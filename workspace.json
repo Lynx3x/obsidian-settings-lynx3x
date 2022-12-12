@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -197,7 +196,7 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "343b275a88fc4885",
+  "active": "183e74832e39f82f",
   "lastOpenFiles": [
     "2022-12/英语学习.md",
     "2022-12/每个人都值得拥有几本好词典.md",
