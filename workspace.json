@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12/原神.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12/原神.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +210,9 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "2412d622e0f8ac71",
+  "active": "343b275a88fc4885",
   "lastOpenFiles": [
+    "2022-12/原神.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/最终痴汉电车3.md",
     "2022-12/英语学习.md",
@@ -220,7 +221,6 @@
     "diary/2022-12-09.md",
     "diary/2022-12-07.md",
     "pluginTestingFiles/YarleImportTest/notes/122 - Flash  灵感/双手设定系统.md",
-    "2022-10/电脑必备软件.md",
-    "2022-11/宝可梦朱紫.md"
+    "2022-10/电脑必备软件.md"
   ]
 }
