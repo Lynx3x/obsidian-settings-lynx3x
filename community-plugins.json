@@ -32,5 +32,6 @@
   "obsidian-tasks-plugin",
   "obsidian-reminder-plugin",
   "dataview",
-  "obsidian-snippet-downloader"
+  "obsidian-snippet-downloader",
+  "obsidian-map-view"
 ]

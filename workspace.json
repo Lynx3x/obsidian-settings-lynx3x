@@ -4,46 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "0a7f0fc8f1059c2b",
-        "type": "tabs",
+        "id": "bed1310392885905",
+        "type": "split",
         "children": [
           {
-            "id": "d98a30e3b76136c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+            "id": "0a7f0fc8f1059c2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d98a30e3b76136c5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "6ed6eeaf0b448f1f",
+                "type": "leaf",
+                "state": {
+                  "type": "map",
+                  "state": {
+                    "name": "Default",
+                    "mapZoom": 1,
+                    "mapCenter": {
+                      "lat": 40.44694705960048,
+                      "lng": -180.70312500000003
+                    },
+                    "query": "",
+                    "chosenMapSource": 0,
+                    "queryError": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "2412d622e0f8ac71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12/原神.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "c4f7b966e004a187",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1081b7805b2f189b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "美食地图记录测试.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "7a4c6165d6bfb096",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-07/2022-07.md"
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "664c2d92b35f1c13",
@@ -128,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -168,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-07/2022-07.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/2022-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,17 +227,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "7a4c6165d6bfb096",
+  "active": "6ed6eeaf0b448f1f",
   "lastOpenFiles": [
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "美食地图记录测试.md",
+    "2022-12/原神.md",
+    "2022-07/2022-07.md",
     "2022-12/十分钟学会正确的github工作流.md",
     "2022-12/Learn Git Branching.md",
-    "2022-12/原神.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/最终痴汉电车3.md",
     "2022-12/英语学习.md",
     "2022-12/每个人都值得拥有几本好词典.md",
-    "diary/2022-12-10.md",
-    "diary/2022-12-09.md",
-    "diary/2022-12-07.md"
+    "diary/2022-12-10.md"
   ]
 }
