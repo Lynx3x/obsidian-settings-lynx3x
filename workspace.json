@@ -20,17 +20,25 @@
             }
           },
           {
-            "id": "4872b7115afe214e",
+            "id": "ab0f3a93caf668c7",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "81f9c4dbc3c60273",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "2022-08/2022-08.md"
+                "file": "2022-09/2022-09.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "664c2d92b35f1c13",
@@ -155,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08/2022-08.md"
+                "file": "2022-09/2022-09.md"
               }
             }
           }
@@ -172,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08/2022-08.md",
+                "file": "2022-09/2022-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +205,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "4872b7115afe214e",
+  "active": "81f9c4dbc3c60273",
   "lastOpenFiles": [
-    "2022-07/2022-07.md",
+    "2022-08/2022-08.md",
+    "2022-08/AI绘画相关整理.md",
+    "2022-08/解构爱情.md",
     "diary/2022-12-14.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2021-10/Obsidian插件推荐.md",
-    "2022-04/2022-04.md",
-    "2022-10/Dataview经验.md",
-    "2022-02/mindmapTest.md",
-    "美食地图记录测试.md",
-    "2022-12/原神.md",
-    "2022-12/十分钟学会正确的github工作流.md"
+    "2022-06/段码字.md",
+    "2022-07/早茶等级.md",
+    "2022-07/日料店平替.md",
+    "2022-07/切香皂视频带来的快感.md",
+    "diary/2022-07-18.md"
   ]
 }
