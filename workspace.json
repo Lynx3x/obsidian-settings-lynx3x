@@ -4,67 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bed1310392885905",
-        "type": "split",
+        "id": "0a7f0fc8f1059c2b",
+        "type": "tabs",
         "children": [
           {
-            "id": "0a7f0fc8f1059c2b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d98a30e3b76136c5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
-                  },
-                  "pinned": true
-                }
+            "id": "d98a30e3b76136c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               },
-              {
-                "id": "6ed6eeaf0b448f1f",
-                "type": "leaf",
-                "state": {
-                  "type": "map",
-                  "state": {
-                    "name": "Default",
-                    "mapZoom": 1,
-                    "mapCenter": {
-                      "lat": 40.44694705960048,
-                      "lng": -180.70312500000003
-                    },
-                    "query": "",
-                    "chosenMapSource": 0,
-                    "queryError": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           },
           {
-            "id": "c4f7b966e004a187",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1081b7805b2f189b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "美食地图记录测试.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "83c49b749b5d6ef7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-07/2022-07.md"
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "664c2d92b35f1c13",
@@ -148,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -187,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-07/2022-07.md"
+              }
             }
           }
         ]
@@ -203,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-07/2022-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +198,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "6ed6eeaf0b448f1f",
+  "active": "83c49b749b5d6ef7",
   "lastOpenFiles": [
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2021-10/Obsidian插件推荐.md",
+    "2022-07/2022-07.md",
+    "2022-04/2022-04.md",
+    "2022-10/Dataview经验.md",
+    "2022-02/mindmapTest.md",
     "美食地图记录测试.md",
     "2022-12/原神.md",
-    "2022-07/2022-07.md",
     "2022-12/十分钟学会正确的github工作流.md",
-    "2022-12/Learn Git Branching.md",
-    "2022-12/最终痴汉电车3.md",
-    "2022-12/英语学习.md",
-    "2022-12/每个人都值得拥有几本好词典.md",
-    "diary/2022-12-10.md"
+    "2022-12/Learn Git Branching.md"
   ]
 }
