@@ -20,25 +20,15 @@
             }
           },
           {
-            "id": "ab0f3a93caf668c7",
+            "id": "81f9c4dbc3c60273",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "81f9c4dbc3c60273",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/2022-10.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
