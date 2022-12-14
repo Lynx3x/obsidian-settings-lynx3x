@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "83c49b749b5d6ef7",
+            "id": "4872b7115afe214e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -198,17 +197,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "83c49b749b5d6ef7",
+  "active": "4872b7115afe214e",
   "lastOpenFiles": [
+    "diary/2022-12-14.md",
+    "2022-07/2022-07.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2021-10/Obsidian插件推荐.md",
-    "2022-07/2022-07.md",
     "2022-04/2022-04.md",
     "2022-10/Dataview经验.md",
     "2022-02/mindmapTest.md",
     "美食地图记录测试.md",
     "2022-12/原神.md",
-    "2022-12/十分钟学会正确的github工作流.md",
-    "2022-12/Learn Git Branching.md"
+    "2022-12/十分钟学会正确的github工作流.md"
   ]
 }
