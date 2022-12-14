@@ -25,7 +25,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "2022-07/2022-07.md"
+                "file": "2022-08/2022-08.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/2022-07.md"
+                "file": "2022-08/2022-08.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/2022-07.md",
+                "file": "2022-08/2022-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +199,8 @@
   },
   "active": "4872b7115afe214e",
   "lastOpenFiles": [
-    "diary/2022-12-14.md",
     "2022-07/2022-07.md",
+    "diary/2022-12-14.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2021-10/Obsidian插件推荐.md",
     "2022-04/2022-04.md",
