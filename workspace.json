@@ -26,35 +26,9 @@
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "72f642729e93203c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2022-12-16.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc201a3564bd91e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2022-12-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "红薯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "664c2d92b35f1c13",
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-12-16.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -196,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-12-16.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,17 +195,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "72f642729e93203c",
+  "active": "81f9c4dbc3c60273",
   "lastOpenFiles": [
+    "2022-06/2022-06.md",
     "diary/2022-12-15.md",
+    "2022-04/2022-04.md",
     "diary/2022-12-16.md",
     "2022-12/原神.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-09/2022-09.md",
     "2022-08/2022-08.md",
     "2022-08/AI绘画相关整理.md",
-    "2022-08/解构爱情.md",
-    "diary/2022-12-14.md",
-    "2022-06/段码字.md"
+    "2022-08/解构爱情.md"
   ]
 }
