@@ -26,9 +26,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "d9434137d9ece1f5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-06/优质UP主清单2022.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-06/优质UP主清单2022.md"
               }
             }
           }
@@ -170,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-06/优质UP主清单2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,19 +204,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
-  "active": "81f9c4dbc3c60273",
+  "active": "d9434137d9ece1f5",
   "lastOpenFiles": [
+    "2022-12/英语学习.md",
+    "2022-06/优质UP主清单2022.md",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-06/2022-06.md",
     "diary/2022-12-15.md",
     "2022-04/2022-04.md",
     "diary/2022-12-16.md",
     "2022-12/原神.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-09/2022-09.md",
-    "2022-08/2022-08.md",
-    "2022-08/AI绘画相关整理.md",
-    "2022-08/解构爱情.md"
+    "2022-08/2022-08.md"
   ]
 }
