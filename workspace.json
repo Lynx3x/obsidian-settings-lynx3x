@@ -26,9 +26,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "7423de307903c886",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-06/优质UP主清单2022.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "2022-06/优质UP主清单2022.md"
               }
             }
           }
@@ -170,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "2022-06/优质UP主清单2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +207,10 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "81f9c4dbc3c60273",
+  "active": "7423de307903c886",
   "lastOpenFiles": [
-    "global/任务管理.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "global/任务管理.md",
     "2022-06/优质UP主清单2022.md",
     "2022-12/英语学习.md",
     "2022-06/2022-06.md",
