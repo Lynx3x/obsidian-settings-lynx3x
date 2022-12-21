@@ -26,6 +26,16 @@
             }
           },
           {
+            "id": "faa353378ea87fe6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-06/优质UP主清单2022.md"
+              }
+            }
+          },
+          {
             "id": "ed7c406ae53fee8e",
             "type": "leaf",
             "state": {
@@ -40,22 +50,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "d48559a82c0e1629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12/买了15年的小产权房，前房主想原价收回.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -179,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12/买了15年的小产权房，前房主想原价收回.md"
+                "file": "2022-06/优质UP主清单2022.md"
               }
             }
           }
@@ -196,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12/买了15年的小产权房，前房主想原价收回.md",
+                "file": "2022-06/优质UP主清单2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,9 +237,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d48559a82c0e1629",
+  "active": "faa353378ea87fe6",
   "lastOpenFiles": [
     "未命名.canvas",
+    "2022-12/买了15年的小产权房，前房主想原价收回.md",
     "2022-12/英语学习.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-06/优质UP主清单2022.md",
@@ -249,7 +248,6 @@
     "2022-06/2022-06.md",
     "diary/2022-12-15.md",
     "2022-04/2022-04.md",
-    "diary/2022-12-16.md",
-    "2022-12/原神.md"
+    "diary/2022-12-16.md"
   ]
 }
