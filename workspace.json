@@ -24,9 +24,25 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "ed7c406ae53fee8e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -639.4436604328081,
+                  "y": -393.8105959897082,
+                  "zoom": 0,
+                  "snapToGrid": true
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "664c2d92b35f1c13",
@@ -111,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -151,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -168,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
+                "file": "未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,29 +215,29 @@
       "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "cmdr:QuickAdd: 添加新笔记": false,
       "remotely-save:Remotely Save": false,
       "obsidian-memos:Memos": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "cmdr:QuickAdd: 添加新笔记": false,
       "cmdr:局部关系图": false,
       "cmdr:QuickAdd: SyncToGithub": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "81f9c4dbc3c60273",
+  "active": "ed7c406ae53fee8e",
   "lastOpenFiles": [
-    "2022-06/优质UP主清单2022.md",
-    "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "global/任务管理.md",
     "2022-12/英语学习.md",
+    "未命名.canvas",
+    "2022-10/工作流流向与项目分类思考.excalidraw.md",
+    "2022-06/优质UP主清单2022.md",
+    "global/任务管理.md",
     "2022-06/2022-06.md",
     "diary/2022-12-15.md",
     "2022-04/2022-04.md",
     "diary/2022-12-16.md",
-    "2022-12/原神.md",
-    "2022-09/2022-09.md"
+    "2022-12/原神.md"
   ]
 }
