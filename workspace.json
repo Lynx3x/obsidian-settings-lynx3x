@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "b5a83a1770b1b809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12/我在大厂，我不加班！数据分析师的4个思维习惯，省出摸鱼时间.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed7c406ae53fee8e",
             "type": "leaf",
             "state": {
@@ -52,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md"
+                "file": "2022-12/我在大厂，我不加班！数据分析师的4个思维习惯，省出摸鱼时间.md"
               }
             }
           }
@@ -194,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md",
+                "file": "2022-12/我在大厂，我不加班！数据分析师的4个思维习惯，省出摸鱼时间.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,10 +250,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "faa353378ea87fe6",
+  "active": "b5a83a1770b1b809",
   "lastOpenFiles": [
-    "2022-12/王老菊教你做游戏实况01.md",
     "2022-06/优质UP主清单2022.md",
+    "2022-12/王老菊教你做游戏实况01.md",
     "未命名.canvas",
     "2022-12/买了15年的小产权房，前房主想原价收回.md",
     "2022-12/英语学习.md",
