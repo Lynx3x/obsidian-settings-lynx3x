@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "7423de307903c886",
+            "id": "30d974ecc8c834f1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "release-notes",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md"
+                "currentVersion": "1.1.8"
               }
             }
           }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md"
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md"
               }
             }
           }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md",
+                "file": "2022-10/工作流流向与项目分类思考.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,11 +207,25 @@
     "width": 247.5,
     "collapsed": true
   },
-  "active": "7423de307903c886",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "30d974ecc8c834f1",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单2022.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "global/任务管理.md",
-    "2022-06/优质UP主清单2022.md",
     "2022-12/英语学习.md",
     "2022-06/2022-06.md",
     "diary/2022-12-15.md",
