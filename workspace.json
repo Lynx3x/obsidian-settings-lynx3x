@@ -37,19 +37,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4aa2626faecfa2ee",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-06/优质UP主清单2022.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md"
+                "file": "2022-12/英语学习.md"
               }
             }
           }
@@ -191,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06/优质UP主清单2022.md",
+                "file": "2022-12/英语学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,14 +224,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4aa2626faecfa2ee",
+  "active": "814050d37241d21e",
   "lastOpenFiles": [
+    "2022-06/优质UP主清单2022.md",
     "2022-12/英语学习.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/原神.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "2022-06/优质UP主清单2022.md",
     "2022-12/我在大厂，我不加班！数据分析师的4个思维习惯，省出摸鱼时间.md",
     "2022-12/王老菊教你做游戏实况01.md",
     "2022-12/买了15年的小产权房，前房主想原价收回.md",
