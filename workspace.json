@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "932209b965be0ea5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "global/【看板】通用.md"
+              }
+            }
+          },
+          {
             "id": "81f9c4dbc3c60273",
             "type": "leaf",
             "state": {
@@ -36,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +58,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 29.456771231828615,
+        "dimension": 29.475437135720234,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -63,7 +73,7 @@
       {
         "id": "393732212189570c",
         "type": "tabs",
-        "dimension": 50.726855394032135,
+        "dimension": 45.9616985845129,
         "children": [
           {
             "id": "4ab0b3d552c5aed2",
@@ -106,7 +116,7 @@
       {
         "id": "664c2d92b35f1c13",
         "type": "tabs",
-        "dimension": 19.81637337413925,
+        "dimension": 24.56286427976686,
         "children": [
           {
             "id": "65054916e1c78feb",
@@ -120,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -161,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10/2022-10.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -178,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10/2022-10.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,17 +230,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1d076c52eaff2931",
+  "active": "932209b965be0ea5",
   "lastOpenFiles": [
+    "2022-12/文艺复兴球目录.md",
+    "2022-07/文艺复兴球 02 形状.md",
+    "2022-07/文艺复兴球 01 线.md",
+    "global/【看板】通用.md",
+    "2022-07/文艺复兴球 工具 PS.md",
+    "2022-06/图灵斑图.md",
+    "2022-06/宝塔面板相关.md",
+    "2022-06/便签导入脚本 开发心路.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
-    "2022-12/卜尔Q老师的答疑贴.md",
-    "2022-11/宝可梦朱紫.md",
-    "2022-12/英语学习.md",
-    "2022-12/各位背单词的方法都是过时的.md",
-    "2022-12/记住，你永远也没法学会外语.md",
-    "2022-12/布鲁姆分类学.md",
-    "templates/NewFileTemplate.md",
-    "2022-06/优质UP主清单2022.md",
-    "2022-12/原神.md"
+    "2022-10/2022-10.md"
   ]
 }
