@@ -28,19 +28,6 @@
             }
           },
           {
-            "id": "2a912b179929168d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-07/JRPG吧 吧友评分.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5d8d268f199b5a2",
             "type": "leaf",
             "state": {
@@ -170,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/JRPG吧 吧友评分.md"
+                "file": "2022-07/【笔记】为何儿时的游戏更好玩.md"
               }
             }
           }
@@ -227,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/JRPG吧 吧友评分.md",
+                "file": "2022-07/【笔记】为何儿时的游戏更好玩.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,9 +258,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "183e74832e39f82f",
+  "active": "e5d8d268f199b5a2",
   "lastOpenFiles": [
     "global/【看板】通用.md",
+    "2022-07/JRPG吧 吧友评分.md",
     "2022-03/【笔记】网课：福瑞入门.md",
     "2022-02/关于心流.md",
     "2022-07/【笔记】为何儿时的游戏更好玩.md",
@@ -280,7 +269,6 @@
     "2022-12/让我们来捕鲸——手游公司CEO教你免费移动游戏的收益系统诀窍.md",
     "2022-03/氪金游戏如何掏空你的钱包.md",
     "2022-12/3分钟教会奶茶店90%的奶茶.md",
-    "2022-03/C++学习路线.md",
-    "2022-10/2022-10.md"
+    "2022-03/C++学习路线.md"
   ]
 }
