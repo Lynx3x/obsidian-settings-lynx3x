@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
       {
         "id": "af2cd8b27bb0d571",
         "type": "tabs",
-        "dimension": 29.475437135720234,
+        "dimension": 29.47543713572024,
         "children": [
           {
             "id": "e58077ec8f45a165",
@@ -143,7 +143,7 @@
       {
         "id": "664c2d92b35f1c13",
         "type": "tabs",
-        "dimension": 24.56286427976686,
+        "dimension": 24.562864279766863,
         "children": [
           {
             "id": "65054916e1c78feb",
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-07/【笔记】为何儿时的游戏更好玩.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07/【笔记】为何儿时的游戏更好玩.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,17 +257,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e5d8d268f199b5a2",
+  "active": "932209b965be0ea5",
   "lastOpenFiles": [
+    "2022-02/关于心流.md",
+    "2022-07/【笔记】为何儿时的游戏更好玩.md",
     "global/【看板】通用.md",
     "2022-03/【笔记】关于游戏的信仰-Jonathan blow的创作哲学.md",
-    "2022-02/关于心流.md",
     "2022-12/让我们来捕鲸——手游公司CEO教你免费移动游戏的收益系统诀窍.md",
     "2022-03/氪金游戏如何掏空你的钱包.md",
     "2022-12/3分钟教会奶茶店90%的奶茶.md",
     "2022-03/C++学习路线.md",
     "2022-10/2022-10.md",
-    "2022-02/UP主做视频常用的强力技巧，你见过几个.md",
-    "diary/2022-12-23.md"
+    "2022-02/UP主做视频常用的强力技巧，你见过几个.md"
   ]
 }
