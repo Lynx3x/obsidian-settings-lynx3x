@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "4c37313f809280db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "b8a1a5347b6b4bf2",
             "type": "leaf",
             "state": {
@@ -39,27 +49,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "81f9c4dbc3c60273",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d076c52eaff2931",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2022-10/2022-10.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md"
+                "file": "global/【看板】通用.md"
               }
             }
           }
@@ -202,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
+                "file": "global/【看板】通用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,8 +237,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "81f9c4dbc3c60273",
+  "active": "4c37313f809280db",
   "lastOpenFiles": [
+    "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
+    "2022-10/2022-10.md",
     "global/【看板】通用.md",
     "2022-03/拆解游戏练习.md",
     "2022-02/如何进入游戏公司.md",
@@ -254,8 +248,6 @@
     "2022-02/关于心流.md",
     "2022-06/诱导性UI设计.md",
     "2022-07/【策划案】暗图.md",
-    "2022-07/【笔记】为何儿时的游戏更好玩.md",
-    "2022-07/JRPG吧 吧友评分.md",
-    "2022-03/【笔记】网课：福瑞入门.md"
+    "2022-07/【笔记】为何儿时的游戏更好玩.md"
   ]
 }
