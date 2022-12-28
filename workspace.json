@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "4c37313f809280db",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
             "id": "b8a1a5347b6b4bf2",
             "type": "leaf",
             "state": {
@@ -51,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +227,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4c37313f809280db",
+  "active": "932209b965be0ea5",
   "lastOpenFiles": [
     "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
     "2022-10/2022-10.md",
