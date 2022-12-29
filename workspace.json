@@ -21,9 +21,12 @@
             "id": "932209b965be0ea5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-12/最终痴汉电车3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -97,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "电车",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "2022-12/最终痴汉电车3.md"
               }
             }
           }
@@ -184,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "2022-12/最终痴汉电车3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,9 +232,9 @@
   },
   "active": "932209b965be0ea5",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
     "2022-10/2022-10.md",
-    "global/【看板】通用.md",
     "2022-03/拆解游戏练习.md",
     "2022-02/如何进入游戏公司.md",
     "2022-03/C++学习路线.md",
