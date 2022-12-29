@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
+                "file": "2022-03/装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "注",
+                "query": "tag:#工具/Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md"
+                "file": "2022-03/装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md"
               }
             }
           }
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluginTestingFiles/DataviewTest.md",
+                "file": "2022-03/装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,17 +220,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ea4856c3e32dcc07",
+  "active": "b8a1a5347b6b4bf2",
   "lastOpenFiles": [
-    "2022-07/Ob新增标注块功能.md",
     "pluginTestingFiles/DataviewTest.md",
+    "2022-12/Obsidian分栏实现.md",
+    "2022-07/Ob新增标注块功能.md",
     "2022-10/Dataview经验.md",
     "2022-10/工作流流向与项目分类思考.excalidraw.md",
     "2022-12/最终痴汉电车3.md",
     "global/【看板】通用.md",
-    "2022-03/【笔记】装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
+    "2022-03/装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
     "2022-10/2022-10.md",
-    "2022-03/拆解游戏练习.md",
-    "2022-02/如何进入游戏公司.md"
+    "2022-03/拆解游戏练习.md"
   ]
 }
