@@ -24,9 +24,15 @@
             "id": "b8a1a5347b6b4bf2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -115,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "a470ba3a58289b19",
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/【看板】通用.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -173,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/【看板】通用.md",
+                "file": "未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,8 +223,8 @@
   },
   "active": "b8a1a5347b6b4bf2",
   "lastOpenFiles": [
-    "2022-06/个人博客搭建笔记ver2022.md",
     "global/【看板】通用.md",
+    "2022-06/个人博客搭建笔记ver2022.md",
     "2022-02/2022年度计划.md",
     "2022-03/装了啥？看片、杀毒、效率办公……这 34 款 Windows 应用，每一款都是神器.md",
     "pluginTestingFiles/DataviewTest.md",
