@@ -11,8 +11,13 @@
             "id": "4657152a4e7a7304",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022-06/个人博客搭建笔记ver2022.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-06/个人博客搭建笔记ver2022.md"
+              }
             }
           }
         ]
@@ -155,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-06/个人博客搭建笔记ver2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +206,9 @@
   },
   "active": "4657152a4e7a7304",
   "lastOpenFiles": [
+    "global/【看板】通用.md",
     "pluginTestingFiles/DataviewTest.md",
     "2022-06/个人博客搭建笔记ver2022.md",
-    "global/【看板】通用.md",
     "global/任务管理.md",
     "2022-12/戴森球计划.md",
     "2022-06/牛奶挑选.md",
