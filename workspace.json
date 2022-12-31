@@ -16,7 +16,7 @@
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
                   "x": 231.50562347188273,
-                  "y": 175.7876120619397,
+                  "y": 53.39445802770989,
                   "zoom": -0.39622024293024294,
                   "snapToGrid": false
                 }
@@ -228,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,12 +249,12 @@
   },
   "active": "f707ed2d8cd91064",
   "lastOpenFiles": [
+    "2023-01/2022复盘暨2023展望.canvas",
+    "2022-02/2022年度计划.md",
     "2023-01/Obsidian EasyTyping插件.md",
     "diary/2023-01-01.md",
     "2022-10/2022-10.md",
     "2022-09/Splatoon3打工经验整理.md",
-    "2022-02/2022年度计划.md",
-    "2023-01/2022复盘暨2023展望.canvas",
     "2023-01/Splatoon.md",
     "2022-03/工作所需专业基础.md",
     "2023-01/x.md",
