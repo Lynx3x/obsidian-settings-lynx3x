@@ -1,6 +1,13 @@
 {
-  "pluginList": [],
-  "pluginSubListFrozenVersion": [],
+  "pluginList": [
+    "Stardusten/ob-table-enhancer"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Stardusten/ob-table-enhancer",
+      "version": "0.3.3-alpha"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": false,
   "updateThemesAtStartup": false,
