@@ -15,9 +15,9 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": 47.25786471067653,
-                  "y": 178.4197229013855,
-                  "zoom": -0.39622024293024294,
+                  "x": -11,
+                  "y": 341,
+                  "zoom": -0.6742455159407901,
                   "snapToGrid": false
                 }
               }
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2023-01/2022复盘暨2023展望.canvas"
               }
             }
           }
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2023-01/2022复盘暨2023展望.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,12 +261,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f707ed2d8cd91064",
+  "active": "6f78548ab195abfd",
   "lastOpenFiles": [
-    "2023-01/2022复盘暨2023展望.canvas",
-    "2022-02/2022年度计划.md",
-    "2022-01/关于日程管理.md",
     "2022-01/新的一年我为什么不做语言学习计划了.md",
+    "2022-02/2022年度计划.md",
+    "2023-01/2022复盘暨2023展望.canvas",
+    "2022-01/关于日程管理.md",
     "2023-01/Obsidian EasyTyping插件.md",
     "diary/2023-01-01.md",
     "diary/2022-12-31.md",
