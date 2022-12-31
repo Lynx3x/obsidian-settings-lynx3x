@@ -15,8 +15,8 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": 231.50562347188273,
-                  "y": 53.39445802770989,
+                  "x": 280.1996740016301,
+                  "y": -18.98859005704972,
                   "zoom": -0.39622024293024294,
                   "snapToGrid": false
                 }
@@ -36,6 +36,19 @@
               "type": "markdown",
               "state": {
                 "file": "2022-02/2022年度计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcff4f038ba53d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-01/新的一年我为什么不做语言学习计划了.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2023-01/2022复盘暨2023展望.canvas"
               }
             }
           }
@@ -205,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2023-01/2022复盘暨2023展望.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,17 +261,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f707ed2d8cd91064",
+  "active": "6f78548ab195abfd",
   "lastOpenFiles": [
-    "2023-01/2022复盘暨2023展望.canvas",
     "2022-02/2022年度计划.md",
+    "2023-01/2022复盘暨2023展望.canvas",
+    "2022-02/OKR.md",
+    "2022-01/新的一年我为什么不做语言学习计划了.md",
     "2023-01/Obsidian EasyTyping插件.md",
     "diary/2023-01-01.md",
     "2022-10/2022-10.md",
     "2022-09/Splatoon3打工经验整理.md",
     "2023-01/Splatoon.md",
-    "2022-03/工作所需专业基础.md",
-    "2023-01/x.md",
-    "diary/2022-12-31.md"
+    "2022-03/工作所需专业基础.md"
   ]
 }
