@@ -35,9 +35,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2eb132caeadf8d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pluginTestingFiles/DataviewTest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2de79f261332fa81",
@@ -63,19 +76,6 @@
               "type": "kanban",
               "state": {
                 "file": "2022-01/2022-01.md"
-              }
-            }
-          },
-          {
-            "id": "2050f1c8e4ba8883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-02/零基础学法文三个月（任何外语都适用的自学方法）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           },
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/零基础学法文三个月（任何外语都适用的自学方法）.md"
+                "file": "2022-01/2022-01.md"
               }
             }
           }
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/零基础学法文三个月（任何外语都适用的自学方法）.md",
+                "file": "2022-01/2022-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,17 +297,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2050f1c8e4ba8883",
+  "active": "dbd9d14609829d9b",
   "lastOpenFiles": [
-    "2022-01/2022-01.md",
+    "2023-01/多语者告诉你学会一门语言需要多久.md",
+    "pluginTestingFiles/DataviewTest.md",
     "2022-01/新的一年我为什么不做语言学习计划了.md",
+    "2022-01/2022-01.md",
+    "2022-02/零基础学法文三个月（任何外语都适用的自学方法）.md",
     "2022-02/2022年度计划.md",
     "diary/2022-12-31.md",
     "diary/2023-01-01.md",
     "global/【看板】通用.md",
-    "2023-01/2022复盘暨2023展望.canvas",
-    "2022-01/关于日程管理.md",
-    "2023-01/Obsidian EasyTyping插件.md",
-    "2022-02/OKR.md"
+    "2023-01/2022复盘暨2023展望.canvas"
   ]
 }
