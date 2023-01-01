@@ -16,8 +16,8 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": -294.52393282941296,
-                  "y": 116.506613441637,
+                  "x": 298.6496795239572,
+                  "y": 507.2415361977208,
                   "zoom": -0.34091218260745676,
                   "snapToGrid": false
                 }
@@ -51,6 +51,19 @@
               "type": "markdown",
               "state": {
                 "file": "2022-02/2022年度计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db5025f7f9f823f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2022-11-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022-02.md"
+                "file": "2023-01/2022复盘暨2023展望.canvas"
               }
             }
           }
@@ -244,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022-02.md",
+                "file": "2023-01/2022复盘暨2023展望.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,17 +298,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "28adefffd1edfa75",
+  "active": "6f78548ab195abfd",
   "lastOpenFiles": [
+    "global/任务管理.md",
     "2023-01/2022复盘暨2023展望.canvas",
-    "2022-02/2022-02.md",
+    "2023-01/任务优先级.md",
+    "diary/2022-12-16.md",
+    "diary/2022-11-11.md",
     "2022-02/2022年度计划.md",
+    "2022-02/2022-02.md",
     "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md",
     "2023-01/Obsidian EasyTyping插件.md",
-    "2023-01/任务优先级.md",
-    "2022-03/人格梳理.md",
-    "2022-01/2022-01.md",
-    "diary/2022-12-31.md",
-    "pluginTestingFiles/DataviewTest.md"
+    "2022-03/人格梳理.md"
   ]
 }
