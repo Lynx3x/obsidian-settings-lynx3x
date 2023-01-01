@@ -22,8 +22,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "3b9feabefb94caa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-01/2022-01.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2de79f261332fa81",
@@ -39,6 +53,16 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd9d14609829d9b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2022-01/2022-01.md"
               }
             }
           },
@@ -67,9 +91,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f6fd9942bb07720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2022-12-31.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,15 +300,15 @@
   },
   "active": "bcff4f038ba53d07",
   "lastOpenFiles": [
-    "2023-01/2022复盘暨2023展望.canvas",
-    "2022-01/新的一年我为什么不做语言学习计划了.md",
     "2022-02/2022年度计划.md",
+    "2022-01/2022-01.md",
+    "diary/2022-12-31.md",
+    "2022-01/新的一年我为什么不做语言学习计划了.md",
+    "diary/2023-01-01.md",
+    "global/【看板】通用.md",
+    "2023-01/2022复盘暨2023展望.canvas",
     "2022-01/关于日程管理.md",
     "2023-01/Obsidian EasyTyping插件.md",
-    "diary/2023-01-01.md",
-    "diary/2022-12-31.md",
-    "2022-02/OKR.md",
-    "2022-10/2022-10.md",
-    "2022-09/Splatoon3打工经验整理.md"
+    "2022-02/OKR.md"
   ]
 }
