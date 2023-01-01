@@ -16,9 +16,9 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": -159.51742514846785,
-                  "y": 192.65128976993554,
-                  "zoom": -0.6742455159407901,
+                  "x": -294.52393282941296,
+                  "y": 116.506613441637,
+                  "zoom": -0.34091218260745676,
                   "snapToGrid": false
                 }
               },
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas"
+                "file": "2022-02/2022-02.md"
               }
             }
           }
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas",
+                "file": "2022-02/2022-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,11 +286,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6f78548ab195abfd",
+  "active": "28adefffd1edfa75",
   "lastOpenFiles": [
+    "2023-01/2022复盘暨2023展望.canvas",
     "2022-02/2022-02.md",
     "2022-02/2022年度计划.md",
-    "2023-01/2022复盘暨2023展望.canvas",
     "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md",
     "2023-01/Obsidian EasyTyping插件.md",
     "2023-01/任务优先级.md",
