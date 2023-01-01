@@ -6,7 +6,7 @@
       {
         "id": "f4efb5b75c61c7b6",
         "type": "tabs",
-        "dimension": 51.52065365410804,
+        "dimension": 57.64866091693146,
         "children": [
           {
             "id": "6f78548ab195abfd",
@@ -17,9 +17,9 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": 648.4384853512668,
-                  "y": -46.95514160308521,
-                  "zoom": 0.13479427858654802,
+                  "x": 715.4605167335762,
+                  "y": 359.243547670192,
+                  "zoom": -0.8652057214134519,
                   "snapToGrid": false
                 }
               },
@@ -44,7 +44,7 @@
       {
         "id": "2de79f261332fa81",
         "type": "tabs",
-        "dimension": 48.47934634589197,
+        "dimension": 42.351339083068545,
         "children": [
           {
             "id": "f707ed2d8cd91064",
@@ -60,12 +60,15 @@
             }
           },
           {
-            "id": "28adefffd1edfa75",
+            "id": "648e907c90b37b50",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2022-02/2022-02.md"
+                "file": "2022-02/复盘2021计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -108,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas"
+                "file": "2022-02/2022年度计划.md"
               }
             }
           }
@@ -259,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas",
+                "file": "2022-02/2022年度计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,17 +303,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6f78548ab195abfd",
+  "active": "f707ed2d8cd91064",
   "lastOpenFiles": [
-    "2023-01/任务优先级.md",
+    "2022-02/复盘2021计划.md",
+    "2022-02/2022年度计划.md",
     "2023-01/2022复盘暨2023展望.canvas",
     "2022-02/2022-02.md",
+    "2023-01/任务优先级.md",
     "global/任务管理.md",
     "diary/2023-01-01.md",
-    "2022-02/2022年度计划.md",
     "diary/2022-11-11.md",
     "diary/2022-12-16.md",
-    "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md",
-    "2023-01/Obsidian EasyTyping插件.md"
+    "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md"
   ]
 }
