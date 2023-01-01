@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "495cf66c6b36da7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01/缺氧.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c8a14c010c2dd459",
             "type": "leaf",
             "state": {
@@ -124,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas"
+                "file": "2023-01/缺氧.md"
               }
             }
           }
@@ -274,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01/2022复盘暨2023展望.canvas",
+                "file": "2023-01/缺氧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +330,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6f78548ab195abfd",
+  "active": "495cf66c6b36da7a",
   "lastOpenFiles": [
     "2022-02/2022年度计划.md",
     "2023-01/2022复盘暨2023展望.canvas",
