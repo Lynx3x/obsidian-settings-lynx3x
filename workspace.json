@@ -16,8 +16,8 @@
               "state": {
                 "file": "2023-01/2022复盘暨2023展望.canvas",
                 "viewState": {
-                  "x": 478.7873833274896,
-                  "y": 34.670849672136114,
+                  "x": -159.51742514846785,
+                  "y": 192.65128976993554,
                   "zoom": -0.6742455159407901,
                   "snapToGrid": false
                 }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022-02.md"
+                "file": "2023-01/2022复盘暨2023展望.canvas"
               }
             }
           }
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022-02.md",
+                "file": "2023-01/2022复盘暨2023展望.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,15 +286,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "28adefffd1edfa75",
+  "active": "6f78548ab195abfd",
   "lastOpenFiles": [
+    "2022-02/2022-02.md",
+    "2022-02/2022年度计划.md",
     "2023-01/2022复盘暨2023展望.canvas",
+    "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md",
+    "2023-01/Obsidian EasyTyping插件.md",
     "2023-01/任务优先级.md",
     "2022-03/人格梳理.md",
-    "2022-02/2022-02.md",
-    "2023-01/Obsidian EasyTyping插件.md",
-    "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md",
-    "2022-02/2022年度计划.md",
     "2022-01/2022-01.md",
     "diary/2022-12-31.md",
     "pluginTestingFiles/DataviewTest.md"
