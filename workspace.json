@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "c8a14c010c2dd459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-01/关于日程管理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "648e907c90b37b50",
             "type": "leaf",
             "state": {
@@ -111,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-02/2022年度计划.md"
+                "file": "2022-01/关于日程管理.md"
               }
             }
           }
@@ -261,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02/2022年度计划.md",
+                "file": "2022-01/关于日程管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,10 +317,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f707ed2d8cd91064",
+  "active": "c8a14c010c2dd459",
   "lastOpenFiles": [
-    "2022-02/复盘2021计划.md",
     "2022-02/2022年度计划.md",
+    "2022-02/复盘2021计划.md",
     "2023-01/2022复盘暨2023展望.canvas",
     "2022-02/2022-02.md",
     "2023-01/任务优先级.md",
