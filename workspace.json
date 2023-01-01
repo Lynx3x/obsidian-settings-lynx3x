@@ -38,8 +38,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e165cb358f9f74e9",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2de79f261332fa81",
@@ -270,9 +279,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-01/缺氧.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -288,7 +295,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01/缺氧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,8 +336,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "495cf66c6b36da7a",
+  "active": "e165cb358f9f74e9",
   "lastOpenFiles": [
+    "2023-01/缺氧.md",
     "2022-02/2022年度计划.md",
     "2023-01/2022复盘暨2023展望.canvas",
     "2022-01/数据分析师的思维是如何练出来的？.md",
@@ -340,7 +347,6 @@
     "2023-01/任务优先级.md",
     "global/任务管理.md",
     "diary/2023-01-01.md",
-    "diary/2022-11-11.md",
-    "diary/2022-12-16.md"
+    "diary/2022-11-11.md"
   ]
 }
