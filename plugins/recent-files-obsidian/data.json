@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-01-02",
+      "path": "diary/2023-01-02.md"
+    },
+    {
+      "basename": "2022复盘暨2023展望",
+      "path": "2023-01/2022复盘暨2023展望.canvas"
+    },
+    {
       "basename": "Obsidian EasyTyping插件",
       "path": "2023-01/Obsidian EasyTyping插件.md"
     },
@@ -13,10 +21,6 @@
       "path": "2022-03/关于游戏的信仰-Jonathan blow的创作哲学.md"
     },
     {
-      "basename": "2022复盘暨2023展望",
-      "path": "2023-01/2022复盘暨2023展望.canvas"
-    },
-    {
       "basename": "DataviewTest",
       "path": "pluginTestingFiles/DataviewTest.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "任务管理",
       "path": "global/任务管理.md"
-    },
-    {
-      "basename": "2023-01-02",
-      "path": "diary/2023-01-02.md"
     },
     {
       "basename": "2022-12-04",
