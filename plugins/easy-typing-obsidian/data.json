@@ -35,14 +35,26 @@
   ],
   "userDeleteRulesStrList": [
     [
-      "demo|",
+      "- |",
       "|"
+    ],
+    [
+      "- [ ] |",
+      "- |"
     ]
   ],
   "userConvertRulesStrList": [
     [
       ":)|",
       "😀|"
+    ],
+    [
+      "->|",
+      " →| "
+    ],
+    [
+      "-》》|",
+      " →| "
     ]
   ],
   "userSelRuleSettingsOpen": true,
